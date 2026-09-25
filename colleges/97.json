@@ -1,0 +1,13 @@
+{
+  "id": 97,
+  "name": "University of Oregon",
+  "short_name": "UO",
+  "city": "Eugene",
+  "state": "OR",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uoregon.edu",
+  "mascot": "Ducks",
+  "description": "Oregon's flagship public university, in Eugene. It is known for journalism, business, and its Nike-backed athletics."
+}

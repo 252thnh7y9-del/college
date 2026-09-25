@@ -1,0 +1,12 @@
+{
+  "id": 38,
+  "name": "Texas State University",
+  "city": "San Marcos",
+  "state": "TX",
+  "undergraduates": 33000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.txst.edu",
+  "mascot": "Bobcats",
+  "description": "A public research university in San Marcos, between Austin and San Antonio. It is one of the largest universities in Texas."
+}

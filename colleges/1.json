@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Southern New Hampshire University",
+  "short_name": "SNHU",
+  "city": "Manchester",
+  "state": "NH",
+  "undergraduates": 130000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.snhu.edu",
+  "mascot": "Penmen",
+  "description": "A private nonprofit university in Manchester, New Hampshire, best known for its very large online programs. It also runs a traditional residential campus."
+}

@@ -1,0 +1,12 @@
+{
+  "id": 123,
+  "name": "Vanderbilt University",
+  "city": "Nashville",
+  "state": "TN",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.vanderbilt.edu",
+  "mascot": "Commodores",
+  "description": "A private research university in Nashville, Tennessee. It is known for education, medicine, and engineering."
+}

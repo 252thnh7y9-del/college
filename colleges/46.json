@@ -1,0 +1,13 @@
+{
+  "id": 46,
+  "name": "University of California, Davis",
+  "short_name": "UC Davis",
+  "city": "Davis",
+  "state": "CA",
+  "undergraduates": 32000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ucdavis.edu",
+  "mascot": "Aggies",
+  "description": "A public research university in Davis, California. It is known worldwide for agriculture, veterinary medicine, and environmental science."
+}

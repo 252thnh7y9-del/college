@@ -1,0 +1,12 @@
+{
+  "id": 52,
+  "name": "Oregon State University",
+  "city": "Corvallis",
+  "state": "OR",
+  "undergraduates": 30000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://oregonstate.edu",
+  "mascot": "Beavers",
+  "description": "A public land-, sea-, space-, and sun-grant research university in Corvallis. It is known for forestry, engineering, and ocean science."
+}

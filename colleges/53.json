@@ -1,0 +1,13 @@
+{
+  "id": 53,
+  "name": "University of Cincinnati",
+  "short_name": "UC",
+  "city": "Cincinnati",
+  "state": "OH",
+  "undergraduates": 30000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uc.edu",
+  "mascot": "Bearcats",
+  "description": "A public research university in Cincinnati. It pioneered cooperative education, in which students alternate classes with paid work."
+}

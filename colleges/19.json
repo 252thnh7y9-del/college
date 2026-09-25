@@ -1,0 +1,13 @@
+{
+  "id": 19,
+  "name": "Kennesaw State University",
+  "short_name": "KSU",
+  "city": "Kennesaw",
+  "state": "GA",
+  "undergraduates": 40000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.kennesaw.edu",
+  "mascot": "Owls",
+  "description": "A public university in the northern Atlanta suburbs with campuses in Kennesaw and Marietta. It is one of the largest universities in Georgia."
+}

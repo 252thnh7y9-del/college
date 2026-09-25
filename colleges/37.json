@@ -1,0 +1,12 @@
+{
+  "id": 37,
+  "name": "Purdue University Global",
+  "short_name": "Purdue Global",
+  "city": "West Lafayette",
+  "state": "IN",
+  "undergraduates": 33000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.purdueglobal.edu",
+  "description": "An online public university for adult learners that is part of the Purdue University system. It was formerly Kaplan University."
+}

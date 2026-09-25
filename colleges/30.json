@@ -1,0 +1,13 @@
+{
+  "id": 30,
+  "name": "California State University, Fullerton",
+  "short_name": "CSUF",
+  "city": "Fullerton",
+  "state": "CA",
+  "undergraduates": 36000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.fullerton.edu",
+  "mascot": "Titans",
+  "description": "A public university in Orange County and one of the largest campuses in the California State University system. It is known for business, communications, and the arts."
+}

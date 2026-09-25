@@ -1,0 +1,12 @@
+{
+  "id": 74,
+  "name": "Temple University",
+  "city": "Philadelphia",
+  "state": "PA",
+  "undergraduates": 24000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.temple.edu",
+  "mascot": "Owls",
+  "description": "A public research university in North Philadelphia. It is known for its business, law, and medical schools."
+}

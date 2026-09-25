@@ -1,0 +1,13 @@
+{
+  "id": 102,
+  "name": "University of North Carolina at Chapel Hill",
+  "short_name": "UNC",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "undergraduates": 20000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.unc.edu",
+  "mascot": "Tar Heels",
+  "description": "A public research university in Chapel Hill and the first public university in the country to hold classes, in 1795. It is known for journalism, public health, and business."
+}

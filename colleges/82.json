@@ -1,0 +1,12 @@
+{
+  "id": 82,
+  "name": "Georgia Southern University",
+  "city": "Statesboro",
+  "state": "GA",
+  "undergraduates": 23000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.georgiasouthern.edu",
+  "mascot": "Eagles",
+  "description": "A public university with campuses in Statesboro, Savannah, and Hinesville, Georgia. It is known for business and engineering."
+}

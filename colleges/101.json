@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "name": "Northeastern University",
+  "city": "Boston",
+  "state": "MA",
+  "undergraduates": 20000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.northeastern.edu",
+  "mascot": "Huskies",
+  "description": "A private research university in Boston. It is known for its co-op program, in which students alternate study with full-time jobs."
+}

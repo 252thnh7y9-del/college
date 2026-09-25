@@ -1,0 +1,13 @@
+{
+  "id": 80,
+  "name": "Utah State University",
+  "short_name": "USU",
+  "city": "Logan",
+  "state": "UT",
+  "undergraduates": 24000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.usu.edu",
+  "mascot": "Aggies",
+  "description": "Utah's land-grant university, based in Logan with campuses across the state. It is known for agriculture, engineering, and space research."
+}

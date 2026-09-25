@@ -1,0 +1,13 @@
+{
+  "id": 24,
+  "name": "University of Minnesota Twin Cities",
+  "short_name": "UMN",
+  "city": "Minneapolis",
+  "state": "MN",
+  "undergraduates": 38000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://twin-cities.umn.edu",
+  "mascot": "Golden Gophers",
+  "description": "The flagship campus of the University of Minnesota, spanning Minneapolis and St. Paul. It is a major public research university with strong medical and engineering programs."
+}

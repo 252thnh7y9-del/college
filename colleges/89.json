@@ -1,0 +1,12 @@
+{
+  "id": 89,
+  "name": "University of Arizona Global Campus",
+  "short_name": "UAGC",
+  "city": "Chandler",
+  "state": "AZ",
+  "undergraduates": 22000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uagc.edu",
+  "description": "An online university for adult learners, formerly Ashford University. It offers bachelor's and graduate degrees designed for working adults."
+}

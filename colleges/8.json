@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "name": "Arizona State University Online",
+  "short_name": "ASU Online",
+  "city": "Tempe",
+  "state": "AZ",
+  "undergraduates": 50000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://asuonline.asu.edu",
+  "mascot": "Sun Devils",
+  "description": "Arizona State University's online division, which offers many of the same degrees as ASU's campuses. Courses are taught by ASU faculty."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 18,
+  "name": "University of Arizona",
+  "short_name": "UArizona",
+  "city": "Tucson",
+  "state": "AZ",
+  "undergraduates": 41000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.arizona.edu",
+  "mascot": "Wildcats",
+  "description": "A public land-grant research university in Tucson. It is especially strong in astronomy, space science, and optics."
+}

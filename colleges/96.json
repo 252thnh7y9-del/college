@@ -1,0 +1,13 @@
+{
+  "id": 96,
+  "name": "University at Buffalo",
+  "short_name": "UB",
+  "city": "Buffalo",
+  "state": "NY",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.buffalo.edu",
+  "mascot": "Bulls",
+  "description": "The largest public university in the State University of New York (SUNY) system. It is a research university known for engineering, medicine, and pharmacy."
+}

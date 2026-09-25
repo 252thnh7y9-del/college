@@ -1,0 +1,13 @@
+{
+  "id": 115,
+  "name": "University of Chicago",
+  "short_name": "UChicago",
+  "city": "Chicago",
+  "state": "IL",
+  "undergraduates": 8000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uchicago.edu",
+  "mascot": "Maroons",
+  "description": "A private research university in Chicago's Hyde Park neighborhood. It is known for economics, its demanding Core curriculum, and its intellectual culture."
+}

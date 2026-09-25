@@ -1,0 +1,13 @@
+{
+  "id": 60,
+  "name": "California State University, Sacramento",
+  "short_name": "Sac State",
+  "city": "Sacramento",
+  "state": "CA",
+  "undergraduates": 28000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.csus.edu",
+  "mascot": "Hornets",
+  "description": "A public university in California's capital and part of the California State University system. Many students go on to work in state government."
+}

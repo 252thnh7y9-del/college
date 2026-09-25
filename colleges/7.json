@@ -1,0 +1,13 @@
+{
+  "id": 7,
+  "name": "Texas A&M University",
+  "short_name": "TAMU",
+  "city": "College Station",
+  "state": "TX",
+  "undergraduates": 59000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.tamu.edu",
+  "mascot": "Aggies",
+  "description": "A public land-, sea-, and space-grant research university in College Station. It is known for engineering, agriculture, its Corps of Cadets, and strong campus traditions."
+}

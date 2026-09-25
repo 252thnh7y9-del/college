@@ -1,0 +1,12 @@
+{
+  "id": 128,
+  "name": "Rice University",
+  "city": "Houston",
+  "state": "TX",
+  "undergraduates": 5000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.rice.edu",
+  "mascot": "Owls",
+  "description": "A private research university in Houston. It is known for its small residential college system and strong science and engineering programs."
+}

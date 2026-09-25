@@ -1,0 +1,13 @@
+{
+  "id": 99,
+  "name": "The University of Texas at Dallas",
+  "short_name": "UT Dallas",
+  "city": "Richardson",
+  "state": "TX",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.utdallas.edu",
+  "mascot": "Comets",
+  "description": "A public research university in Richardson, north of Dallas. It is known for engineering, computer science, and business."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 51,
+  "name": "University of Maryland, College Park",
+  "short_name": "UMD",
+  "city": "College Park",
+  "state": "MD",
+  "undergraduates": 31000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://umd.edu",
+  "mascot": "Terrapins",
+  "description": "Maryland's flagship public university, in College Park near Washington, D.C. It is known for computer science, engineering, and business."
+}

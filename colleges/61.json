@@ -1,0 +1,13 @@
+{
+  "id": 61,
+  "name": "George Mason University",
+  "short_name": "GMU",
+  "city": "Fairfax",
+  "state": "VA",
+  "undergraduates": 28000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.gmu.edu",
+  "mascot": "Patriots",
+  "description": "Virginia's largest public university, based in Fairfax near Washington, D.C. It is known for economics, public policy, and cybersecurity."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 83,
+  "name": "Northern Arizona University",
+  "short_name": "NAU",
+  "city": "Flagstaff",
+  "state": "AZ",
+  "undergraduates": 23000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://nau.edu",
+  "mascot": "Lumberjacks",
+  "description": "A public university in Flagstaff, Arizona, with sites across the state. It is known for forestry, education, and hotel management."
+}

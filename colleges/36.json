@@ -1,0 +1,13 @@
+{
+  "id": 36,
+  "name": "California State University, Northridge",
+  "short_name": "CSUN",
+  "city": "Los Angeles",
+  "state": "CA",
+  "undergraduates": 33000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.csun.edu",
+  "mascot": "Matadors",
+  "description": "A public university in the San Fernando Valley of Los Angeles. It is known for deaf studies, music, and engineering."
+}

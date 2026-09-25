@@ -1,0 +1,13 @@
+{
+  "id": 29,
+  "name": "University of Wisconsin–Madison",
+  "short_name": "UW–Madison",
+  "city": "Madison",
+  "state": "WI",
+  "undergraduates": 37000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.wisc.edu",
+  "mascot": "Badgers",
+  "description": "Wisconsin's flagship public research university, set between two lakes in Madison. It is known for research across the sciences and a lively campus culture."
+}

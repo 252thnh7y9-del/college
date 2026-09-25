@@ -1,0 +1,13 @@
+{
+  "id": 49,
+  "name": "University of Colorado Boulder",
+  "short_name": "CU Boulder",
+  "city": "Boulder",
+  "state": "CO",
+  "undergraduates": 31000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.colorado.edu",
+  "mascot": "Buffaloes",
+  "description": "The flagship of the University of Colorado system, at the foot of the Rocky Mountains. It is known for aerospace engineering, physics, and environmental science."
+}

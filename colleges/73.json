@@ -1,0 +1,13 @@
+{
+  "id": 73,
+  "name": "University of Nevada, Las Vegas",
+  "short_name": "UNLV",
+  "city": "Las Vegas",
+  "state": "NV",
+  "undergraduates": 25000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.unlv.edu",
+  "mascot": "Rebels",
+  "description": "A public research university in Las Vegas. It is known for its hospitality program."
+}

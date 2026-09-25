@@ -1,0 +1,13 @@
+{
+  "id": 93,
+  "name": "California State University, Fresno",
+  "short_name": "Fresno State",
+  "city": "Fresno",
+  "state": "CA",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.fresnostate.edu",
+  "mascot": "Bulldogs",
+  "description": "A public university in California's Central Valley and part of the California State University system. It is known for agriculture and viticulture."
+}

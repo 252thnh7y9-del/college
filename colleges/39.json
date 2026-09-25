@@ -1,0 +1,13 @@
+{
+  "id": 39,
+  "name": "Texas Tech University",
+  "short_name": "TTU",
+  "city": "Lubbock",
+  "state": "TX",
+  "undergraduates": 33000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ttu.edu",
+  "mascot": "Red Raiders",
+  "description": "A public research university in Lubbock, Texas. It has one of the largest contiguous campuses in the country."
+}

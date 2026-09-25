@@ -1,0 +1,13 @@
+{
+  "id": 45,
+  "name": "San Diego State University",
+  "short_name": "SDSU",
+  "city": "San Diego",
+  "state": "CA",
+  "undergraduates": 32000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.sdsu.edu",
+  "mascot": "Aztecs",
+  "description": "A public research university in San Diego and part of the California State University system. It is known for business, engineering, and international programs."
+}

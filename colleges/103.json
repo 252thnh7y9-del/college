@@ -1,0 +1,13 @@
+{
+  "id": 103,
+  "name": "Boston University",
+  "short_name": "BU",
+  "city": "Boston",
+  "state": "MA",
+  "undergraduates": 18000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.bu.edu",
+  "mascot": "Terriers",
+  "description": "A private research university along the Charles River in Boston. It is known for communications, medicine, and law."
+}

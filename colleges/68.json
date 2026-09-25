@@ -1,0 +1,12 @@
+{
+  "id": 68,
+  "name": "University of Arkansas",
+  "city": "Fayetteville",
+  "state": "AR",
+  "undergraduates": 26000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uark.edu",
+  "mascot": "Razorbacks",
+  "description": "Arkansas's flagship public university, in Fayetteville. It is known for business, engineering, and agriculture."
+}

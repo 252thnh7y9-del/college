@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "name": "University of Washington",
+  "short_name": "UW",
+  "city": "Seattle",
+  "state": "WA",
+  "undergraduates": 37000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.washington.edu",
+  "mascot": "Huskies",
+  "description": "A public research university in Seattle. It is a leader in medicine, computer science, and federal research funding."
+}

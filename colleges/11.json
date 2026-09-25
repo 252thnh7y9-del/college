@@ -1,0 +1,13 @@
+{
+  "id": 11,
+  "name": "The Ohio State University",
+  "short_name": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "undergraduates": 46000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.osu.edu",
+  "mascot": "Buckeyes",
+  "description": "Ohio's flagship public research university, in Columbus. It offers an unusually wide range of programs and competes in the Big Ten."
+}

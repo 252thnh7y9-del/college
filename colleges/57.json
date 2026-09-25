@@ -1,0 +1,13 @@
+{
+  "id": 57,
+  "name": "Virginia Tech",
+  "short_name": "VT",
+  "city": "Blacksburg",
+  "state": "VA",
+  "undergraduates": 30000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.vt.edu",
+  "mascot": "Hokies",
+  "description": "Virginia's land-grant university, in Blacksburg. It is known for engineering and its Corps of Cadets."
+}

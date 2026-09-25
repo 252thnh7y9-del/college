@@ -1,0 +1,12 @@
+{
+  "id": 118,
+  "name": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://duke.edu",
+  "mascot": "Blue Devils",
+  "description": "A private research university in Durham, North Carolina. It is known for medicine, public policy, and its basketball program."
+}

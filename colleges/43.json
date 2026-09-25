@@ -1,0 +1,13 @@
+{
+  "id": 43,
+  "name": "University of California, San Diego",
+  "short_name": "UCSD",
+  "city": "San Diego",
+  "state": "CA",
+  "undergraduates": 33000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://ucsd.edu",
+  "mascot": "Tritons",
+  "description": "A public research university in La Jolla, San Diego. It is known for science, engineering, and the Scripps Institution of Oceanography."
+}

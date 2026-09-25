@@ -1,0 +1,12 @@
+{
+  "id": 86,
+  "name": "Boise State University",
+  "city": "Boise",
+  "state": "ID",
+  "undergraduates": 22000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.boisestate.edu",
+  "mascot": "Broncos",
+  "description": "Idaho's largest public university, in Boise. It is famous for its blue football field."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 42,
+  "name": "University of California, Los Angeles",
+  "short_name": "UCLA",
+  "city": "Los Angeles",
+  "state": "CA",
+  "undergraduates": 33000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ucla.edu",
+  "mascot": "Bruins",
+  "description": "A public research university in the Westwood neighborhood of Los Angeles. It is one of the most applied-to universities in the country."
+}

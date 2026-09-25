@@ -1,0 +1,13 @@
+{
+  "id": 47,
+  "name": "Brigham Young University",
+  "short_name": "BYU",
+  "city": "Provo",
+  "state": "UT",
+  "undergraduates": 31000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.byu.edu",
+  "mascot": "Cougars",
+  "description": "A private university in Provo, Utah, owned by The Church of Jesus Christ of Latter-day Saints. It is known for accounting and for its many multilingual students."
+}

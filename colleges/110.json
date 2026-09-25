@@ -1,0 +1,12 @@
+{
+  "id": 110,
+  "name": "Northwestern University",
+  "city": "Evanston",
+  "state": "IL",
+  "undergraduates": 9000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.northwestern.edu",
+  "mascot": "Wildcats",
+  "description": "A private research university on the shore of Lake Michigan in Evanston, Illinois. It is known for journalism, theater, and engineering."
+}

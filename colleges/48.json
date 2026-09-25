@@ -1,0 +1,13 @@
+{
+  "id": 48,
+  "name": "Louisiana State University",
+  "short_name": "LSU",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "undergraduates": 31000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.lsu.edu",
+  "mascot": "Tigers",
+  "description": "Louisiana's flagship public university, in Baton Rouge. It is known for engineering, coastal research, and its athletics."
+}

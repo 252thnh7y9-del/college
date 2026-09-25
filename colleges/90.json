@@ -1,0 +1,12 @@
+{
+  "id": 90,
+  "name": "University of Iowa",
+  "city": "Iowa City",
+  "state": "IA",
+  "undergraduates": 22000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://uiowa.edu",
+  "mascot": "Hawkeyes",
+  "description": "Iowa's flagship public university, in Iowa City. It is home to the famous Iowa Writers' Workshop and a major academic medical center."
+}

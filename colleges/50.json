@@ -1,0 +1,13 @@
+{
+  "id": 50,
+  "name": "University of Georgia",
+  "short_name": "UGA",
+  "city": "Athens",
+  "state": "GA",
+  "undergraduates": 31000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uga.edu",
+  "mascot": "Bulldogs",
+  "description": "A public research university in Athens and the first state-chartered public university in the country. It is known for agriculture, journalism, and business."
+}

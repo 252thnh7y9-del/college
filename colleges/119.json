@@ -1,0 +1,12 @@
+{
+  "id": 119,
+  "name": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.emory.edu",
+  "mascot": "Eagles",
+  "description": "A private research university in Atlanta, next to the Centers for Disease Control and Prevention. It is known for health sciences, public health, and business."
+}

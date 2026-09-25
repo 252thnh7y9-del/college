@@ -1,0 +1,13 @@
+{
+  "id": 98,
+  "name": "University of Southern California",
+  "short_name": "USC",
+  "city": "Los Angeles",
+  "state": "CA",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.usc.edu",
+  "mascot": "Trojans",
+  "description": "A private research university in Los Angeles. It is known for its film school and its large alumni network."
+}

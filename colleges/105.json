@@ -1,0 +1,13 @@
+{
+  "id": 105,
+  "name": "University of Virginia",
+  "short_name": "UVA",
+  "city": "Charlottesville",
+  "state": "VA",
+  "undergraduates": 17000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.virginia.edu",
+  "mascot": "Cavaliers",
+  "description": "A public research university in Charlottesville founded by Thomas Jefferson in 1819. It is known for its historic campus and strong programs in law, business, and the humanities."
+}

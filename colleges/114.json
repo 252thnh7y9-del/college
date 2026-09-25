@@ -1,0 +1,12 @@
+{
+  "id": 114,
+  "name": "Stanford University",
+  "city": "Stanford",
+  "state": "CA",
+  "undergraduates": 8000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.stanford.edu",
+  "mascot": "Cardinal",
+  "description": "A private research university in the heart of Silicon Valley. It is known for engineering, computer science, and entrepreneurship."
+}

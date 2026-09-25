@@ -1,0 +1,12 @@
+{
+  "id": 21,
+  "name": "Purdue University",
+  "city": "West Lafayette",
+  "state": "IN",
+  "undergraduates": 39000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.purdue.edu",
+  "mascot": "Boilermakers",
+  "description": "A public land-grant research university in West Lafayette, Indiana. It is renowned for engineering, aviation, and agriculture."
+}

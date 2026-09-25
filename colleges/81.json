@@ -1,0 +1,12 @@
+{
+  "id": 81,
+  "name": "Clemson University",
+  "city": "Clemson",
+  "state": "SC",
+  "undergraduates": 23000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.clemson.edu",
+  "mascot": "Tigers",
+  "description": "A public land-grant university in Clemson, South Carolina. It is known for engineering and its strong school spirit."
+}

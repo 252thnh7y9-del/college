@@ -1,0 +1,13 @@
+{
+  "id": 4,
+  "name": "Arizona State University",
+  "short_name": "ASU",
+  "city": "Tempe",
+  "state": "AZ",
+  "undergraduates": 65000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.asu.edu",
+  "mascot": "Sun Devils",
+  "description": "A large public research university with its main campus in Tempe. It is known for innovation and for having one of the largest on-campus student bodies in the country."
+}

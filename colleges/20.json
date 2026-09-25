@@ -1,0 +1,13 @@
+{
+  "id": 20,
+  "name": "Michigan State University",
+  "short_name": "MSU",
+  "city": "East Lansing",
+  "state": "MI",
+  "undergraduates": 40000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://msu.edu",
+  "mascot": "Spartans",
+  "description": "A public land-grant research university in East Lansing. It is known for agriculture, education, and supply chain management."
+}

@@ -1,0 +1,12 @@
+{
+  "id": 120,
+  "name": "Harvard University",
+  "city": "Cambridge",
+  "state": "MA",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.harvard.edu",
+  "mascot": "Crimson",
+  "description": "An Ivy League university in Cambridge, Massachusetts, founded in 1636. It is the oldest institution of higher learning in the United States."
+}

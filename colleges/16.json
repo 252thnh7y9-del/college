@@ -1,0 +1,13 @@
+{
+  "id": 16,
+  "name": "Pennsylvania State University–University Park",
+  "short_name": "Penn State",
+  "city": "University Park",
+  "state": "PA",
+  "undergraduates": 42000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.psu.edu",
+  "mascot": "Nittany Lions",
+  "description": "Pennsylvania's land-grant research university, with its flagship campus at University Park. It is known for engineering, business, and its large alumni network."
+}

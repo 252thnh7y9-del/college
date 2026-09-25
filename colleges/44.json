@@ -1,0 +1,13 @@
+{
+  "id": 44,
+  "name": "Florida State University",
+  "short_name": "FSU",
+  "city": "Tallahassee",
+  "state": "FL",
+  "undergraduates": 32000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.fsu.edu",
+  "mascot": "Seminoles",
+  "description": "A public research university in Tallahassee. It is known for film, music, and the National High Magnetic Field Laboratory."
+}

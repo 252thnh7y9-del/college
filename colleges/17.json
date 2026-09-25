@@ -1,0 +1,13 @@
+{
+  "id": 17,
+  "name": "The University of Texas at Austin",
+  "short_name": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "undergraduates": 42000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.utexas.edu",
+  "mascot": "Longhorns",
+  "description": "The flagship of the University of Texas System, located in the state capital. It is one of the top public research universities in the country."
+}

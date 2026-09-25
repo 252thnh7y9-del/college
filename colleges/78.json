@@ -1,0 +1,13 @@
+{
+  "id": 78,
+  "name": "University of North Carolina at Charlotte",
+  "short_name": "UNC Charlotte",
+  "city": "Charlotte",
+  "state": "NC",
+  "undergraduates": 24000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.charlotte.edu",
+  "mascot": "49ers",
+  "description": "A public research university in Charlotte, North Carolina's largest city. It is known for engineering, computing, and business."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 35,
+  "name": "University of Michigan",
+  "short_name": "UMich",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "undergraduates": 34000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://umich.edu",
+  "mascot": "Wolverines",
+  "description": "A public research university in Ann Arbor. It is consistently ranked among the top public universities in the country."
+}

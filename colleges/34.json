@@ -1,0 +1,13 @@
+{
+  "id": 34,
+  "name": "California State University, Long Beach",
+  "short_name": "CSULB",
+  "city": "Long Beach",
+  "state": "CA",
+  "undergraduates": 34000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.csulb.edu",
+  "mascot": "The Beach",
+  "description": "A public university in the California State University system, known by its nickname \"The Beach.\" It is recognized for engineering, business, and the arts."
+}

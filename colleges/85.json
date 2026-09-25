@@ -1,0 +1,13 @@
+{
+  "id": 85,
+  "name": "University of California, Santa Barbara",
+  "short_name": "UCSB",
+  "city": "Santa Barbara",
+  "state": "CA",
+  "undergraduates": 23000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ucsb.edu",
+  "mascot": "Gauchos",
+  "description": "A public research university on the Pacific coast near Santa Barbara. It is known for physics, materials science, and environmental science."
+}

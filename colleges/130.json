@@ -1,0 +1,13 @@
+{
+  "id": 130,
+  "name": "California Institute of Technology",
+  "short_name": "Caltech",
+  "city": "Pasadena",
+  "state": "CA",
+  "undergraduates": 1000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.caltech.edu",
+  "mascot": "Beavers",
+  "description": "A small science and engineering institute in Pasadena, California. It manages NASA's Jet Propulsion Laboratory."
+}

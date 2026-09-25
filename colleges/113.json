@@ -1,0 +1,12 @@
+{
+  "id": 113,
+  "name": "Georgetown University",
+  "city": "Washington",
+  "state": "DC",
+  "undergraduates": 8000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.georgetown.edu",
+  "mascot": "Hoyas",
+  "description": "The oldest Catholic and Jesuit university in the country, in Washington, D.C. It is known for its School of Foreign Service, law, and business."
+}

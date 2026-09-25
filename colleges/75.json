@@ -1,0 +1,13 @@
+{
+  "id": 75,
+  "name": "University of Kentucky",
+  "short_name": "UK",
+  "city": "Lexington",
+  "state": "KY",
+  "undergraduates": 24000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uky.edu",
+  "mascot": "Wildcats",
+  "description": "Kentucky's flagship land-grant university, in Lexington. It is known for its academic medical center and its basketball program."
+}

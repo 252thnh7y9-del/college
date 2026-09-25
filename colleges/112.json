@@ -1,0 +1,13 @@
+{
+  "id": 112,
+  "name": "Carnegie Mellon University",
+  "short_name": "CMU",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "undergraduates": 8000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.cmu.edu",
+  "mascot": "Tartans",
+  "description": "A private research university in Pittsburgh. It is a leader in computer science, robotics, and drama."
+}

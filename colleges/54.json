@@ -1,0 +1,13 @@
+{
+  "id": 54,
+  "name": "University of Tennessee, Knoxville",
+  "short_name": "UTK",
+  "city": "Knoxville",
+  "state": "TN",
+  "undergraduates": 30000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.utk.edu",
+  "mascot": "Volunteers",
+  "description": "The flagship public university of Tennessee, in Knoxville. It works closely with Oak Ridge National Laboratory."
+}

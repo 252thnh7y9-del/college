@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "name": "University of Central Florida",
+  "short_name": "UCF",
+  "city": "Orlando",
+  "state": "FL",
+  "undergraduates": 60000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ucf.edu",
+  "mascot": "Knights",
+  "description": "A public research university in Orlando with close ties to the space, simulation, and hospitality industries. It is one of the largest universities in the country by campus enrollment."
+}

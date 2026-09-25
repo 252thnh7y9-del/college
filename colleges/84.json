@@ -1,0 +1,13 @@
+{
+  "id": 84,
+  "name": "University of California, Riverside",
+  "short_name": "UCR",
+  "city": "Riverside",
+  "state": "CA",
+  "undergraduates": 23000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ucr.edu",
+  "mascot": "Highlanders",
+  "description": "A public research university in Riverside, California. It is one of the most socioeconomically diverse research universities in the country."
+}

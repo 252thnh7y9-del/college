@@ -1,0 +1,13 @@
+{
+  "id": 65,
+  "name": "North Carolina State University",
+  "short_name": "NC State",
+  "city": "Raleigh",
+  "state": "NC",
+  "undergraduates": 27000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ncsu.edu",
+  "mascot": "Wolfpack",
+  "description": "A public land-grant research university in Raleigh, part of North Carolina's Research Triangle. It is known for engineering, textiles, and agriculture."
+}

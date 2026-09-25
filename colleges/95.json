@@ -1,0 +1,12 @@
+{
+  "id": 95,
+  "name": "Oklahoma State University",
+  "city": "Stillwater",
+  "state": "OK",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://okstate.edu",
+  "mascot": "Cowboys",
+  "description": "Oklahoma's land-grant university, in Stillwater. It is known for agriculture, engineering, and veterinary medicine."
+}

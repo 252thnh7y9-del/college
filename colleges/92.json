@@ -1,0 +1,13 @@
+{
+  "id": 92,
+  "name": "California Polytechnic State University, San Luis Obispo",
+  "short_name": "Cal Poly",
+  "city": "San Luis Obispo",
+  "state": "CA",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.calpoly.edu",
+  "mascot": "Mustangs",
+  "description": "A public polytechnic university in San Luis Obispo with a learn-by-doing philosophy. It is known for engineering, architecture, and agriculture."
+}

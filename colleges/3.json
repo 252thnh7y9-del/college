@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "name": "University of Phoenix",
+  "city": "Phoenix",
+  "state": "AZ",
+  "undergraduates": 70000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.phoenix.edu",
+  "description": "A private for-profit university founded in 1976 that focuses on working adults. Nearly all of its courses are taught online."
+}

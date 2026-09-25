@@ -1,0 +1,13 @@
+{
+  "id": 31,
+  "name": "University of Illinois Urbana-Champaign",
+  "short_name": "UIUC",
+  "city": "Champaign",
+  "state": "IL",
+  "undergraduates": 36000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://illinois.edu",
+  "mascot": "Fighting Illini",
+  "description": "The flagship campus of the University of Illinois. It is top-ranked in engineering, computer science, and agriculture."
+}

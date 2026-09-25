@@ -1,0 +1,13 @@
+{
+  "id": 59,
+  "name": "University of California, Irvine",
+  "short_name": "UCI",
+  "city": "Irvine",
+  "state": "CA",
+  "undergraduates": 29000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://uci.edu",
+  "mascot": "Anteaters",
+  "description": "A public research university in Irvine, Orange County. It is known for the sciences, engineering, and health sciences."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 104,
+  "name": "Georgia Institute of Technology",
+  "short_name": "Georgia Tech",
+  "city": "Atlanta",
+  "state": "GA",
+  "undergraduates": 18000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.gatech.edu",
+  "mascot": "Yellow Jackets",
+  "description": "A public research university in Midtown Atlanta. It is one of the top engineering and computing schools in the country."
+}

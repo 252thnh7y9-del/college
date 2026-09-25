@@ -1,0 +1,12 @@
+{
+  "id": 126,
+  "name": "Princeton University",
+  "city": "Princeton",
+  "state": "NJ",
+  "undergraduates": 6000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.princeton.edu",
+  "mascot": "Tigers",
+  "description": "An Ivy League university in Princeton, New Jersey, that focuses on undergraduate teaching. Every student completes a senior thesis."
+}

@@ -1,0 +1,12 @@
+{
+  "id": 129,
+  "name": "Dartmouth College",
+  "city": "Hanover",
+  "state": "NH",
+  "undergraduates": 4000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://home.dartmouth.edu",
+  "mascot": "Big Green",
+  "description": "An Ivy League college in Hanover, New Hampshire, founded in 1769. It is known for close teaching and a strong focus on undergraduates."
+}

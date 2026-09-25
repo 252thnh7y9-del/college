@@ -1,0 +1,12 @@
+{
+  "id": 72,
+  "name": "Iowa State University",
+  "city": "Ames",
+  "state": "IA",
+  "undergraduates": 25000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.iastate.edu",
+  "mascot": "Cyclones",
+  "description": "A public land-grant university in Ames. It is known for engineering, agriculture, and veterinary medicine."
+}

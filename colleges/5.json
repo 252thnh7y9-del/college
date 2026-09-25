@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "name": "Grand Canyon University",
+  "short_name": "GCU",
+  "city": "Phoenix",
+  "state": "AZ",
+  "undergraduates": 60000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.gcu.edu",
+  "mascot": "Lopes",
+  "description": "A private Christian university in Phoenix with a fast-growing residential campus. Most of its students study through its large online program."
+}

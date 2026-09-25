@@ -1,0 +1,13 @@
+{
+  "id": 55,
+  "name": "The University of Texas at Arlington",
+  "short_name": "UTA",
+  "city": "Arlington",
+  "state": "TX",
+  "undergraduates": 30000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uta.edu",
+  "mascot": "Mavericks",
+  "description": "A public research university in Arlington, in the Dallas–Fort Worth area. It is one of the most diverse universities in the country."
+}

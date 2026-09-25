@@ -1,0 +1,13 @@
+{
+  "id": 67,
+  "name": "California State Polytechnic University, Pomona",
+  "short_name": "Cal Poly Pomona",
+  "city": "Pomona",
+  "state": "CA",
+  "undergraduates": 26000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.cpp.edu",
+  "mascot": "Broncos",
+  "description": "A public polytechnic university in Pomona that emphasizes learning by doing. It is known for engineering, hospitality, and agriculture."
+}

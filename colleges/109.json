@@ -1,0 +1,12 @@
+{
+  "id": 109,
+  "name": "Columbia University",
+  "city": "New York",
+  "state": "NY",
+  "undergraduates": 9000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.columbia.edu",
+  "mascot": "Lions",
+  "description": "An Ivy League university in the Morningside Heights neighborhood of Manhattan. It is known for its Core Curriculum and for journalism, law, and business."
+}

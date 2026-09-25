@@ -1,0 +1,13 @@
+{
+  "id": 88,
+  "name": "East Carolina University",
+  "short_name": "ECU",
+  "city": "Greenville",
+  "state": "NC",
+  "undergraduates": 22000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ecu.edu",
+  "mascot": "Pirates",
+  "description": "A public university in Greenville, North Carolina. It is known for health sciences, nursing, and its medical school."
+}

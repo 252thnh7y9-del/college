@@ -1,0 +1,13 @@
+{
+  "id": 70,
+  "name": "Colorado State University",
+  "short_name": "CSU",
+  "city": "Fort Collins",
+  "state": "CO",
+  "undergraduates": 25000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.colostate.edu",
+  "mascot": "Rams",
+  "description": "Colorado's land-grant university, in Fort Collins. It is known for veterinary medicine and environmental science."
+}

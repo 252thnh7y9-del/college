@@ -1,0 +1,13 @@
+{
+  "id": 41,
+  "name": "University of California, Berkeley",
+  "short_name": "UC Berkeley",
+  "city": "Berkeley",
+  "state": "CA",
+  "undergraduates": 33000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.berkeley.edu",
+  "mascot": "Golden Bears",
+  "description": "The founding campus of the University of California and one of the top public universities in the world. It is known for research and a long history of student activism."
+}

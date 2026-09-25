@@ -1,0 +1,13 @@
+{
+  "id": 91,
+  "name": "Virginia Commonwealth University",
+  "short_name": "VCU",
+  "city": "Richmond",
+  "state": "VA",
+  "undergraduates": 22000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.vcu.edu",
+  "mascot": "Rams",
+  "description": "A public research university in Richmond, Virginia. It is known for its arts school and its health system."
+}

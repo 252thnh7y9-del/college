@@ -1,0 +1,13 @@
+{
+  "id": 107,
+  "name": "University of Pennsylvania",
+  "short_name": "Penn",
+  "city": "Philadelphia",
+  "state": "PA",
+  "undergraduates": 10000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.upenn.edu",
+  "mascot": "Quakers",
+  "description": "An Ivy League university in Philadelphia founded by Benjamin Franklin. It is home to the Wharton School of business."
+}

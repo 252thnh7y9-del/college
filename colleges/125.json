@@ -1,0 +1,13 @@
+{
+  "id": 125,
+  "name": "Johns Hopkins University",
+  "short_name": "JHU",
+  "city": "Baltimore",
+  "state": "MD",
+  "undergraduates": 6000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.jhu.edu",
+  "mascot": "Blue Jays",
+  "description": "A private research university in Baltimore and the first research university in the United States. It is known for medicine, public health, and international studies."
+}

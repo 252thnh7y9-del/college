@@ -1,0 +1,12 @@
+{
+  "id": 94,
+  "name": "Kent State University",
+  "city": "Kent",
+  "state": "OH",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.kent.edu",
+  "mascot": "Golden Flashes",
+  "description": "A public research university in Kent, in northeast Ohio. It is known for fashion design, aeronautics, and liquid crystal research."
+}

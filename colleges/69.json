@@ -1,0 +1,13 @@
+{
+  "id": 69,
+  "name": "University of Utah",
+  "short_name": "The U",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "undergraduates": 26000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.utah.edu",
+  "mascot": "Utes",
+  "description": "Utah's flagship public university, in Salt Lake City. It is known for medicine, computing, and engineering."
+}

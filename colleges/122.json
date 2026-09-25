@@ -1,0 +1,12 @@
+{
+  "id": 122,
+  "name": "University of Rochester",
+  "city": "Rochester",
+  "state": "NY",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.rochester.edu",
+  "mascot": "Yellowjackets",
+  "description": "A private research university in Rochester, New York. It is known for optics and for the Eastman School of Music."
+}

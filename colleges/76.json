@@ -1,0 +1,13 @@
+{
+  "id": 76,
+  "name": "University of Massachusetts Amherst",
+  "short_name": "UMass Amherst",
+  "city": "Amherst",
+  "state": "MA",
+  "undergraduates": 24000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.umass.edu",
+  "mascot": "Minutemen and Minutewomen",
+  "description": "The flagship campus of the University of Massachusetts system, in Amherst. It is known for computer science and its dining program."
+}

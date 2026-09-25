@@ -1,0 +1,12 @@
+{
+  "id": 121,
+  "name": "Tufts University",
+  "city": "Medford",
+  "state": "MA",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.tufts.edu",
+  "mascot": "Jumbos",
+  "description": "A private research university in Medford and Somerville, near Boston. It is known for international relations, veterinary medicine, and engineering."
+}

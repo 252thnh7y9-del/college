@@ -1,0 +1,13 @@
+{
+  "id": 32,
+  "name": "University of Florida",
+  "short_name": "UF",
+  "city": "Gainesville",
+  "state": "FL",
+  "undergraduates": 35000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ufl.edu",
+  "mascot": "Gators",
+  "description": "Florida's flagship public research university, in Gainesville. It is consistently ranked among the best public universities in the country."
+}

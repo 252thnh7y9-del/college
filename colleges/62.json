@@ -1,0 +1,13 @@
+{
+  "id": 62,
+  "name": "University of South Carolina",
+  "short_name": "UofSC",
+  "city": "Columbia",
+  "state": "SC",
+  "undergraduates": 28000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://sc.edu",
+  "mascot": "Gamecocks",
+  "description": "South Carolina's flagship public university, in Columbia. It is known for its international business program."
+}

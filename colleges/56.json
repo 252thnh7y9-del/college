@@ -1,0 +1,13 @@
+{
+  "id": 56,
+  "name": "The University of Texas at San Antonio",
+  "short_name": "UTSA",
+  "city": "San Antonio",
+  "state": "TX",
+  "undergraduates": 30000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.utsa.edu",
+  "mascot": "Roadrunners",
+  "description": "A public research university in San Antonio. It is known for cybersecurity and serves a large Hispanic student population."
+}

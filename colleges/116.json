@@ -1,0 +1,13 @@
+{
+  "id": 116,
+  "name": "Washington University in St. Louis",
+  "short_name": "WashU",
+  "city": "St. Louis",
+  "state": "MO",
+  "undergraduates": 8000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://washu.edu",
+  "mascot": "Bears",
+  "description": "A private research university in St. Louis. It is known for medicine, the sciences, and architecture."
+}

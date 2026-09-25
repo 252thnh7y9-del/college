@@ -1,0 +1,12 @@
+{
+  "id": 23,
+  "name": "American Public University System",
+  "short_name": "APUS",
+  "city": "Charles Town",
+  "state": "WV",
+  "undergraduates": 38000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.apus.edu",
+  "description": "A for-profit online university system made up of American Military University and American Public University. Many of its students are active-duty military members and veterans."
+}

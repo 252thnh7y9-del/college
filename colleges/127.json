@@ -1,0 +1,13 @@
+{
+  "id": 127,
+  "name": "Massachusetts Institute of Technology",
+  "short_name": "MIT",
+  "city": "Cambridge",
+  "state": "MA",
+  "undergraduates": 5000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.mit.edu",
+  "mascot": "Engineers",
+  "description": "A private research university in Cambridge, Massachusetts. It is a world leader in science, engineering, and technology."
+}

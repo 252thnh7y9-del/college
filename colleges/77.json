@@ -1,0 +1,13 @@
+{
+  "id": 77,
+  "name": "University of Missouri",
+  "short_name": "Mizzou",
+  "city": "Columbia",
+  "state": "MO",
+  "undergraduates": 24000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://missouri.edu",
+  "mascot": "Tigers",
+  "description": "Missouri's flagship public university, in Columbia. It is home to the world's first school of journalism."
+}

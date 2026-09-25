@@ -1,0 +1,13 @@
+{
+  "id": 87,
+  "name": "California State University, Los Angeles",
+  "short_name": "Cal State LA",
+  "city": "Los Angeles",
+  "state": "CA",
+  "undergraduates": 22000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.calstatela.edu",
+  "mascot": "Golden Eagles",
+  "description": "A public university in Los Angeles and part of the California State University system. It is nationally recognized for helping low-income students move up the economic ladder."
+}

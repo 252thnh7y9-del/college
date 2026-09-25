@@ -1,0 +1,12 @@
+{
+  "id": 117,
+  "name": "Brown University",
+  "city": "Providence",
+  "state": "RI",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.brown.edu",
+  "mascot": "Bears",
+  "description": "An Ivy League university in Providence, Rhode Island. Its Open Curriculum lets students design their own course of study without general education requirements."
+}

@@ -1,0 +1,12 @@
+{
+  "id": 106,
+  "name": "Cornell University",
+  "city": "Ithaca",
+  "state": "NY",
+  "undergraduates": 16000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.cornell.edu",
+  "mascot": "Big Red",
+  "description": "An Ivy League university in Ithaca, New York, that is also the state's land-grant university. It is known for engineering, hotel administration, and agriculture."
+}

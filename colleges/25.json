@@ -1,0 +1,13 @@
+{
+  "id": 25,
+  "name": "University of South Florida",
+  "short_name": "USF",
+  "city": "Tampa",
+  "state": "FL",
+  "undergraduates": 38000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.usf.edu",
+  "mascot": "Bulls",
+  "description": "A public research university based in Tampa, with additional campuses in St. Petersburg and Sarasota-Manatee. It is known for health sciences and marine science."
+}

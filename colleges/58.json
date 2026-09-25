@@ -1,0 +1,13 @@
+{
+  "id": 58,
+  "name": "New York University",
+  "short_name": "NYU",
+  "city": "New York",
+  "state": "NY",
+  "undergraduates": 29000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.nyu.edu",
+  "mascot": "Violets",
+  "description": "A private research university centered in Greenwich Village, New York City. It also has degree-granting campuses in Abu Dhabi and Shanghai."
+}

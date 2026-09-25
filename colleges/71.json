@@ -1,0 +1,13 @@
+{
+  "id": 71,
+  "name": "Florida Atlantic University",
+  "short_name": "FAU",
+  "city": "Boca Raton",
+  "state": "FL",
+  "undergraduates": 25000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.fau.edu",
+  "mascot": "Owls",
+  "description": "A public university based in Boca Raton with campuses across South Florida. It is known for ocean engineering and its honors college."
+}

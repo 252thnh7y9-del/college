@@ -1,0 +1,13 @@
+{
+  "id": 63,
+  "name": "The University of Texas Rio Grande Valley",
+  "short_name": "UTRGV",
+  "city": "Edinburg",
+  "state": "TX",
+  "undergraduates": 28000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.utrgv.edu",
+  "mascot": "Vaqueros",
+  "description": "A public university created in 2015 to serve the Rio Grande Valley of South Texas. It has campuses across the region and a school of medicine."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 14,
+  "name": "Utah Valley University",
+  "short_name": "UVU",
+  "city": "Orem",
+  "state": "UT",
+  "undergraduates": 44000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uvu.edu",
+  "mascot": "Wolverines",
+  "description": "A public university in Orem, Utah, that pairs open admission with bachelor's and graduate programs. It is the largest university in Utah."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 26,
+  "name": "Indiana University Bloomington",
+  "short_name": "IU",
+  "city": "Bloomington",
+  "state": "IN",
+  "undergraduates": 37000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.indiana.edu",
+  "mascot": "Hoosiers",
+  "description": "The flagship campus of Indiana University, in Bloomington. It is known for its business and music schools and its limestone campus."
+}

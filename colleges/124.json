@@ -1,0 +1,12 @@
+{
+  "id": 124,
+  "name": "Yale University",
+  "city": "New Haven",
+  "state": "CT",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.yale.edu",
+  "mascot": "Bulldogs",
+  "description": "An Ivy League university in New Haven, Connecticut, founded in 1701. It is known for its residential colleges and its schools of law, drama, and art."
+}

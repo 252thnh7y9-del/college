@@ -1,0 +1,13 @@
+{
+  "id": 100,
+  "name": "The University of Texas at El Paso",
+  "short_name": "UTEP",
+  "city": "El Paso",
+  "state": "TX",
+  "undergraduates": 21000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.utep.edu",
+  "mascot": "Miners",
+  "description": "A public research university in El Paso on the U.S.–Mexico border. It is a leading Hispanic-serving research university."
+}

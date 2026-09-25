@@ -1,0 +1,13 @@
+{
+  "id": 108,
+  "name": "Boston College",
+  "short_name": "BC",
+  "city": "Chestnut Hill",
+  "state": "MA",
+  "undergraduates": 9000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.bc.edu",
+  "mascot": "Eagles",
+  "description": "A private Jesuit research university in Chestnut Hill, just outside Boston. It is known for business, education, and the liberal arts."
+}

@@ -1,0 +1,12 @@
+{
+  "id": 40,
+  "name": "University of Alabama",
+  "city": "Tuscaloosa",
+  "state": "AL",
+  "undergraduates": 33000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.ua.edu",
+  "mascot": "Crimson Tide",
+  "description": "Alabama's flagship public university, in Tuscaloosa. It is known for its honors college and its football program."
+}

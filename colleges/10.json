@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "name": "Florida International University",
+  "short_name": "FIU",
+  "city": "Miami",
+  "state": "FL",
+  "undergraduates": 47000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.fiu.edu",
+  "mascot": "Panthers",
+  "description": "A public research university in Miami. It has one of the largest Hispanic student populations of any U.S. university."
+}

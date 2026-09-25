@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "name": "Liberty University",
+  "city": "Lynchburg",
+  "state": "VA",
+  "undergraduates": 48000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.liberty.edu",
+  "mascot": "Flames",
+  "description": "A private evangelical Christian university in Lynchburg, Virginia. It has a residential campus and one of the largest online programs in the country."
+}

@@ -1,0 +1,12 @@
+{
+  "id": 111,
+  "name": "University of Notre Dame",
+  "city": "Notre Dame",
+  "state": "IN",
+  "undergraduates": 9000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.nd.edu",
+  "mascot": "Fighting Irish",
+  "description": "A private Catholic research university in Notre Dame, Indiana. It is known for business, its strong alumni network, and its football program."
+}

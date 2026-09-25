@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "name": "University of Maryland Global Campus",
+  "short_name": "UMGC",
+  "city": "Adelphi",
+  "state": "MD",
+  "undergraduates": 45000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.umgc.edu",
+  "description": "A public online university in the University System of Maryland. It serves working adults and U.S. military members around the world."
+}

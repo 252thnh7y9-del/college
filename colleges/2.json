@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "name": "Western Governors University",
+  "short_name": "WGU",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "undergraduates": 115000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.wgu.edu",
+  "mascot": "Night Owls",
+  "description": "A private nonprofit online university founded in 1997 by a group of U.S. governors. Students move through courses by showing they have mastered the material, not by logging class hours."
+}
