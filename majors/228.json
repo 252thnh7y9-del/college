@@ -1,0 +1,19 @@
+{
+  "id": 228,
+  "name": "Early Childhood Education",
+  "departmentIds": [
+    57,
+    81
+  ],
+  "summary": "Early Childhood Education prepares students to teach and care for children from birth through about age eight. The major focuses on how young children develop and learn through play.",
+  "description": "Early Childhood Education majors study child development, family and community relationships, early literacy and math, play-based learning, observation and assessment, health and safety, and inclusive education for children with disabilities. They learn to create learning environments for infants, toddlers, preschoolers, and early elementary students. Field experiences take place in childcare centers, preschools, Head Start programs, and primary classrooms, culminating in student teaching. Graduates can earn licensure to teach preschool through third grade and work in schools, childcare centers, and family support programs.",
+  "jobs": [
+    "Preschool teacher",
+    "Kindergarten teacher",
+    "Childcare center director",
+    "Head Start teacher",
+    "Early intervention specialist",
+    "Family support specialist",
+    "Early learning program coordinator"
+  ]
+}

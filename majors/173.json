@@ -1,0 +1,21 @@
+{
+  "id": 173,
+  "name": "Cybersecurity",
+  "departmentIds": [
+    41,
+    55,
+    25
+  ],
+  "summary": "Cybersecurity teaches students to protect computers, networks, and data from attacks and unauthorized access. The major combines technical skills with knowledge of threats, policy, and ethics.",
+  "description": "Cybersecurity majors study networking, operating systems, programming, cryptography, secure software development, network defense, penetration testing, digital forensics, and incident response. They also learn about risk management, security policy, compliance, and cyber law. Hands-on labs and capture-the-flag competitions let students practice attacking and defending systems in safe environments. Many programs prepare students for industry certifications such as Security+ and are designated by the NSA as Centers of Academic Excellence. Graduates are in very high demand in government, defense, finance, healthcare, and technology.",
+  "jobs": [
+    "Security analyst",
+    "Penetration tester",
+    "Security engineer",
+    "Incident responder",
+    "Digital forensics analyst",
+    "Security operations center analyst",
+    "Cybersecurity consultant",
+    "Threat intelligence analyst"
+  ]
+}

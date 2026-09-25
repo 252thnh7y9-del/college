@@ -1,0 +1,20 @@
+{
+  "id": 161,
+  "name": "Bioengineering",
+  "departmentIds": [
+    37,
+    47
+  ],
+  "summary": "Bioengineering applies engineering principles to biological systems, in medicine as well as in agriculture, the environment, and industry. It overlaps with biomedical engineering but often has a broader scope.",
+  "description": "Bioengineering majors combine math, physics, chemistry, and biology with engineering analysis and design. Coursework covers molecular and cellular engineering, biomechanics, biomaterials, bioprocess engineering, synthetic biology, systems biology, and instrumentation. Some programs focus mainly on medical applications, while others include agricultural and environmental bioengineering, such as engineering microbes to make fuels or treat wastewater. Students gain laboratory and design experience through team projects. Graduates work in biotechnology, pharmaceuticals, medical devices, and bioprocessing, and many go on to medical or graduate school.",
+  "jobs": [
+    "Bioengineer",
+    "Bioprocess engineer",
+    "Medical device engineer",
+    "Tissue engineer",
+    "Synthetic biology research associate",
+    "Quality engineer",
+    "Research scientist",
+    "Physician (with medical degree)"
+  ]
+}

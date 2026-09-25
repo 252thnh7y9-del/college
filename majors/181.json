@@ -1,0 +1,20 @@
+{
+  "id": 181,
+  "name": "Manufacturing Engineering",
+  "departmentIds": [
+    43,
+    42
+  ],
+  "summary": "Manufacturing Engineering designs and improves the processes and systems used to make products. Students learn production technologies, automation, and quality control.",
+  "description": "Manufacturing Engineering majors study materials and manufacturing processes such as machining, casting, welding, molding, and additive manufacturing, along with CAD/CAM, CNC programming, robotics and automation, quality engineering, and production systems. They learn Lean manufacturing, statistical process control, and how to design products for efficient manufacture. Hands-on labs use industrial equipment. Graduates work in automotive, aerospace, electronics, medical device, and consumer goods manufacturing, where they improve efficiency, quality, and safety on the factory floor.",
+  "jobs": [
+    "Manufacturing engineer",
+    "Process engineer",
+    "Quality engineer",
+    "Automation engineer",
+    "Production supervisor",
+    "Additive manufacturing engineer",
+    "Tooling engineer",
+    "Plant engineer"
+  ]
+}

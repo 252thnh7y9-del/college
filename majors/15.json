@@ -1,0 +1,21 @@
+{
+  "id": 15,
+  "name": "Islamic Studies",
+  "departmentIds": [
+    5,
+    9
+  ],
+  "summary": "Islamic Studies examines the religion of Islam and the history, cultures, and societies of Muslims around the world. Students study the Quran, Islamic law and thought, and Muslim communities past and present.",
+  "description": "Islamic Studies majors explore Islam's origins, sacred texts, theology, law (sharia), mysticism (Sufism), and philosophy, as well as the political and cultural history of Muslim societies from the Arabian Peninsula to South and Southeast Asia, Africa, Europe, and the Americas. Many programs require Arabic, and some offer Persian, Turkish, or Urdu. Courses often cover Islam and modernity, gender in Islam, Islamic art and architecture, and contemporary political movements. Students develop the textual, linguistic, and cultural expertise that is in demand in government, international affairs, journalism, and education, and many go on to graduate study.",
+  "jobs": [
+    "Foreign service officer",
+    "Intelligence analyst",
+    "Journalist",
+    "Translator",
+    "International NGO staff",
+    "Chaplain",
+    "Teacher",
+    "Policy analyst",
+    "Professor (with graduate degree)"
+  ]
+}

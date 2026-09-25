@@ -1,0 +1,20 @@
+{
+  "id": 273,
+  "name": "Advertising",
+  "departmentIds": [
+    68,
+    54
+  ],
+  "summary": "Advertising prepares students to create and manage campaigns that persuade audiences to buy products, support causes, or change behaviors. The major combines creativity, strategy, and research.",
+  "description": "Advertising majors study advertising principles, consumer behavior, copywriting, art direction, media planning and buying, account management, advertising research, digital and social advertising, and campaign strategy. Students often choose a track in creative, strategy, account management, or media. They build full campaigns for real or simulated clients, often in student-run agencies, and many compete in national competitions. Portfolios are essential for creative roles. Graduates work in advertising agencies, in-house marketing teams, media companies, and digital platforms.",
+  "jobs": [
+    "Copywriter",
+    "Art director",
+    "Account executive",
+    "Media planner",
+    "Media buyer",
+    "Brand strategist",
+    "Social media advertising specialist",
+    "Creative director"
+  ]
+}

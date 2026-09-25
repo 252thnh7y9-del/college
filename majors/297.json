@@ -1,0 +1,20 @@
+{
+  "id": 297,
+  "name": "Fisheries & Aquatic Sciences",
+  "departmentIds": [
+    74,
+    28
+  ],
+  "summary": "Fisheries and Aquatic Sciences studies fish and other aquatic organisms and the rivers, lakes, and oceans they live in. Students learn to manage fisheries and protect aquatic ecosystems.",
+  "description": "Fisheries and Aquatic Sciences majors study ichthyology, limnology (the study of lakes and rivers), aquatic ecology, fish population dynamics, fisheries management, aquaculture, water quality, and aquatic conservation. Field methods include electrofishing, netting, tagging, and water sampling. Many programs meet requirements for American Fisheries Society certification. Graduates work for state and federal fisheries agencies, hatcheries, aquaculture operations, environmental consulting firms, tribal natural resource departments, and conservation organizations.",
+  "jobs": [
+    "Fisheries biologist",
+    "Fish hatchery manager",
+    "Aquaculture technician",
+    "Fisheries technician",
+    "Water quality specialist",
+    "Aquatic ecologist",
+    "Fisheries observer",
+    "Environmental consultant"
+  ]
+}

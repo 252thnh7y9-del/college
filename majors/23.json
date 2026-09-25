@@ -1,0 +1,19 @@
+{
+  "id": 23,
+  "name": "German",
+  "departmentIds": [
+    7
+  ],
+  "summary": "German majors build proficiency in German and study the literature, philosophy, history, and culture of German-speaking countries. The major connects language skills with an understanding of Central Europe.",
+  "description": "German majors progress from language fundamentals to advanced conversation, composition, and translation, and then take courses in German literature, film, and cultural history taught in German. Topics range from Goethe, Kafka, and Brecht to German philosophy, the Holocaust and its memory, divided Germany, and contemporary Austria and Switzerland. Many programs offer business German or German for scientists and engineers, reflecting Germany's role as Europe's largest economy and a leader in engineering. Study abroad is strongly encouraged. German pairs well with majors in engineering, business, history, music, and philosophy, and graduates find roles in education, international business, translation, and government.",
+  "jobs": [
+    "German teacher",
+    "Translator",
+    "International business associate",
+    "Foreign service officer",
+    "Export and trade specialist",
+    "Tourism professional",
+    "Research assistant",
+    "Editor"
+  ]
+}

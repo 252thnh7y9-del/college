@@ -1,0 +1,19 @@
+{
+  "id": 93,
+  "name": "Government",
+  "departmentIds": [
+    20
+  ],
+  "summary": "Government is closely related to political science and focuses on how governments are structured, how they make decisions, and how citizens participate. Some colleges use this name for their political science major.",
+  "description": "Government majors study political institutions, law, and public policy in the United States and around the world. Coursework covers constitutional law, the presidency and Congress, state and local government, comparative government, international relations, and political philosophy. Some programs emphasize public service and applied policy more than a traditional political science major, with courses in public administration, policy analysis, and civic leadership. Internships in legislatures, government agencies, and campaigns are strongly encouraged. Graduates work in public service, law, policy research, advocacy, and politics.",
+  "jobs": [
+    "Government analyst",
+    "Legislative assistant",
+    "Public affairs specialist",
+    "Attorney (with law degree)",
+    "Campaign manager",
+    "City manager",
+    "Policy advisor",
+    "Foreign service officer"
+  ]
+}

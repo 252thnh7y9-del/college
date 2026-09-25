@@ -1,0 +1,19 @@
+{
+  "id": 304,
+  "name": "Public Administration",
+  "departmentIds": [
+    80
+  ],
+  "summary": "Public Administration prepares students to manage government agencies and public programs. Students learn how public organizations are run, funded, and held accountable.",
+  "description": "Public Administration majors study public management, public budgeting and finance, public policy, administrative law, human resources in government, program evaluation, ethics, and intergovernmental relations. They learn how laws become programs and how to manage people, money, and performance in public organizations. Internships with city, state, or federal agencies are common. Many graduates later earn a Master of Public Administration. Graduates work in local, state, and federal government, nonprofits, and consulting.",
+  "jobs": [
+    "Government program analyst",
+    "City manager assistant",
+    "Budget analyst",
+    "Public administrator",
+    "Policy analyst",
+    "Grants administrator",
+    "Legislative aide",
+    "Nonprofit program manager"
+  ]
+}

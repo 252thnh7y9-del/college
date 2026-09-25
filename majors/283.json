@@ -1,0 +1,19 @@
+{
+  "id": 283,
+  "name": "Agronomy & Crop Science",
+  "departmentIds": [
+    70
+  ],
+  "summary": "Agronomy and Crop Science studies how to grow field crops such as corn, wheat, soybeans, and cotton productively and sustainably. The major combines plant science, soil science, and farm management.",
+  "description": "Agronomy majors study crop physiology, soil fertility, plant breeding and genetics, weed science, integrated pest management, irrigation, precision agriculture, and crop production systems. They learn to diagnose crop problems, recommend fertilizer and pest management practices, and use data from sensors, drones, and GPS-guided equipment. Field and lab work on research farms is common, and many students complete internships with seed or crop input companies. Graduates can earn Certified Crop Adviser credentials and work as agronomists, crop consultants, and researchers.",
+  "jobs": [
+    "Agronomist",
+    "Crop consultant",
+    "Seed production specialist",
+    "Precision agriculture specialist",
+    "Extension agent",
+    "Plant breeder",
+    "Soil fertility specialist",
+    "Farm manager"
+  ]
+}

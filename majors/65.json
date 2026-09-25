@@ -1,0 +1,21 @@
+{
+  "id": 65,
+  "name": "Digital Media Arts",
+  "departmentIds": [
+    17,
+    13,
+    67
+  ],
+  "summary": "Digital Media Arts combines art, design, and technology to create work for screens and interactive platforms. Students produce video, motion graphics, web and interactive media, and digital art.",
+  "description": "Digital Media Arts majors learn to create across many digital forms. Coursework typically includes digital imaging, video production and editing, motion graphics, sound design, 3D modeling, web design, and interactive and physical computing. Students explore both creative and commercial uses, from installations and experimental art to marketing content and user interfaces. Courses in design principles, media history, and digital culture give context. The program is portfolio-driven and often includes collaborative projects and internships. Graduates work in creative agencies, media production, marketing, web and app design, and as independent digital artists.",
+  "jobs": [
+    "Multimedia designer",
+    "Video editor",
+    "Motion graphics designer",
+    "Web designer",
+    "Social media content producer",
+    "Digital artist",
+    "Creative technologist",
+    "Multimedia specialist"
+  ]
+}

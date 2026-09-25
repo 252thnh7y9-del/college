@@ -1,0 +1,20 @@
+{
+  "id": 74,
+  "name": "Music Business",
+  "departmentIds": [
+    14,
+    53
+  ],
+  "summary": "Music Business prepares students for careers in the commercial side of music, including record labels, publishing, artist management, and live events. The major combines music with business courses.",
+  "description": "Music Business majors study how the music industry makes money and how it is changing with streaming and digital distribution. Coursework covers copyright and music publishing, licensing, artist management, concert promotion and touring, record label operations, marketing, entrepreneurship, and entertainment law, along with core business courses in accounting, finance, and management. Many programs also require music theory or performance. Internships at labels, venues, publishers, and management firms are central. Graduates work in artist management, A&R, marketing, licensing, booking, and venue and festival operations.",
+  "jobs": [
+    "Artist manager",
+    "A&R coordinator",
+    "Music publisher",
+    "Booking agent",
+    "Concert promoter",
+    "Licensing coordinator",
+    "Venue manager",
+    "Music marketing manager"
+  ]
+}

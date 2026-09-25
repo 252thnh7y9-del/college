@@ -1,0 +1,18 @@
+{
+  "id": 230,
+  "name": "Special Education",
+  "departmentIds": [
+    58
+  ],
+  "summary": "Special Education prepares students to teach children and young adults with disabilities. Students learn to adapt instruction and support each learner's needs.",
+  "description": "Special Education majors study disabilities such as learning disabilities, autism, intellectual disabilities, emotional and behavioral disorders, and physical and sensory impairments. Coursework covers special education law, including the Individuals with Disabilities Education Act (IDEA), writing individualized education programs (IEPs), assessment, behavior management, assistive technology, and evidence-based instruction in reading and math. Students complete field experiences in inclusive and specialized classrooms and student teaching. Special education teachers are in high demand nationwide.",
+  "jobs": [
+    "Special education teacher",
+    "Inclusion specialist",
+    "Behavior intervention specialist",
+    "Early intervention specialist",
+    "Educational diagnostician",
+    "Transition coordinator",
+    "Autism specialist"
+  ]
+}

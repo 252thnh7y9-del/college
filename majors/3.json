@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "name": "Creative Writing",
+  "departmentIds": [
+    1
+  ],
+  "summary": "Creative Writing majors develop their own fiction, poetry, and creative nonfiction through workshops led by practicing writers. The major pairs craft training with extensive reading of literature.",
+  "description": "Creative Writing programs center on the workshop, a small class where students share drafts and receive critique from peers and a faculty writer. Students typically take workshops in several genres (fiction, poetry, creative nonfiction, sometimes screenwriting or playwriting) before focusing on one. Alongside workshops they take literature courses to read as writers, studying how published authors handle voice, structure, image, and pacing. Many programs include courses on the publishing industry, literary magazine editing, or teaching writing. The major often ends with a senior portfolio or thesis manuscript. Graduates leave with a body of polished work, strong editing skills, and the discipline of revision, which serve them in writing and publishing as well as in communications, marketing, and education.",
+  "jobs": [
+    "Author",
+    "Copywriter",
+    "Content writer",
+    "Editor",
+    "Literary magazine editor",
+    "Grant writer",
+    "Communications specialist",
+    "Writing tutor or teacher",
+    "Screenwriter",
+    "Creative writing instructor (with MFA)"
+  ]
+}

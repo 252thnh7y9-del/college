@@ -1,0 +1,20 @@
+{
+  "id": 271,
+  "name": "Broadcast Journalism",
+  "departmentIds": [
+    68,
+    17
+  ],
+  "summary": "Broadcast Journalism prepares students to report and produce news for television, radio, and online video. Students learn on-air presentation, video production, and newsroom skills.",
+  "description": "Broadcast Journalism majors study news writing for broadcast, reporting, anchoring, video shooting and editing, audio production, newscast producing, and media law and ethics. They gain hands-on experience in campus TV and radio studios, producing live newscasts and field packages, and build demo reels. Coursework also covers digital and social media video, podcasts, and live streaming. Internships at local television and radio stations are common. Graduates start as reporters, producers, and multimedia journalists, often in smaller markets, and also work in digital media and corporate video.",
+  "jobs": [
+    "TV news reporter",
+    "News anchor",
+    "News producer",
+    "Multimedia journalist",
+    "Radio host",
+    "Video journalist",
+    "Assignment editor",
+    "Podcast producer"
+  ]
+}

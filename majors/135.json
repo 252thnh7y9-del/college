@@ -1,0 +1,20 @@
+{
+  "id": 135,
+  "name": "Biotechnology",
+  "departmentIds": [
+    28,
+    70
+  ],
+  "summary": "Biotechnology uses living organisms and biological systems to develop products in medicine, agriculture, and industry. The major combines biology and chemistry with applied laboratory training.",
+  "description": "Biotechnology majors learn molecular biology, genetics, microbiology, and biochemistry, then apply them to techniques used in industry, such as recombinant DNA technology, cell culture, protein purification, fermentation, and bioprocessing. Coursework also covers bioethics, regulatory affairs, quality control, and good manufacturing practices. Applications range from vaccines, gene therapies, and diagnostics to genetically improved crops and biofuels. Many programs include internships at biotech companies. Graduates work as lab technicians, research associates, and quality and manufacturing specialists in biotechnology and pharmaceutical companies.",
+  "jobs": [
+    "Biotechnology research associate",
+    "Quality control analyst",
+    "Biomanufacturing technician",
+    "Regulatory affairs specialist",
+    "Laboratory technician",
+    "Process development associate",
+    "Clinical research associate",
+    "Technical sales representative"
+  ]
+}

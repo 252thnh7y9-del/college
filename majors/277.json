@@ -1,0 +1,19 @@
+{
+  "id": 277,
+  "name": "Animal Science",
+  "departmentIds": [
+    69
+  ],
+  "summary": "Animal Science studies the biology, care, and management of domestic animals such as cattle, pigs, sheep, horses, and poultry. The major covers nutrition, reproduction, genetics, and animal welfare.",
+  "description": "Animal Science majors take biology and chemistry along with courses in animal nutrition, reproduction, genetics and breeding, physiology, animal health, meat science, animal behavior and welfare, and livestock production and management. Hands-on experience with animals at university farms and research facilities is a key part of the program. Many students focus on production agriculture, while others prepare for veterinary school or careers with companion animals. Graduates work in livestock production, feed and animal health companies, agricultural extension, and government agencies.",
+  "jobs": [
+    "Livestock manager",
+    "Animal nutritionist",
+    "Feed sales representative",
+    "Extension agent",
+    "Animal health technician",
+    "Meat quality specialist",
+    "Breeding specialist",
+    "Veterinarian (with DVM)"
+  ]
+}

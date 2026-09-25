@@ -1,0 +1,20 @@
+{
+  "id": 296,
+  "name": "Wildlife Biology",
+  "departmentIds": [
+    74,
+    28
+  ],
+  "summary": "Wildlife Biology studies wild animals and their habitats, with a focus on conservation and management. Students learn to monitor populations and protect species.",
+  "description": "Wildlife Biology majors study ecology, animal behavior, mammalogy, ornithology, herpetology, population dynamics, habitat management, conservation biology, and wildlife law and policy. They learn field techniques such as radio telemetry, camera trapping, capture and handling, and population surveys, along with GIS and statistics. Summer field jobs and internships with agencies are common and important for careers. Many programs meet requirements for The Wildlife Society's certification. Graduates work for state wildlife agencies, the U.S. Fish and Wildlife Service, conservation nonprofits, and consulting firms.",
+  "jobs": [
+    "Wildlife biologist",
+    "Wildlife technician",
+    "Game warden",
+    "Conservation officer",
+    "Refuge manager",
+    "Environmental consultant",
+    "Wildlife rehabilitator",
+    "Endangered species specialist"
+  ]
+}

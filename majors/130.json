@@ -1,0 +1,20 @@
+{
+  "id": 130,
+  "name": "Plant Biology",
+  "departmentIds": [
+    28,
+    70
+  ],
+  "summary": "Plant Biology, also called botany, studies plants: their structure, function, genetics, ecology, and evolution. Students learn how plants support ecosystems, agriculture, and human life.",
+  "description": "Plant Biology majors study how plants grow, reproduce, respond to their environment, and interact with other organisms. Coursework covers plant anatomy and physiology, plant genetics and molecular biology, plant ecology, systematics and plant identification, and topics such as photosynthesis, plant-microbe interactions, and ethnobotany. Lab and field work teach plant tissue culture, genetic analysis, and field identification. The major connects to agriculture, forestry, conservation, and biotechnology, including efforts to improve crops for food security and climate resilience. Graduates work in research, botanical gardens, agricultural biotechnology, and environmental management.",
+  "jobs": [
+    "Botanist",
+    "Plant geneticist",
+    "Botanical garden curator",
+    "Agricultural research technician",
+    "Conservation botanist",
+    "Greenhouse manager",
+    "Seed company scientist",
+    "Environmental consultant"
+  ]
+}

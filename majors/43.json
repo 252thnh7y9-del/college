@@ -1,0 +1,21 @@
+{
+  "id": 43,
+  "name": "Medieval & Renaissance Studies",
+  "departmentIds": [
+    3,
+    1,
+    84
+  ],
+  "summary": "Medieval and Renaissance Studies is an interdisciplinary major on European and Mediterranean history and culture from about 500 to 1650. Students draw on history, literature, art, religion, music, and philosophy.",
+  "description": "This major examines the thousand-plus years between the fall of Rome and the early modern period, including the rise of Christianity and Islam, feudal society, the crusades, the growth of universities and cities, the Black Death, the Italian Renaissance, the Reformation, and early global exploration. Students take courses across departments, such as medieval history, Chaucer and Shakespeare, Gothic and Renaissance art, early music, and medieval philosophy. Many programs require Latin or another medieval or early modern language and teach paleography, the reading of old manuscripts. The major develops strong research and interpretive skills and prepares students for graduate study, teaching, library and archival work, and museum careers.",
+  "jobs": [
+    "Archivist",
+    "Rare books librarian (with MLS)",
+    "Museum professional",
+    "Teacher",
+    "Editor",
+    "Historical consultant",
+    "Paralegal",
+    "Professor (with graduate degree)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 185,
+  "name": "Metallurgical Engineering",
+  "departmentIds": [
+    44,
+    46
+  ],
+  "summary": "Metallurgical Engineering studies the extraction, processing, and properties of metals and alloys. Metallurgical engineers help produce the metals used in everything from cars to jet engines.",
+  "description": "Metallurgical Engineering majors study extractive metallurgy, which covers mineral processing and refining metals from ores, and physical metallurgy, which covers how processing and alloying affect the structure and properties of metals. Coursework includes thermodynamics, phase diagrams, heat treatment, corrosion, welding metallurgy, casting, mechanical testing, and failure analysis. Students gain lab experience with metallography and materials testing. Graduates work in steel and aluminum production, mining and mineral processing, aerospace and automotive manufacturing, and materials testing and failure analysis.",
+  "jobs": [
+    "Metallurgical engineer",
+    "Process metallurgist",
+    "Welding engineer",
+    "Materials testing engineer",
+    "Corrosion engineer",
+    "Failure analysis engineer",
+    "Quality engineer",
+    "Mineral processing engineer"
+  ]
+}

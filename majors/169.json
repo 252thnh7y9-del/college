@@ -1,0 +1,20 @@
+{
+  "id": 169,
+  "name": "Computer Engineering",
+  "departmentIds": [
+    40,
+    41
+  ],
+  "summary": "Computer Engineering combines electrical engineering and computer science to design computer hardware and the software that runs close to it. Computer engineers build processors, embedded systems, and networks.",
+  "description": "Computer Engineering majors study digital logic, computer architecture, microprocessors, embedded systems, operating systems, computer networks, and VLSI chip design, along with circuits, electronics, and programming in languages such as C, C++, and Python. They learn how software and hardware interact, from the transistor level up to operating systems. Lab work involves programming microcontrollers and FPGAs and designing digital systems. Electives may cover robotics, cybersecurity, or machine learning hardware. Graduates work in semiconductor, computer hardware, consumer electronics, automotive, aerospace, and software companies.",
+  "jobs": [
+    "Computer hardware engineer",
+    "Embedded systems engineer",
+    "Firmware engineer",
+    "Chip design engineer",
+    "Software engineer",
+    "Network engineer",
+    "FPGA engineer",
+    "Systems engineer"
+  ]
+}

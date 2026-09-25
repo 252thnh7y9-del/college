@@ -1,0 +1,21 @@
+{
+  "id": 147,
+  "name": "Environmental Science",
+  "departmentIds": [
+    32,
+    31,
+    28
+  ],
+  "summary": "Environmental Science uses biology, chemistry, geology, and other sciences to study the environment and solve environmental problems. Students learn to measure and address issues like pollution, climate change, and biodiversity loss.",
+  "description": "Environmental Science is an interdisciplinary natural science major. Students take biology, chemistry, geology, and math along with courses in ecology, environmental chemistry, hydrology, soil science, climate science, and conservation. They learn field sampling, laboratory analysis, GIS, and statistics to monitor air, water, soil, and ecosystems. Courses on environmental policy and law connect the science to decision-making. Fieldwork and internships are common. Graduates work in environmental consulting, government agencies, conservation organizations, and corporate sustainability.",
+  "jobs": [
+    "Environmental scientist",
+    "Environmental consultant",
+    "Water quality specialist",
+    "Environmental compliance specialist",
+    "Conservation scientist",
+    "Sustainability coordinator",
+    "Field technician",
+    "Environmental health and safety specialist"
+  ]
+}

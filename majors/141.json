@@ -1,0 +1,19 @@
+{
+  "id": 141,
+  "name": "Astronomy & Astrophysics",
+  "departmentIds": [
+    30
+  ],
+  "summary": "Astronomy and Astrophysics study stars, planets, galaxies, and the universe as a whole. Students use physics and mathematics to understand how cosmic objects form and evolve.",
+  "description": "Astronomy and Astrophysics majors build a strong physics and math foundation and apply it to topics such as stellar structure and evolution, planetary science and exoplanets, galaxies, black holes, and cosmology. Students learn observational techniques using telescopes and detectors, and they analyze large astronomical datasets with programming languages such as Python. Many programs have campus observatories and opportunities to use national facilities. Research experience is common. Because research careers typically require a PhD, many graduates pursue graduate study, while others apply their quantitative skills in aerospace, data science, software, and science education.",
+  "jobs": [
+    "Astronomer (with doctorate)",
+    "Data scientist",
+    "Aerospace engineer",
+    "Planetarium educator",
+    "Observatory technician",
+    "Science writer",
+    "Software developer",
+    "Physics teacher"
+  ]
+}

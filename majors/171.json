@@ -1,0 +1,19 @@
+{
+  "id": 171,
+  "name": "Software Engineering",
+  "departmentIds": [
+    41
+  ],
+  "summary": "Software Engineering applies engineering principles to the design, development, testing, and maintenance of large software systems. It emphasizes building reliable software in teams.",
+  "description": "Software Engineering majors learn the core of computer science, including programming, data structures, and algorithms, but focus on the practices used to build real-world software. Coursework covers requirements engineering, software design and architecture, testing and quality assurance, project management, version control, agile methods, DevOps, and security. Students work in teams on long-term projects, often with industry clients, and learn to maintain code over time. Graduates work as software engineers and developers across technology, finance, healthcare, government, and many other industries.",
+  "jobs": [
+    "Software engineer",
+    "Full-stack developer",
+    "DevOps engineer",
+    "Quality assurance engineer",
+    "Software architect",
+    "Mobile developer",
+    "Site reliability engineer",
+    "Technical project manager"
+  ]
+}

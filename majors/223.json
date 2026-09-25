@@ -1,0 +1,19 @@
+{
+  "id": 223,
+  "name": "Professional Pilot",
+  "departmentIds": [
+    83
+  ],
+  "summary": "Professional Pilot programs train students to fly aircraft and prepare for careers as commercial and airline pilots. Students earn FAA pilot certificates while completing a college degree.",
+  "description": "Professional Pilot majors combine flight training with academic courses in aerodynamics, aircraft systems, meteorology, navigation, aviation regulations, human factors, and crew resource management. Students progress through FAA certificates and ratings, typically the private pilot certificate, instrument rating, commercial pilot certificate, and flight instructor certificates, using the program's aircraft and simulators. Many graduates build hours as flight instructors before joining regional airlines, and some programs have partnerships with airlines. Flight training adds significant cost. Pilot demand remains strong, and graduates work for airlines, cargo carriers, corporate aviation, and charter operators.",
+  "jobs": [
+    "Airline pilot",
+    "Flight instructor",
+    "Corporate pilot",
+    "Cargo pilot",
+    "Charter pilot",
+    "Agricultural pilot",
+    "Aerial survey pilot",
+    "Military pilot"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 225,
+  "name": "Air Traffic Management",
+  "departmentIds": [
+    83
+  ],
+  "summary": "Air Traffic Management prepares students for careers controlling and coordinating the movement of aircraft to keep air travel safe and efficient. Programs often partner with the FAA.",
+  "description": "Air Traffic Management majors study air traffic control procedures, aviation weather, navigation, radar and non-radar control, aviation regulations, communication, and the national airspace system. They practice in air traffic control simulators that replicate tower and radar environments. Some schools participate in the FAA's Collegiate Training Initiative, which can help graduates enter FAA training. Air traffic controllers must be hired before age 31 and pass medical and security screening. Graduates work as air traffic controllers and in airline operations, airport management, and aviation planning.",
+  "jobs": [
+    "Air traffic controller",
+    "Flight dispatcher",
+    "Airport operations specialist",
+    "Airspace planner",
+    "Flight service specialist",
+    "Aviation operations coordinator",
+    "Airline operations controller"
+  ]
+}

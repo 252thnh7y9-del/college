@@ -1,0 +1,19 @@
+{
+  "id": 280,
+  "name": "Poultry Science",
+  "departmentIds": [
+    69
+  ],
+  "summary": "Poultry Science studies the production, health, and processing of chickens, turkeys, and other poultry. The field supports one of the largest segments of U.S. agriculture.",
+  "description": "Poultry Science majors study poultry nutrition, genetics, physiology, health and disease, incubation and hatchery management, housing and environment, animal welfare, and processing and product technology. They also take business and food safety courses. The poultry industry is large and concentrated in the southeastern United States, and graduates are in strong demand. Internships with poultry companies are common and often lead to jobs. Graduates work in production management, live operations, processing, nutrition, quality assurance, and animal health.",
+  "jobs": [
+    "Poultry production manager",
+    "Hatchery manager",
+    "Poultry nutritionist",
+    "Processing plant supervisor",
+    "Quality assurance manager",
+    "Poultry health technician",
+    "Live production supervisor",
+    "Extension specialist"
+  ]
+}

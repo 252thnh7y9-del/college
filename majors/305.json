@@ -1,0 +1,21 @@
+{
+  "id": 305,
+  "name": "Public Policy",
+  "departmentIds": [
+    80,
+    20,
+    19
+  ],
+  "summary": "Public Policy studies how governments make decisions to address social problems and how to evaluate whether policies work. The major combines economics, political science, and data analysis.",
+  "description": "Public Policy majors study the policy process, microeconomics for policy, statistics and quantitative methods, cost-benefit analysis, program evaluation, law, and ethics. They then focus on policy areas such as health, education, environment, criminal justice, or social welfare. Students learn to write policy memos, analyze data, and recommend options to decision-makers. Many programs include internships in government, think tanks, and advocacy organizations, and some offer semesters in Washington, D.C. Graduates work as policy analysts, legislative staff, and consultants, and many attend law school or graduate programs.",
+  "jobs": [
+    "Policy analyst",
+    "Legislative aide",
+    "Research associate (think tank)",
+    "Budget analyst",
+    "Government relations specialist",
+    "Program evaluator",
+    "Management consultant",
+    "Attorney (with law degree)"
+  ]
+}

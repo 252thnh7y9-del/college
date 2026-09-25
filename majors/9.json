@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "name": "Philosophy",
+  "departmentIds": [
+    4
+  ],
+  "summary": "Philosophy examines basic questions about knowledge, reality, ethics, mind, and meaning. Students learn to analyze arguments rigorously and build their own reasoned positions.",
+  "description": "Philosophy majors read major thinkers from Plato and Confucius to Kant, Nietzsche, and contemporary philosophers, and they tackle questions such as what we can know, what makes actions right, whether we have free will, and what the mind is. Core areas include logic, ethics, epistemology, metaphysics, philosophy of mind, political philosophy, and the history of philosophy. Many programs offer applied courses in bioethics, business ethics, philosophy of science, and philosophy of law. Students spend much of their time writing short, tightly argued papers and discussing ideas in seminars. Philosophy majors consistently score well on the LSAT, GRE, and GMAT, and the major is excellent preparation for law, public policy, and any career that requires clear reasoning.",
+  "jobs": [
+    "Attorney (with law degree)",
+    "Policy analyst",
+    "Ethics consultant",
+    "Management consultant",
+    "Writer or editor",
+    "Nonprofit program manager",
+    "Business analyst",
+    "Bioethicist",
+    "Professor (with graduate degree)"
+  ]
+}

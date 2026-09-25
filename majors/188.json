@@ -1,0 +1,19 @@
+{
+  "id": 188,
+  "name": "Mining Engineering",
+  "departmentIds": [
+    46
+  ],
+  "summary": "Mining Engineering focuses on the safe, efficient, and responsible extraction of minerals from the Earth. Mining engineers design mines and plan operations.",
+  "description": "Mining Engineering majors study mine design and planning, surface and underground mining methods, rock mechanics, mine ventilation, mineral processing, mine safety and health, and mining economics, along with geology and engineering fundamentals. They learn to use mine planning software and consider environmental impact and reclamation. Demand for critical minerals such as lithium, copper, and rare earths for batteries and electronics is creating new opportunities. Graduates work for mining companies, consulting firms, equipment manufacturers, and government safety agencies.",
+  "jobs": [
+    "Mining engineer",
+    "Mine planning engineer",
+    "Ventilation engineer",
+    "Mine safety engineer",
+    "Mineral processing engineer",
+    "Geotechnical engineer",
+    "Reclamation specialist",
+    "Mine operations manager"
+  ]
+}

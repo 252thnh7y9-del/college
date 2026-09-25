@@ -1,0 +1,19 @@
+{
+  "id": 191,
+  "name": "Biological Systems Engineering",
+  "departmentIds": [
+    47,
+    37
+  ],
+  "summary": "Biological Systems Engineering applies engineering to living systems, including food, agriculture, the environment, and bioenergy. It connects biology with engineering design.",
+  "description": "Biological Systems Engineering, often housed with agricultural engineering, applies engineering to problems involving plants, animals, microorganisms, and ecosystems. Coursework covers biological and chemical principles, bioprocess engineering, food engineering, bioenvironmental engineering, water resources, bioenergy and biofuels, and biosensors. Students might design systems to treat wastewater with microbes, convert crop waste into fuel, or process food safely. Graduates work in food and bioprocessing companies, environmental consulting, water resources, renewable energy, and biotechnology, and some pursue medical or graduate school.",
+  "jobs": [
+    "Biological systems engineer",
+    "Bioprocess engineer",
+    "Food engineer",
+    "Environmental engineer",
+    "Bioenergy engineer",
+    "Water resources engineer",
+    "Research engineer"
+  ]
+}

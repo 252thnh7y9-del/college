@@ -1,0 +1,20 @@
+{
+  "id": 182,
+  "name": "Operations Research",
+  "departmentIds": [
+    43,
+    33
+  ],
+  "summary": "Operations Research uses mathematical modeling, statistics, and optimization to help organizations make better decisions. It is applied to problems like scheduling, logistics, and resource allocation.",
+  "description": "Operations Research majors study linear and integer programming, network optimization, stochastic processes, queueing theory, simulation, decision analysis, and statistics, along with programming and data analysis. They learn to translate messy real-world problems, such as routing delivery trucks, scheduling airline crews, or allocating hospital beds, into mathematical models and find the best solutions. The major overlaps with industrial engineering and applied math. Graduates work as analysts and data scientists in logistics, airlines, consulting, finance, healthcare, the military, and technology companies.",
+  "jobs": [
+    "Operations research analyst",
+    "Data scientist",
+    "Supply chain analyst",
+    "Logistics analyst",
+    "Pricing and revenue management analyst",
+    "Management consultant",
+    "Quantitative analyst",
+    "Military operations analyst"
+  ]
+}

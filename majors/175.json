@@ -1,0 +1,19 @@
+{
+  "id": 175,
+  "name": "Information Science",
+  "departmentIds": [
+    50
+  ],
+  "summary": "Information Science studies how people create, find, organize, and use information and technology. It combines computing with the social and human side of information systems.",
+  "description": "Information Science majors study data and information management, databases, programming, human-computer interaction, information architecture, data analytics, and the social and ethical dimensions of technology, such as privacy and misinformation. Some programs emphasize user experience, others data science, and others libraries and archives. Students learn to design systems that serve people well and to analyze how information flows in organizations and society. Projects often involve real users and organizations. Graduates work in UX, data analysis, information management, product management, and digital libraries.",
+  "jobs": [
+    "Data analyst",
+    "UX researcher",
+    "Information architect",
+    "Product manager",
+    "Database specialist",
+    "Digital librarian",
+    "Business systems analyst",
+    "Knowledge manager"
+  ]
+}

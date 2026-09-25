@@ -1,0 +1,19 @@
+{
+  "id": 139,
+  "name": "Applied Physics",
+  "departmentIds": [
+    30
+  ],
+  "summary": "Applied Physics uses the principles of physics to solve practical problems and develop new technologies. It bridges physics and engineering.",
+  "description": "Applied Physics majors take the core physics curriculum of mechanics, electromagnetism, thermodynamics, and quantum mechanics, but emphasize applications through courses in electronics, optics and lasers, semiconductor physics, materials, and instrumentation. Programs often include engineering courses and computational methods, and lab work focuses on building and testing devices and measurement systems. Students may concentrate in areas such as photonics, nanotechnology, or energy. Graduates work in technology companies, semiconductor manufacturing, optics and photonics, aerospace, and national laboratories, or continue to engineering and physics graduate programs.",
+  "jobs": [
+    "Applied physicist",
+    "Optical engineer",
+    "Semiconductor process engineer",
+    "Test engineer",
+    "Laser technician",
+    "Research engineer",
+    "Instrumentation engineer",
+    "Data scientist"
+  ]
+}

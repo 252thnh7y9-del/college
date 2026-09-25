@@ -1,0 +1,20 @@
+{
+  "id": 83,
+  "name": "Screenwriting",
+  "departmentIds": [
+    17,
+    1
+  ],
+  "summary": "Screenwriting majors learn to write scripts for feature films, television, and digital media. The major focuses on story structure, character, and dialogue.",
+  "description": "Screenwriting students study the craft of visual storytelling, including three-act structure, character arcs, scene construction, and dialogue, and they learn industry formatting and conventions. They write short films, feature screenplays, television pilots, and spec episodes, workshopping drafts in small classes. Courses on film history and genre analysis help them understand what makes stories work on screen, and some programs include courses on adaptation, writing for games, and the business of screenwriting, such as pitching, agents, and writers' rooms. Graduates leave with a portfolio of scripts and pursue careers in film, television, streaming, and digital content.",
+  "jobs": [
+    "Screenwriter",
+    "Television writer",
+    "Writers' assistant",
+    "Script coordinator",
+    "Story analyst",
+    "Development executive",
+    "Content writer",
+    "Game narrative writer"
+  ]
+}

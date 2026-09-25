@@ -1,0 +1,19 @@
+{
+  "id": 111,
+  "name": "African Studies",
+  "departmentIds": [
+    26
+  ],
+  "summary": "African Studies examines the history, politics, economies, cultures, and languages of the African continent. Students gain a deep understanding of Africa's 54 countries and their global connections.",
+  "description": "African Studies majors take courses across history, political science, economics, anthropology, literature, and the arts to understand Africa's diverse societies. Topics include precolonial kingdoms, the slave trade, colonialism and independence movements, development and economic growth, public health, conflict and governance, and contemporary African literature, film, and music. Many programs require study of an African language such as Swahili, Yoruba, Zulu, or Arabic, and study abroad is encouraged. Graduates work in international development, diplomacy, global health, humanitarian organizations, business, and education.",
+  "jobs": [
+    "International development specialist",
+    "Foreign service officer",
+    "Global health program officer",
+    "Humanitarian worker",
+    "Policy analyst",
+    "Journalist",
+    "International business associate",
+    "Teacher"
+  ]
+}

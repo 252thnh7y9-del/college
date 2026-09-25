@@ -1,0 +1,20 @@
+{
+  "id": 14,
+  "name": "Jewish Studies",
+  "departmentIds": [
+    5,
+    26
+  ],
+  "summary": "Jewish Studies explores Jewish history, religion, culture, and literature from ancient times to the present. The major is interdisciplinary and open to students of any background.",
+  "description": "Jewish Studies draws on history, religion, literature, philosophy, and the social sciences to examine the Jewish experience across more than three thousand years. Topics include the Hebrew Bible and rabbinic literature, Jewish communities in the Middle Ages and early modern period, the Holocaust, Zionism and modern Israel, American Jewish life, and Jewish literature, film, and thought. Most programs require the study of Hebrew, and some offer Yiddish. Students learn to analyze texts and historical sources and to understand how a minority culture has sustained and changed its identity across many societies. Graduates work in education, community organizations, museums, journalism, and public service.",
+  "jobs": [
+    "Jewish community organization staff",
+    "Hillel professional",
+    "Museum educator",
+    "Teacher",
+    "Nonprofit program manager",
+    "Journalist",
+    "Rabbi (with rabbinical school)",
+    "Holocaust education specialist"
+  ]
+}

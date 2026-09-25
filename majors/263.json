@@ -1,0 +1,19 @@
+{
+  "id": 263,
+  "name": "Nutrition & Dietetics",
+  "departmentIds": [
+    64
+  ],
+  "summary": "Nutrition and Dietetics studies how food and nutrients affect health and prepares students to become registered dietitians. Students learn to plan diets for individuals and populations.",
+  "description": "Nutrition and Dietetics majors take biology, chemistry, biochemistry, and physiology along with courses in human nutrition, nutrition across the lifespan, medical nutrition therapy, community nutrition, food science, food service management, and counseling. They learn to assess nutritional status and design diets for health and disease management. Accredited programs prepare students for the supervised practice and exam required to become Registered Dietitian Nutritionists, and since 2024 a master's degree is also required for the RD exam. Graduates work in hospitals, public health, food service, sports nutrition, and wellness.",
+  "jobs": [
+    "Registered dietitian (with graduate degree)",
+    "Nutrition educator",
+    "WIC nutritionist",
+    "Food service manager",
+    "Sports nutritionist",
+    "Clinical dietetic technician",
+    "Wellness coach",
+    "Nutrition product developer"
+  ]
+}

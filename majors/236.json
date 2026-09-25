@@ -1,0 +1,19 @@
+{
+  "id": 236,
+  "name": "Social Studies Education",
+  "departmentIds": [
+    57,
+    3
+  ],
+  "summary": "Social Studies Education prepares students to teach history, government, geography, economics, and related subjects in middle and high schools. The major combines social science coursework with teaching methods.",
+  "description": "Social Studies Education majors take coursework in U.S. and world history, political science, geography, economics, and sometimes psychology and sociology, along with education courses in adolescent development, social studies teaching methods, classroom management, and assessment. They learn to teach students to analyze primary sources, discuss controversial issues, and understand civic participation. Field experiences and student teaching lead to licensure. Graduates teach history, civics, and social studies and also coach activities such as debate and Model UN.",
+  "jobs": [
+    "History teacher",
+    "Government and civics teacher",
+    "Social studies teacher",
+    "Museum educator",
+    "Curriculum developer",
+    "Instructional coach",
+    "Educational program coordinator"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 276,
+  "name": "Sports Media",
+  "departmentIds": [
+    68,
+    60
+  ],
+  "summary": "Sports Media prepares students to cover and produce sports content for television, radio, digital, and social media. Students learn sports reporting, broadcasting, and production.",
+  "description": "Sports Media majors study sports reporting and writing, play-by-play and color commentary, sports broadcasting and production, sports photography and video, sports information and public relations, social media for sports, and the business of sports media. Students gain experience covering campus athletics through student media and live game broadcasts, often streamed on regional sports networks. Internships with teams, networks, and athletic departments are common. Graduates work as sports reporters, broadcasters, producers, and social media and communications staff for teams and leagues.",
+  "jobs": [
+    "Sports reporter",
+    "Sports broadcaster",
+    "Sports producer",
+    "Sports information director",
+    "Team social media manager",
+    "Play-by-play announcer",
+    "Sports photographer",
+    "Sports communications coordinator"
+  ]
+}

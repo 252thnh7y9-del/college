@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "name": "Philosophy, Politics & Economics",
+  "departmentIds": [
+    4,
+    20,
+    19
+  ],
+  "summary": "Philosophy, Politics and Economics (PPE) is an interdisciplinary major that combines three fields to study how societies make decisions. Students learn to connect ethical reasoning, political institutions, and economic analysis.",
+  "description": "PPE was pioneered at Oxford and is now offered at many universities. Students take core courses in each discipline: ethics and political philosophy, political science and comparative government, and micro- and macroeconomics. Integrative seminars then tackle problems that cross all three, such as justice and inequality, the design of democratic institutions, public goods, markets and morality, and rational choice. Most programs require some statistics or formal modeling. Graduates are trained to evaluate policy questions from normative, institutional, and economic angles, which makes the major popular with students heading to law school, government, consulting, finance, and public policy careers.",
+  "jobs": [
+    "Policy analyst",
+    "Management consultant",
+    "Attorney (with law degree)",
+    "Economic analyst",
+    "Legislative aide",
+    "Think tank researcher",
+    "Financial analyst",
+    "Government affairs specialist",
+    "Journalist"
+  ]
+}

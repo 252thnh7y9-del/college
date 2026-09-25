@@ -1,0 +1,19 @@
+{
+  "id": 138,
+  "name": "Physics",
+  "departmentIds": [
+    30
+  ],
+  "summary": "Physics studies the fundamental laws of nature, including matter, energy, motion, forces, and space and time. The major develops strong mathematical and problem-solving skills.",
+  "description": "Physics majors take a sequence covering classical mechanics, electricity and magnetism, thermodynamics and statistical mechanics, optics, quantum mechanics, and special relativity, supported by extensive mathematics such as calculus, differential equations, and linear algebra. Laboratory courses teach experimental techniques and data analysis, and computational physics courses build programming skills. Electives may include astrophysics, condensed matter, particle, and nuclear physics. Many students conduct research. Physics graduates work in engineering, technology, data science, finance, and national labs, and many pursue graduate study.",
+  "jobs": [
+    "Research physicist (with graduate degree)",
+    "Engineer",
+    "Data scientist",
+    "Physics teacher",
+    "Optical engineer",
+    "Medical physicist (with graduate degree)",
+    "Software developer",
+    "Quantitative analyst"
+  ]
+}

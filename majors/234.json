@@ -1,0 +1,19 @@
+{
+  "id": 234,
+  "name": "Mathematics Education",
+  "departmentIds": [
+    57,
+    33
+  ],
+  "summary": "Mathematics Education prepares students to teach mathematics in middle and high schools. The major combines advanced math coursework with methods for helping students learn math.",
+  "description": "Mathematics Education majors take calculus, linear algebra, abstract algebra, geometry, statistics, and other math courses, often nearly as many as a math major, along with education courses in how students learn mathematics, math teaching methods, technology in the classroom, assessment, and classroom management. They learn to explain concepts in multiple ways and address common misconceptions. Field experiences and student teaching lead to licensure. Math teachers are in high demand in many states, and graduates also work in tutoring and curriculum development.",
+  "jobs": [
+    "High school math teacher",
+    "Middle school math teacher",
+    "Math instructional coach",
+    "Curriculum developer",
+    "Tutor",
+    "Educational software content developer",
+    "Community college instructor (with graduate degree)"
+  ]
+}

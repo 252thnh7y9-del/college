@@ -1,0 +1,19 @@
+{
+  "id": 110,
+  "name": "African American Studies",
+  "departmentIds": [
+    26
+  ],
+  "summary": "African American Studies examines the history, culture, politics, and experiences of people of African descent in the United States. The major is interdisciplinary and draws on history, literature, sociology, and the arts.",
+  "description": "African American Studies, also called Black Studies or Africana Studies, explores Black life in America from slavery and abolition through Reconstruction, the Great Migration, the Harlem Renaissance, the civil rights and Black Power movements, and the present. Coursework includes history, literature, music, art, religion, politics, and sociology, and examines topics such as racial inequality, criminal justice, education, and Black intellectual traditions. Many programs also connect to the wider African diaspora in the Caribbean, Latin America, and Africa. The major builds research, writing, and analytical skills and prepares graduates for careers in education, law, public policy, community organizing, and the arts.",
+  "jobs": [
+    "Teacher",
+    "Community organizer",
+    "Diversity and inclusion specialist",
+    "Policy analyst",
+    "Museum educator",
+    "Nonprofit program manager",
+    "Attorney (with law degree)",
+    "Journalist"
+  ]
+}

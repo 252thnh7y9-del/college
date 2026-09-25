@@ -1,0 +1,21 @@
+{
+  "id": 174,
+  "name": "Information Technology",
+  "departmentIds": [
+    55,
+    50,
+    41
+  ],
+  "summary": "Information Technology focuses on building, managing, and supporting the computer systems and networks that organizations depend on. The major is practical and applied.",
+  "description": "Information Technology majors learn networking, systems administration, databases, web development, cloud computing, cybersecurity, and IT project management, along with programming and scripting. Compared with computer science, IT emphasizes deploying, integrating, and supporting technology rather than theory and algorithm design. Students work with operating systems, virtualization, and enterprise tools, and they learn how to support users and align technology with business needs. Many programs prepare students for industry certifications. Graduates work in IT support, networking, cloud and systems administration, and IT management across all industries.",
+  "jobs": [
+    "Systems administrator",
+    "Network administrator",
+    "IT support specialist",
+    "Cloud engineer",
+    "IT project manager",
+    "Database administrator",
+    "Security analyst",
+    "Help desk manager"
+  ]
+}

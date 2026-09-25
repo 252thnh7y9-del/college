@@ -1,0 +1,19 @@
+{
+  "id": 250,
+  "name": "Medical Laboratory Science",
+  "departmentIds": [
+    63,
+    28
+  ],
+  "summary": "Medical Laboratory Science prepares students to perform laboratory tests that help diagnose and treat disease. Medical laboratory scientists analyze blood, tissue, and body fluids.",
+  "description": "Medical Laboratory Science majors take biology and chemistry foundations and then study clinical chemistry, hematology, immunology, microbiology, blood banking and transfusion medicine, molecular diagnostics, and laboratory management and quality control. The program includes a clinical practicum in a hospital laboratory where students perform tests under supervision. Graduates take a national certification exam to become certified Medical Laboratory Scientists. There is a national shortage of laboratory professionals, and graduates work in hospital labs, reference labs, public health labs, and research.",
+  "jobs": [
+    "Medical laboratory scientist",
+    "Clinical laboratory technologist",
+    "Blood bank technologist",
+    "Microbiology technologist",
+    "Molecular diagnostics technologist",
+    "Laboratory supervisor",
+    "Public health laboratory scientist"
+  ]
+}

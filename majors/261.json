@@ -1,0 +1,19 @@
+{
+  "id": 261,
+  "name": "Exercise Science",
+  "departmentIds": [
+    60
+  ],
+  "summary": "Exercise Science studies how the body responds and adapts to physical activity. Students learn to assess fitness and design exercise programs for health and performance.",
+  "description": "Exercise Science majors study anatomy and physiology, exercise physiology, biomechanics, nutrition, fitness assessment, exercise prescription, strength and conditioning, and exercise for special populations, such as older adults or people with chronic diseases. They gain hands-on experience in exercise physiology labs and complete internships at fitness centers, clinics, or athletic programs. Many prepare for certifications such as the NSCA Certified Strength and Conditioning Specialist or ACSM Exercise Physiologist. Graduates work in fitness, rehabilitation, and sports performance, or continue to health professional programs.",
+  "jobs": [
+    "Exercise physiologist",
+    "Strength and conditioning coach",
+    "Personal trainer",
+    "Clinical exercise specialist",
+    "Fitness director",
+    "Wellness coach",
+    "Physical therapist (with DPT)",
+    "Physician assistant (with graduate degree)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 128,
+  "name": "Marine Biology",
+  "departmentIds": [
+    28,
+    31
+  ],
+  "summary": "Marine Biology studies life in the ocean, from microscopic plankton to whales and coral reefs. Students learn about marine ecosystems and how humans affect them.",
+  "description": "Marine Biology majors combine a core biology and chemistry foundation with courses in oceanography, marine ecology, marine invertebrates, ichthyology (fish biology), marine mammals, coral reef ecology, and conservation. Field experience is a key part of the program, including research cruises, coastal fieldwork, and courses at marine labs, and students often learn scientific diving and boat safety. They study threats such as overfishing, pollution, and climate change. Graduates work in marine research, conservation, fisheries management, aquariums, environmental consulting, and education, and many continue to graduate school.",
+  "jobs": [
+    "Marine biologist",
+    "Fisheries observer",
+    "Aquarist",
+    "Marine conservation specialist",
+    "Environmental consultant",
+    "Marine educator",
+    "Research technician",
+    "Aquaculture technician"
+  ]
+}

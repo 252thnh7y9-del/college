@@ -1,0 +1,22 @@
+{
+  "id": 85,
+  "name": "Arts Management",
+  "departmentIds": [
+    53,
+    12,
+    14,
+    15
+  ],
+  "summary": "Arts Management prepares students to lead and run arts organizations such as museums, theatres, orchestras, galleries, and festivals. The major combines arts knowledge with business and nonprofit management.",
+  "description": "Arts Management majors study the business side of culture. Coursework includes nonprofit management, fundraising and development, grant writing, marketing and audience development, arts policy, budgeting, and legal issues such as contracts and intellectual property. Students also take courses in at least one art form, such as music, theatre, visual art, or dance. Internships with arts organizations are central to the program and help students build professional networks. Graduates manage programs, raise money, market performances and exhibitions, and run operations for arts nonprofits, commercial galleries, performing arts venues, and arts councils.",
+  "jobs": [
+    "Arts administrator",
+    "Development officer",
+    "Marketing manager (arts)",
+    "Box office manager",
+    "Gallery manager",
+    "Program coordinator",
+    "Arts council officer",
+    "Venue operations manager"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 219,
+  "name": "Tourism Management",
+  "departmentIds": [
+    82
+  ],
+  "summary": "Tourism Management studies the travel and tourism industry and how destinations and businesses attract and serve visitors. The major covers tourism planning, marketing, and sustainability.",
+  "description": "Tourism Management majors study the tourism system, destination planning and marketing, travel services, tour operations, ecotourism and sustainable tourism, cultural and heritage tourism, and the economic and social impacts of tourism. Coursework often includes hospitality, marketing, and geography. Students may study abroad and complete internships with tour operators, destination marketing organizations, cruise lines, or travel companies. Graduates work in destination marketing, tour operations, travel agencies, attractions, and tourism policy.",
+  "jobs": [
+    "Destination marketing manager",
+    "Tour operator",
+    "Travel agent",
+    "Tourism development officer",
+    "Cruise line operations staff",
+    "Attractions manager",
+    "Ecotourism guide",
+    "Convention and visitors bureau coordinator"
+  ]
+}

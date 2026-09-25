@@ -1,0 +1,21 @@
+{
+  "id": 316,
+  "name": "Science, Technology & Society",
+  "departmentIds": [
+    84,
+    3,
+    23
+  ],
+  "summary": "Science, Technology and Society (STS) examines how science and technology shape society and how social, political, and cultural forces shape science and technology. The major bridges the sciences and the humanities.",
+  "description": "STS majors study the history of science and technology, the sociology of scientific knowledge, ethics of technology, science policy, and topics such as artificial intelligence, biotechnology, climate change, medicine, and the internet. They learn to analyze how technologies are designed and adopted, who benefits and who is harmed, and how science influences public decisions. Many programs require some coursework in a science or engineering field. Graduates work in science and technology policy, technology ethics and governance, science communication, and consulting, and the major is also good preparation for law and medical school.",
+  "jobs": [
+    "Science policy analyst",
+    "Technology ethics specialist",
+    "Science writer",
+    "Policy advisor",
+    "UX researcher",
+    "Research analyst",
+    "Regulatory affairs specialist",
+    "Attorney (with law degree)"
+  ]
+}

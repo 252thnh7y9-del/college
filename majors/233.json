@@ -1,0 +1,21 @@
+{
+  "id": 233,
+  "name": "Science Education",
+  "departmentIds": [
+    57,
+    28,
+    29,
+    30
+  ],
+  "summary": "Science Education prepares students to teach biology, chemistry, physics, earth science, or general science in middle and high schools. Students combine deep science coursework with teaching methods.",
+  "description": "Science Education majors complete substantial coursework in one or more sciences along with education courses in adolescent development, science teaching methods, inquiry-based and laboratory instruction, lab safety, assessment, and classroom management. They learn to make science engaging and accessible to all students. Field experiences and student teaching take place in middle and high school science classrooms and lead to licensure. Science teachers are in high demand, especially in physics and chemistry, and graduates also find roles in museums and informal science education.",
+  "jobs": [
+    "Biology teacher",
+    "Chemistry teacher",
+    "Physics teacher",
+    "Middle school science teacher",
+    "Science curriculum specialist",
+    "Museum science educator",
+    "Environmental educator"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 198,
+  "name": "Accounting",
+  "departmentIds": [
+    51
+  ],
+  "summary": "Accounting teaches students to record, analyze, and report financial information for businesses, governments, and individuals. The major prepares students for professional certifications such as the CPA.",
+  "description": "Accounting majors study financial accounting, managerial accounting, intermediate accounting, cost accounting, auditing, taxation, accounting information systems, and business law, alongside core business courses. They learn generally accepted accounting principles (GAAP), how to prepare and analyze financial statements, and how to use accounting software and data analytics. Many programs help students meet the 150 credit hours required for CPA licensure, sometimes through a combined bachelor's and master's program. Graduates are in consistently strong demand at public accounting firms, corporations, government agencies, and nonprofits.",
+  "jobs": [
+    "Certified Public Accountant (CPA)",
+    "Auditor",
+    "Tax accountant",
+    "Staff accountant",
+    "Forensic accountant",
+    "Financial analyst",
+    "Controller",
+    "Internal auditor"
+  ]
+}

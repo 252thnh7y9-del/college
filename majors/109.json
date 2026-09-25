@@ -1,0 +1,20 @@
+{
+  "id": 109,
+  "name": "Homeland Security & Emergency Management",
+  "departmentIds": [
+    25,
+    80
+  ],
+  "summary": "Homeland Security and Emergency Management prepares students to protect communities from threats such as terrorism, natural disasters, and public health emergencies. Students learn how to plan for, respond to, and recover from crises.",
+  "description": "This major covers the full cycle of emergency management: mitigation, preparedness, response, and recovery. Students study hazards and risk assessment, emergency planning, incident command systems, disaster response and recovery, critical infrastructure protection, terrorism and counterterrorism, cybersecurity basics, intelligence analysis, and the laws and agencies involved, such as FEMA and the Department of Homeland Security. Exercises and simulations give students hands-on practice. Graduates work for federal, state, and local government agencies, hospitals, utilities, private companies, and nonprofits such as the Red Cross.",
+  "jobs": [
+    "Emergency management specialist",
+    "Emergency planner",
+    "Homeland security analyst",
+    "Business continuity planner",
+    "Intelligence analyst",
+    "FEMA specialist",
+    "Transportation security officer",
+    "Hospital emergency preparedness coordinator"
+  ]
+}

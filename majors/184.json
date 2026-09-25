@@ -1,0 +1,19 @@
+{
+  "id": 184,
+  "name": "Materials Science & Engineering",
+  "departmentIds": [
+    44
+  ],
+  "summary": "Materials Science and Engineering studies how the structure of materials determines their properties and how to design new materials. It covers metals, ceramics, polymers, semiconductors, and composites.",
+  "description": "Materials Science and Engineering majors study atomic and crystal structure, thermodynamics and kinetics of materials, mechanical, electrical, thermal, and optical properties, and materials processing and characterization. They learn techniques such as electron microscopy and X-ray diffraction to examine materials at small scales. Electives may cover nanomaterials, biomaterials, energy materials such as batteries and solar cells, semiconductors, and failure analysis. Materials engineers are essential to industries including aerospace, automotive, electronics, energy, and medical devices.",
+  "jobs": [
+    "Materials engineer",
+    "Metallurgist",
+    "Process engineer",
+    "Semiconductor engineer",
+    "Failure analysis engineer",
+    "Polymer engineer",
+    "Battery engineer",
+    "Quality engineer"
+  ]
+}

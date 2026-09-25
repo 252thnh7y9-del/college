@@ -1,0 +1,21 @@
+{
+  "id": 249,
+  "name": "Health Informatics",
+  "departmentIds": [
+    63,
+    50,
+    55
+  ],
+  "summary": "Health Informatics combines healthcare, information technology, and data science to improve patient care and health system efficiency. Students learn to manage and analyze health data and electronic health records.",
+  "description": "Health Informatics majors study healthcare systems, medical terminology, electronic health record systems, health data standards and interoperability, databases, data analytics, privacy and security (including HIPAA), clinical decision support, and project management. They learn how data flows through hospitals and clinics and how to use it to improve quality and outcomes. Some programs prepare students for the Registered Health Information Administrator credential. Graduates work in hospitals, health IT companies, insurers, and public health agencies.",
+  "jobs": [
+    "Health informatics specialist",
+    "Clinical data analyst",
+    "EHR analyst",
+    "Health information manager",
+    "Healthcare data analyst",
+    "Clinical systems analyst",
+    "Health IT consultant",
+    "Medical records manager"
+  ]
+}

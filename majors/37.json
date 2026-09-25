@@ -1,0 +1,20 @@
+{
+  "id": 37,
+  "name": "Applied Linguistics",
+  "departmentIds": [
+    10,
+    1
+  ],
+  "summary": "Applied Linguistics uses the study of language to solve real-world problems in teaching, testing, translation, and communication. The major focuses on how people learn and use languages in practice.",
+  "description": "Applied Linguistics connects linguistic theory to practical questions: how people acquire second languages, how to teach and assess language effectively, how language is used in workplaces, courts, and healthcare, and how bilingual communities communicate. Students take foundational linguistics courses along with second language acquisition, language pedagogy, sociolinguistics, discourse analysis, and language assessment. Many programs include teaching practicums or a TESOL certificate. Graduates are prepared to teach English or other languages in the U.S. and abroad, develop language curricula and tests, work in localization and translation, and support language policy in schools and organizations.",
+  "jobs": [
+    "ESL teacher",
+    "Language program coordinator",
+    "Curriculum developer",
+    "Language assessment specialist",
+    "Localization specialist",
+    "Corporate trainer",
+    "Instructional designer",
+    "Language policy analyst"
+  ]
+}

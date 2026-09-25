@@ -1,0 +1,19 @@
+{
+  "id": 99,
+  "name": "Applied Psychology",
+  "departmentIds": [
+    22
+  ],
+  "summary": "Applied Psychology focuses on using psychological knowledge to solve practical problems in areas such as health, education, work, and community life. It emphasizes practice and fieldwork more than a traditional psychology major.",
+  "description": "Applied Psychology majors study the core areas of psychology, including development, cognition, social behavior, and mental health, with an emphasis on how research can be used in real settings. Coursework may include counseling skills, behavior analysis, health psychology, educational psychology, program evaluation, and organizational behavior. Students typically complete supervised internships or practicums in schools, clinics, human service agencies, or businesses. Graduates are prepared for entry-level roles in mental health support, human services, behavior analysis, and human resources, or for graduate programs in counseling, social work, or school psychology.",
+  "jobs": [
+    "Behavior technician",
+    "Case manager",
+    "Mental health technician",
+    "Human resources coordinator",
+    "Program evaluator",
+    "Youth counselor",
+    "Board Certified Behavior Analyst (with master's degree)",
+    "School psychologist (with graduate degree)"
+  ]
+}

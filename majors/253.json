@@ -1,0 +1,18 @@
+{
+  "id": 253,
+  "name": "Diagnostic Medical Sonography",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Diagnostic Medical Sonography trains students to use ultrasound to create images of organs, tissues, blood vessels, and developing babies. Sonographers help physicians diagnose medical conditions.",
+  "description": "Sonography majors study anatomy and physiology, ultrasound physics and instrumentation, and scanning techniques for abdominal, obstetric and gynecologic, vascular, and cardiac (echocardiography) imaging. They practice in scanning labs and complete extensive clinical rotations in hospitals and clinics. Graduates take registry exams from the American Registry for Diagnostic Medical Sonography (ARDMS) or related boards. Ultrasound does not use radiation, and demand for sonographers is growing. Graduates work in hospitals, outpatient clinics, physician offices, and imaging centers.",
+  "jobs": [
+    "Diagnostic medical sonographer",
+    "Echocardiographer",
+    "Vascular sonographer",
+    "Obstetric sonographer",
+    "Musculoskeletal sonographer",
+    "Lead sonographer",
+    "Ultrasound applications specialist"
+  ]
+}

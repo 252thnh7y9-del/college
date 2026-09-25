@@ -1,0 +1,18 @@
+{
+  "id": 165,
+  "name": "Structural Engineering",
+  "departmentIds": [
+    39
+  ],
+  "summary": "Structural Engineering focuses on designing structures such as buildings, bridges, towers, and stadiums to be safe, stable, and durable. It is a specialized branch of civil engineering.",
+  "description": "Structural Engineering majors take civil engineering fundamentals and then concentrate on structural analysis, the behavior of steel, concrete, timber, and masonry, structural dynamics, and earthquake and wind engineering. They learn to design structural systems that resist loads and to use analysis software based on finite element methods, following building codes. Coursework may also cover bridge engineering, foundation design, and the rehabilitation of existing structures. Graduates work for structural and civil engineering firms, construction companies, and government agencies, and typically pursue PE and SE licensure.",
+  "jobs": [
+    "Structural engineer",
+    "Bridge engineer",
+    "Building design engineer",
+    "Seismic engineer",
+    "Forensic structural engineer",
+    "Structural inspector",
+    "Construction engineer"
+  ]
+}

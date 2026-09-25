@@ -1,0 +1,19 @@
+{
+  "id": 22,
+  "name": "French",
+  "departmentIds": [
+    7
+  ],
+  "summary": "French majors develop fluency in French and study the literature, history, and cultures of France and the wider French-speaking world. Coursework covers everything from classic French literature to francophone Africa, Canada, and the Caribbean.",
+  "description": "French majors start with language courses and progress to advanced work in composition, conversation, phonetics, and translation. Upper-level courses, taught in French, explore literature from the Middle Ages to the present, French cinema, intellectual history, and the cultures of francophone countries in Africa, the Caribbean, Quebec, and elsewhere. Study abroad in France or another francophone country is strongly encouraged. French is an official language of the United Nations, the European Union, and many international organizations, so graduates often find opportunities in diplomacy, international development, and global business, as well as in teaching, translation, tourism, and the arts.",
+  "jobs": [
+    "French teacher",
+    "Translator",
+    "Foreign service officer",
+    "International organization staff",
+    "Tourism professional",
+    "International business associate",
+    "Diplomatic aide",
+    "Editor"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 163,
+  "name": "Civil Engineering",
+  "departmentIds": [
+    39
+  ],
+  "summary": "Civil Engineering designs, builds, and maintains the infrastructure of society, including roads, bridges, buildings, water systems, and dams. It is one of the oldest engineering disciplines.",
+  "description": "Civil Engineering majors take math, physics, and engineering mechanics, then study the main subfields: structural engineering, geotechnical engineering (soils and foundations), transportation engineering, water resources and hydraulics, environmental engineering, and construction management. Students learn surveying, CAD, and structural analysis software, and they study building codes and project management. A senior design project typically involves a realistic infrastructure project. Graduates often pursue the Professional Engineer (PE) license and work for engineering firms, construction companies, and government agencies.",
+  "jobs": [
+    "Civil engineer",
+    "Structural engineer",
+    "Transportation engineer",
+    "Geotechnical engineer",
+    "Water resources engineer",
+    "Construction project engineer",
+    "City engineer",
+    "Site development engineer"
+  ]
+}

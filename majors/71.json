@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "name": "Music Therapy",
+  "departmentIds": [
+    14,
+    63
+  ],
+  "summary": "Music Therapy trains students to use music to help people with physical, emotional, cognitive, and social needs. Graduates are prepared to become board-certified music therapists.",
+  "description": "Music Therapy majors combine advanced musicianship, especially on guitar, piano, and voice, with coursework in psychology, anatomy, and the principles of music therapy. They learn how to assess clients and design music-based interventions for people with autism, dementia, brain injuries, mental illness, chronic pain, and developmental disabilities, and for patients in hospitals and hospice care. Students complete supervised clinical practicums and a six-month internship. After graduating from an accredited program, they sit for the national board exam to earn the MT-BC credential. Music therapists work in hospitals, schools, rehabilitation centers, nursing homes, and private practice.",
+  "jobs": [
+    "Board-certified music therapist",
+    "Hospice music therapist",
+    "Rehabilitation music therapist",
+    "School-based music therapist",
+    "Activities director",
+    "Private practice music therapist"
+  ]
+}

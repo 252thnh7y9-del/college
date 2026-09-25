@@ -1,0 +1,20 @@
+{
+  "id": 75,
+  "name": "Music Technology & Audio Engineering",
+  "departmentIds": [
+    14,
+    40
+  ],
+  "summary": "Music Technology and Audio Engineering teaches students to record, mix, and produce music and sound using professional studio equipment and software. The major combines technical knowledge with musical skill.",
+  "description": "Students learn the science of sound, including acoustics, signal flow, microphones, and digital audio, and how to operate recording consoles and digital audio workstations such as Pro Tools and Logic. Coursework covers recording, mixing, mastering, live sound reinforcement, electronic music, synthesis, and sound design for film and games. Many programs include music theory, performance, electronics, and programming for audio. Students gain hands-on experience in campus studios and produce a portfolio of recordings. Graduates work as recording and live sound engineers, producers, sound designers, and audio specialists in music, film, broadcasting, and gaming.",
+  "jobs": [
+    "Recording engineer",
+    "Live sound engineer",
+    "Music producer",
+    "Mixing and mastering engineer",
+    "Sound designer",
+    "Broadcast audio technician",
+    "Audio software developer",
+    "Post-production audio editor"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 47,
+  "name": "Painting",
+  "departmentIds": [
+    12
+  ],
+  "summary": "Painting majors develop technical skill and a personal artistic voice in oil, acrylic, watercolor, and mixed media. The major combines studio practice with the history and theory of painting.",
+  "description": "Painting students begin with drawing, color theory, and composition and move on to painting from observation, including still life, landscape, and the figure, before developing independent work. They learn traditional techniques such as preparing grounds, glazing, and mixing pigments, along with contemporary approaches that blend painting with installation, digital tools, or other media. Frequent group critiques help students articulate intentions and respond to feedback. Courses in art history and contemporary art place their work in context. Most programs end with a solo or group exhibition. Graduates work as exhibiting artists, muralists, illustrators, teachers, and in galleries and museums.",
+  "jobs": [
+    "Professional painter",
+    "Muralist",
+    "Illustrator",
+    "Art teacher",
+    "Scenic painter",
+    "Art restorer assistant",
+    "Gallery associate",
+    "Commissioned portrait artist"
+  ]
+}

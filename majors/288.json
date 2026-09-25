@@ -1,0 +1,20 @@
+{
+  "id": 288,
+  "name": "Sustainable Agriculture & Food Systems",
+  "departmentIds": [
+    70,
+    32
+  ],
+  "summary": "Sustainable Agriculture and Food Systems studies how to produce food in ways that protect the environment, support farmers, and feed communities. The major covers farming practices as well as food policy and justice.",
+  "description": "This major takes a systems view of how food is produced, distributed, and consumed. Students study agroecology, organic and regenerative farming, soil health, crop and livestock integration, water management, food policy, food security, local and regional food systems, and food justice. Many programs include hands-on work on student farms and community gardens, as well as internships with farms, food banks, or nonprofits. Graduates work as farmers, farm managers, food system planners, and in sustainability, nonprofit, and policy roles.",
+  "jobs": [
+    "Farm manager",
+    "Sustainable agriculture specialist",
+    "Food systems planner",
+    "Community garden coordinator",
+    "Food policy analyst",
+    "Organic certification inspector",
+    "Farmers market manager",
+    "Extension educator"
+  ]
+}

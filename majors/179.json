@@ -1,0 +1,19 @@
+{
+  "id": 179,
+  "name": "Industrial Engineering",
+  "departmentIds": [
+    43
+  ],
+  "summary": "Industrial Engineering improves how organizations produce goods and deliver services by optimizing systems of people, machines, materials, and information. It is often called the efficiency discipline of engineering.",
+  "description": "Industrial Engineering majors study operations research, optimization, probability and statistics, simulation, quality control, facilities design, supply chain and logistics, human factors and ergonomics, and production planning. They learn to model and analyze complex systems, such as factories, hospitals, airports, and warehouses, and find ways to reduce waste, cost, and risk. Methods such as Lean and Six Sigma are commonly taught. Industrial engineers are found in manufacturing, healthcare, logistics, consulting, retail, and technology, and many move into management roles.",
+  "jobs": [
+    "Industrial engineer",
+    "Process improvement engineer",
+    "Supply chain analyst",
+    "Quality engineer",
+    "Operations analyst",
+    "Manufacturing engineer",
+    "Healthcare systems engineer",
+    "Logistics engineer"
+  ]
+}

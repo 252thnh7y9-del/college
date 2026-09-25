@@ -1,0 +1,19 @@
+{
+  "id": 237,
+  "name": "World Language Education",
+  "departmentIds": [
+    57,
+    7
+  ],
+  "summary": "World Language Education prepares students to teach a foreign language such as Spanish, French, German, or Chinese in K-12 schools. Students combine advanced language proficiency with teaching methods.",
+  "description": "World Language Education majors develop advanced proficiency in their target language through coursework in grammar, conversation, literature, and culture, typically including study abroad. Education coursework covers second language acquisition, methods for teaching languages communicatively, assessment of language proficiency, and teaching diverse learners. Students must usually pass a proficiency exam for licensure. Field experiences and student teaching take place in language classrooms. Language teachers, particularly in Spanish and less commonly taught languages, are in demand nationwide.",
+  "jobs": [
+    "Spanish teacher",
+    "French teacher",
+    "World language teacher",
+    "Immersion program teacher",
+    "Language program coordinator",
+    "Translator",
+    "ESL teacher"
+  ]
+}

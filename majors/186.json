@@ -1,0 +1,19 @@
+{
+  "id": 186,
+  "name": "Nuclear Engineering",
+  "departmentIds": [
+    45
+  ],
+  "summary": "Nuclear Engineering applies nuclear physics to generate energy, develop medical technologies, and ensure radiation safety. Students learn how nuclear reactors and radiation systems work.",
+  "description": "Nuclear Engineering majors study nuclear and reactor physics, radiation detection and shielding, thermal hydraulics, reactor design and safety, nuclear materials, and the nuclear fuel cycle, supported by math, physics, and engineering fundamentals. Applications include nuclear power plants, advanced and small modular reactors, fusion energy research, nuclear medicine and radiation therapy, and national security. Students often gain experience with research reactors and simulation codes. Graduates work at power utilities, national laboratories, the Navy, regulatory agencies such as the Nuclear Regulatory Commission, and medical and defense organizations.",
+  "jobs": [
+    "Nuclear engineer",
+    "Reactor operator",
+    "Radiation protection engineer",
+    "Nuclear safety analyst",
+    "Health physicist",
+    "Fusion research engineer",
+    "Nuclear regulatory specialist",
+    "Naval nuclear officer"
+  ]
+}

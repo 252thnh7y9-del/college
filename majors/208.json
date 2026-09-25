@@ -1,0 +1,19 @@
+{
+  "id": 208,
+  "name": "Organizational Leadership",
+  "departmentIds": [
+    53
+  ],
+  "summary": "Organizational Leadership develops students' ability to lead people, teams, and change in organizations of all kinds. The major focuses on leadership theory, communication, and ethics.",
+  "description": "Organizational Leadership majors study leadership theories and styles, organizational behavior, team building, change management, conflict resolution, ethics, and decision-making. Coursework often includes communication, human resources, project management, and diversity in organizations. The major is frequently offered in flexible formats for working adults and is popular with students seeking to move into supervisory roles. Students analyze case studies and reflect on their own leadership development. Graduates work in management, human resources, training, nonprofits, government, and the military.",
+  "jobs": [
+    "Team supervisor",
+    "Operations manager",
+    "Training and development manager",
+    "Human resources manager",
+    "Nonprofit program director",
+    "Project manager",
+    "Organizational development specialist",
+    "Military officer"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "name": "Classical Archaeology",
+  "departmentIds": [
+    6,
+    18,
+    11
+  ],
+  "summary": "Classical Archaeology studies the material remains of ancient Greece, Rome, and the wider Mediterranean. Students learn to interpret sites, buildings, art, and everyday objects to reconstruct ancient life.",
+  "description": "Classical Archaeology combines classics, art history, and anthropology. Students study the cities, temples, tombs, sculpture, pottery, coins, and inscriptions of the Greek and Roman worlds and learn how archaeologists excavate, date, and interpret them. Coursework covers Aegean prehistory, Greek and Roman art and architecture, ancient topography, and archaeological method and theory, often with Greek or Latin language requirements. Many students join summer field schools at excavations in Greece, Italy, Turkey, or elsewhere, gaining hands-on experience in excavation, surveying, and artifact analysis. The major prepares students for graduate study in archaeology, museum careers, and cultural resource management.",
+  "jobs": [
+    "Field archaeologist",
+    "Museum curator or collections assistant",
+    "Cultural resource management technician",
+    "Conservator (with graduate degree)",
+    "Heritage site manager",
+    "Archivist",
+    "Professor (with graduate degree)"
+  ]
+}

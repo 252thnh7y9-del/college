@@ -1,0 +1,19 @@
+{
+  "id": 293,
+  "name": "Forestry",
+  "departmentIds": [
+    73
+  ],
+  "summary": "Forestry is the science of managing forests for timber, wildlife, water, recreation, and ecological health. Students learn to measure, plan, and care for forest lands.",
+  "description": "Forestry majors study dendrology (tree identification), forest ecology, silviculture (growing and tending forests), forest measurements, forest health, fire management, forest economics and policy, and GIS and remote sensing. Field courses and summer camps provide hands-on training in timber cruising, surveying, and forest planning. Accredited programs meet requirements for federal forestry jobs and state forester licensing. Growing topics include wildfire, carbon markets, and climate change. Graduates work for the U.S. Forest Service, state forestry agencies, timber companies, and conservation organizations.",
+  "jobs": [
+    "Forester",
+    "Forest technician",
+    "Wildland firefighter",
+    "Timber cruiser",
+    "Urban forester",
+    "Procurement forester",
+    "Forest carbon analyst",
+    "Conservation forester"
+  ]
+}

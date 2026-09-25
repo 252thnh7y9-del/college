@@ -1,0 +1,20 @@
+{
+  "id": 91,
+  "name": "Business Economics",
+  "departmentIds": [
+    19,
+    53
+  ],
+  "summary": "Business Economics applies economic principles to the decisions businesses make about pricing, production, investment, and strategy. It combines economics with core business courses.",
+  "description": "Business Economics majors take micro- and macroeconomics, econometrics, and managerial economics alongside business courses in accounting, finance, marketing, and management. They study industrial organization, which examines competition and market structure, as well as forecasting, pricing strategy, and the economics of firms. The major is more applied than a general economics degree and more analytical than a general business degree. Students learn to use data to inform business decisions and to understand how economic conditions affect companies. Graduates work in corporate finance, consulting, banking, market research, and business analysis.",
+  "jobs": [
+    "Business analyst",
+    "Financial analyst",
+    "Pricing analyst",
+    "Management consultant",
+    "Market research analyst",
+    "Economic forecaster",
+    "Commercial banker",
+    "Operations analyst"
+  ]
+}

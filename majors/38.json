@@ -1,0 +1,19 @@
+{
+  "id": 38,
+  "name": "Teaching English to Speakers of Other Languages (TESOL)",
+  "departmentIds": [
+    10,
+    57
+  ],
+  "summary": "TESOL prepares students to teach English to speakers of other languages in schools, community programs, and abroad. The major combines linguistics, language acquisition, and teaching methods.",
+  "description": "Teaching English to Speakers of Other Languages (TESOL) majors study how English works, how people learn a second language, and how to design effective lessons for learners of different ages and proficiency levels. Coursework covers English grammar and phonology, second language acquisition, methods for teaching reading, writing, speaking, and listening, language assessment, and cross-cultural communication. Students complete supervised practice teaching, and many programs lead to state ESL teaching licensure. Demand for English language teachers remains strong in U.S. K-12 schools, adult education, universities, and countries around the world.",
+  "jobs": [
+    "ESL teacher (K-12)",
+    "English teacher abroad",
+    "Adult education instructor",
+    "English language program coordinator",
+    "Curriculum developer",
+    "Refugee education specialist",
+    "Intensive English program instructor"
+  ]
+}

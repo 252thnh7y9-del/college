@@ -1,0 +1,20 @@
+{
+  "id": 167,
+  "name": "Surveying & Geomatics",
+  "departmentIds": [
+    39,
+    24
+  ],
+  "summary": "Surveying and Geomatics measure and map the Earth's surface to establish property boundaries and support construction and mapping. The major combines surveying, GPS, GIS, and land law.",
+  "description": "Surveying and Geomatics majors learn to measure land accurately and turn measurements into maps and legal descriptions. Coursework covers plane and geodetic surveying, GPS and satellite positioning, photogrammetry, remote sensing and lidar, GIS, boundary law, land development, and construction surveying. Students use total stations, GNSS receivers, drones, and laser scanners in the field. Graduates can work toward state licensure as Professional Land Surveyors, and demand is strong because of retirements in the profession. They work for surveying and engineering firms, government agencies, and construction and energy companies.",
+  "jobs": [
+    "Land surveyor",
+    "Survey technician",
+    "Geodetic surveyor",
+    "Photogrammetrist",
+    "GIS specialist",
+    "Construction surveyor",
+    "Hydrographic surveyor",
+    "Drone mapping specialist"
+  ]
+}

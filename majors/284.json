@@ -1,0 +1,20 @@
+{
+  "id": 284,
+  "name": "Soil Science",
+  "departmentIds": [
+    70,
+    31
+  ],
+  "summary": "Soil Science studies soil as a natural resource: its formation, properties, fertility, and role in ecosystems. Soil scientists help protect soil for agriculture, water quality, and the environment.",
+  "description": "Soil Science majors study soil physics, soil chemistry, soil biology and microbiology, soil fertility and plant nutrition, soil formation and classification, soil and water conservation, and soil mapping with GIS. They take chemistry, biology, and geology as foundations. Fieldwork involves describing soil profiles, sampling, and testing, and students often compete in soil judging contests. Soil science is essential to agriculture, forestry, environmental cleanup, carbon storage, and land-use planning. Graduates work for agencies such as the NRCS, environmental consulting firms, and agricultural companies.",
+  "jobs": [
+    "Soil scientist",
+    "Soil conservationist",
+    "Environmental consultant",
+    "Nutrient management specialist",
+    "Agronomist",
+    "Wetland delineator",
+    "Soil testing laboratory technician",
+    "Land reclamation specialist"
+  ]
+}

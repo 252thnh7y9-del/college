@@ -1,0 +1,20 @@
+{
+  "id": 33,
+  "name": "Hebrew",
+  "departmentIds": [
+    9,
+    5
+  ],
+  "summary": "Hebrew majors study the Hebrew language in its biblical and modern forms, along with the literature and culture of the Jewish people and Israel. Students can read texts ranging from the Bible to contemporary Israeli fiction.",
+  "description": "Hebrew majors typically study both Biblical Hebrew, the language of the Hebrew Bible, and Modern Hebrew, the spoken language of Israel. Coursework includes grammar, conversation, and composition, and progresses to reading biblical, rabbinic, medieval, and modern Hebrew literature, as well as Israeli film, poetry, and media. Many programs place Hebrew within Jewish Studies or Near Eastern Studies, and study abroad in Israel is common. The major prepares students for Jewish education, community work, translation, government, and graduate study in religion, Near Eastern languages, or rabbinical and seminary programs.",
+  "jobs": [
+    "Hebrew teacher",
+    "Jewish educator",
+    "Translator",
+    "Rabbi (with rabbinical school)",
+    "Biblical scholar",
+    "Foreign service officer",
+    "Jewish community organization staff",
+    "Intelligence analyst"
+  ]
+}

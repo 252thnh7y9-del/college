@@ -1,0 +1,20 @@
+{
+  "id": 131,
+  "name": "Physiology",
+  "departmentIds": [
+    28,
+    60
+  ],
+  "summary": "Physiology studies how the body's organs and systems function, from cells to the whole organism. The major is common preparation for medicine and other health professions.",
+  "description": "Physiology majors examine how living systems work, with an emphasis on human and animal bodies. Coursework covers cell physiology, neurophysiology, cardiovascular, respiratory, renal, endocrine, and muscle physiology, along with anatomy, biochemistry, chemistry, and physics. Many programs also include exercise physiology and the physiology of disease. Laboratory courses measure body functions such as heart rate, muscle activity, and metabolism. Because it provides a strong understanding of how the body functions and fails, physiology is excellent preparation for medical, dental, physical therapy, and physician assistant programs, as well as research careers.",
+  "jobs": [
+    "Clinical research coordinator",
+    "Exercise physiologist",
+    "Laboratory technician",
+    "Medical sales representative",
+    "Cardiovascular technologist",
+    "Physician (with medical degree)",
+    "Physical therapist (with DPT)",
+    "Physician assistant (with graduate degree)"
+  ]
+}

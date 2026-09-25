@@ -1,0 +1,19 @@
+{
+  "id": 281,
+  "name": "Pre-Veterinary Science",
+  "departmentIds": [
+    69,
+    28
+  ],
+  "summary": "Pre-Veterinary Science prepares students for admission to veterinary school. The major combines biology, chemistry, and animal science with hands-on animal experience.",
+  "description": "Pre-Veterinary Science majors complete the prerequisites that veterinary colleges require, including general and organic chemistry, biochemistry, biology, physics, microbiology, and genetics, along with animal science courses in nutrition, physiology, reproduction, and animal health. Veterinary schools value substantial hands-on experience, so students work with animals at university farms, clinics, and research facilities and shadow veterinarians. Admission to veterinary school is competitive, and the four-year Doctor of Veterinary Medicine (DVM) degree follows. Students who do not continue to veterinary school work in animal health, research, and agriculture.",
+  "jobs": [
+    "Veterinarian (with DVM)",
+    "Veterinary assistant",
+    "Animal health technician",
+    "Research laboratory technician",
+    "Animal care supervisor",
+    "Pharmaceutical sales representative (animal health)",
+    "Livestock specialist"
+  ]
+}

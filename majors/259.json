@@ -1,0 +1,21 @@
+{
+  "id": 259,
+  "name": "Substance Abuse & Addiction Counseling",
+  "departmentIds": [
+    79,
+    22,
+    63
+  ],
+  "summary": "Substance Abuse and Addiction Counseling prepares students to help people struggling with alcohol and drug addiction. The major combines psychology, counseling skills, and knowledge of addiction.",
+  "description": "Addiction Counseling majors study the pharmacology of drugs and alcohol, theories of addiction, assessment and diagnosis, individual and group counseling techniques, case management, relapse prevention, co-occurring mental health disorders, family dynamics, and professional ethics. They also learn about treatment systems and recovery supports. Supervised practicums in treatment centers provide hands-on experience and hours toward state certification as an alcohol and drug counselor. Graduates work in treatment centers, hospitals, prisons, and community agencies.",
+  "jobs": [
+    "Substance abuse counselor",
+    "Addiction counselor",
+    "Case manager",
+    "Recovery coach",
+    "Prevention specialist",
+    "Intake coordinator",
+    "Residential treatment counselor",
+    "Licensed professional counselor (with master's degree)"
+  ]
+}

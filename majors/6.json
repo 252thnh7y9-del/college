@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "name": "Comparative Literature",
+  "departmentIds": [
+    2
+  ],
+  "summary": "Comparative Literature studies literature across languages, cultures, and national traditions. Students read works in more than one language and examine how literature crosses borders.",
+  "description": "Comparative Literature treats literature as a global conversation rather than a set of national traditions. Students read texts from different regions and eras, often in the original language, and compare how themes, forms, and ideas move between cultures. Most programs require advanced study of at least one foreign language, and many encourage two. Coursework includes literary theory, translation studies, world literature surveys, and courses that connect literature with film, philosophy, or the visual arts. Students learn to write comparative arguments and to think about how translation, empire, migration, and globalization shape what gets read. The major suits students who love both languages and literature and prepares them for careers that require cross-cultural understanding.",
+  "jobs": [
+    "Translator",
+    "Editor",
+    "Publishing professional",
+    "International nonprofit staff",
+    "Foreign service officer",
+    "Teacher",
+    "Cultural program coordinator",
+    "Journalist",
+    "Professor (with graduate degree)"
+  ]
+}

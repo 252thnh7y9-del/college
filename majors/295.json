@@ -1,0 +1,19 @@
+{
+  "id": 295,
+  "name": "Rangeland Ecology & Management",
+  "departmentIds": [
+    73,
+    69
+  ],
+  "summary": "Rangeland Ecology and Management studies grasslands, shrublands, and other rangelands and how to manage them for livestock grazing, wildlife, and ecosystem health. Rangelands cover about a third of U.S. land.",
+  "description": "Rangeland majors study plant identification, rangeland ecology, grazing management, animal nutrition, soils, hydrology, fire ecology, wildlife habitat, invasive species, and restoration. They learn to monitor rangeland health and design grazing plans that balance ranching with conservation. Fieldwork across western landscapes is central, and students often compete in plant identification contests. Graduates can become certified range management professionals and work for federal agencies such as the Bureau of Land Management and NRCS, ranches, and conservation organizations.",
+  "jobs": [
+    "Rangeland management specialist",
+    "Range conservationist",
+    "Ranch manager",
+    "Restoration ecologist",
+    "Wildlife habitat biologist",
+    "Fire ecologist",
+    "Natural resource consultant"
+  ]
+}

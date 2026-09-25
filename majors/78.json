@@ -1,0 +1,21 @@
+{
+  "id": 78,
+  "name": "Musical Theatre",
+  "departmentIds": [
+    15,
+    14,
+    16
+  ],
+  "summary": "Musical Theatre trains students to act, sing, and dance for the stage. Graduates are prepared for careers in Broadway, touring, regional, and cruise productions.",
+  "description": "Musical Theatre programs are demanding triple-threat training. Students take acting classes, private voice lessons, and dance classes in ballet, jazz, tap, and theatre dance, and they study music theory, sight-singing, and the history and repertoire of musical theatre. Coursework includes song interpretation, audition technique, and professional preparation for the business of performing. Students perform in many productions and cabarets, and senior showcases in New York or other cities connect them with agents. Admission requires an audition. Graduates perform on Broadway, national tours, regional theatres, cruise lines, and theme parks, and some move into teaching or directing.",
+  "jobs": [
+    "Musical theatre performer",
+    "Ensemble dancer-singer",
+    "Cruise ship performer",
+    "Theme park entertainer",
+    "Voice teacher",
+    "Choreographer",
+    "Music director",
+    "Casting assistant"
+  ]
+}

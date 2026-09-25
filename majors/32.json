@@ -1,0 +1,19 @@
+{
+  "id": 32,
+  "name": "Arabic",
+  "departmentIds": [
+    9
+  ],
+  "summary": "Arabic majors learn Modern Standard Arabic and often a spoken dialect, along with the literature and cultures of the Arab world. Arabic is spoken by more than 300 million people across the Middle East and North Africa.",
+  "description": "Arabic majors study the Arabic script and grammar and work toward proficiency in Modern Standard Arabic, the language of media and formal writing, while also learning a colloquial dialect such as Egyptian or Levantine. Upper-level courses cover classical and modern Arabic literature, the Quran as a literary text, media Arabic, and the history and politics of the Arab world. Study abroad or intensive summer programs in countries such as Jordan, Morocco, or Oman are common. Arabic is a critical language for the U.S. government, so graduates are in demand in diplomacy, intelligence, defense, journalism, translation, and international development.",
+  "jobs": [
+    "Intelligence analyst",
+    "Translator or interpreter",
+    "Foreign service officer",
+    "Journalist",
+    "International NGO staff",
+    "Linguist (government)",
+    "Refugee services coordinator",
+    "Teacher"
+  ]
+}

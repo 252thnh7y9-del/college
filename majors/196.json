@@ -1,0 +1,19 @@
+{
+  "id": 196,
+  "name": "Mechanical Engineering Technology",
+  "departmentIds": [
+    49
+  ],
+  "summary": "Mechanical Engineering Technology applies mechanical engineering principles to the design, manufacture, and maintenance of machines and systems. It emphasizes practical, hands-on skills.",
+  "description": "Mechanical Engineering Technology majors study mechanics, materials, thermodynamics, fluid power, machine design, CAD, manufacturing processes, and quality control, with a focus on application rather than theory. They spend significant time in labs and machine shops, working with CNC machines, 3D printers, and testing equipment. Graduates bridge the gap between engineers and technicians, and they work in manufacturing, product design support, quality control, HVAC, and plant maintenance.",
+  "jobs": [
+    "Mechanical engineering technologist",
+    "CAD designer",
+    "Manufacturing technician",
+    "Quality control inspector",
+    "Field service engineer",
+    "HVAC technician",
+    "Production supervisor",
+    "Maintenance engineer"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 48,
+  "name": "Drawing",
+  "departmentIds": [
+    12
+  ],
+  "summary": "Drawing majors focus on the foundational art of drawing in media such as graphite, charcoal, ink, and digital tools. Students develop observational skill, expressive range, and a personal visual language.",
+  "description": "Drawing is the basis of most visual arts, and a drawing concentration develops it into a primary artistic practice. Students study observational drawing, perspective, anatomy and figure drawing, and composition, then explore experimental and conceptual approaches, large-scale work, and drawing as part of installation, animation, or printmaking. Digital drawing tools are often included. Critiques, art history, and contemporary art courses help students situate their work, and a senior exhibition or portfolio caps the program. The skills transfer directly to illustration, concept art, animation, and design, as well as fine art careers.",
+  "jobs": [
+    "Illustrator",
+    "Concept artist",
+    "Storyboard artist",
+    "Fine artist",
+    "Medical or scientific illustrator",
+    "Art teacher",
+    "Tattoo artist",
+    "Courtroom sketch artist"
+  ]
+}

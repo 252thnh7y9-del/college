@@ -1,0 +1,20 @@
+{
+  "id": 124,
+  "name": "Biochemistry",
+  "departmentIds": [
+    29,
+    28
+  ],
+  "summary": "Biochemistry studies the chemical processes that happen inside living things. The major combines chemistry and biology to explain how molecules like proteins, DNA, and enzymes make life possible.",
+  "description": "Biochemistry majors take extensive chemistry, including general, organic, physical, and analytical chemistry, along with biology courses in cell biology, genetics, and molecular biology. Core biochemistry courses cover protein structure and function, enzyme kinetics, metabolism, and the chemistry of nucleic acids, and advanced courses may include structural biology, pharmacology, and biophysical chemistry. Students gain extensive lab experience with techniques such as chromatography, spectroscopy, and electrophoresis. Biochemistry is a popular pre-med major and also leads to careers in pharmaceuticals, biotechnology, food science, and research.",
+  "jobs": [
+    "Biochemist",
+    "Laboratory analyst",
+    "Pharmaceutical scientist",
+    "Quality control chemist",
+    "Biotechnology research associate",
+    "Forensic scientist",
+    "Physician (with medical degree)",
+    "Pharmacist (with PharmD)"
+  ]
+}

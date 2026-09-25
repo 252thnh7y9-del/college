@@ -1,0 +1,18 @@
+{
+  "id": 29,
+  "name": "Japanese",
+  "departmentIds": [
+    8
+  ],
+  "summary": "Japanese majors learn the Japanese language and study Japan's literature, history, and culture. Students gain skills for working with one of the world's major economies and cultural exporters.",
+  "description": "Japanese majors study speaking, listening, and reading and writing in hiragana, katakana, and kanji over several years. Upper-level courses explore classical and modern Japanese literature, film, anime and popular culture, religion, and history from the Heian court through modern Japan. Many programs offer business Japanese, translation, and linguistics courses, and study abroad in Japan is common. Graduates often work in international business, particularly in the automotive, technology, and gaming industries, as well as in translation and localization, teaching English in Japan through programs such as JET, tourism, and government.",
+  "jobs": [
+    "Translator or localization specialist",
+    "English teacher in Japan (JET)",
+    "International business associate",
+    "Game localization specialist",
+    "Foreign service officer",
+    "Japanese teacher",
+    "Tourism professional"
+  ]
+}

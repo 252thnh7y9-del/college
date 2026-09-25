@@ -1,0 +1,19 @@
+{
+  "id": 235,
+  "name": "English Education",
+  "departmentIds": [
+    57,
+    1
+  ],
+  "summary": "English Education prepares students to teach English language arts, including literature, writing, and grammar, in middle and high schools. The major combines English coursework with teaching methods.",
+  "description": "English Education majors study literature, including young adult literature, as well as writing, grammar and linguistics, and rhetoric, alongside education coursework in adolescent development, methods for teaching reading and writing, classroom management, and assessment. They learn to guide discussions of literature, teach the writing process, and support readers at different levels. Field experiences and student teaching lead to licensure in English language arts. Graduates teach middle and high school English and work in literacy programs, tutoring, and educational publishing.",
+  "jobs": [
+    "High school English teacher",
+    "Middle school language arts teacher",
+    "Literacy coach",
+    "Writing tutor",
+    "Curriculum developer",
+    "Educational publishing editor",
+    "Reading specialist"
+  ]
+}

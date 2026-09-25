@@ -1,0 +1,19 @@
+{
+  "id": 239,
+  "name": "Educational Studies",
+  "departmentIds": [
+    59
+  ],
+  "summary": "Educational Studies examines education as a social, cultural, and policy issue, not only as a teaching practice. It is suited to students interested in education who do not necessarily plan to become licensed teachers.",
+  "description": "Educational Studies majors explore how people learn and how educational systems work. Coursework covers the history and philosophy of education, educational psychology, sociology of education, education policy, equity and access, learning outside schools, and comparative international education. Students often complete internships in schools, nonprofits, museums, or policy organizations. Some programs offer pathways to teaching licensure through additional coursework or graduate study. Graduates work in education nonprofits, youth programs, education policy, admissions and student affairs, and educational technology.",
+  "jobs": [
+    "Education program coordinator",
+    "Admissions counselor",
+    "Youth program director",
+    "Education policy analyst",
+    "Student affairs coordinator",
+    "Educational nonprofit staff",
+    "Instructional designer",
+    "Teacher (with licensure)"
+  ]
+}

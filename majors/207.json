@@ -1,0 +1,19 @@
+{
+  "id": 207,
+  "name": "Human Resource Management",
+  "departmentIds": [
+    53
+  ],
+  "summary": "Human Resource Management focuses on attracting, developing, and retaining an organization's employees. Students learn about hiring, compensation, training, employee relations, and employment law.",
+  "description": "Human Resource Management majors study recruitment and selection, compensation and benefits, training and development, performance management, employee and labor relations, employment law, HR information systems, and organizational behavior, along with core business courses. They learn how to design fair and effective people practices and how to use HR analytics. Many programs are aligned with the Society for Human Resource Management (SHRM), and students can pursue SHRM certification. Graduates work as HR generalists, recruiters, and specialists in every type of organization.",
+  "jobs": [
+    "Human resources generalist",
+    "Recruiter",
+    "Compensation analyst",
+    "Benefits administrator",
+    "Training and development specialist",
+    "Employee relations specialist",
+    "HR business partner",
+    "HR information systems analyst"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 164,
+  "name": "Environmental Engineering",
+  "departmentIds": [
+    39,
+    38
+  ],
+  "summary": "Environmental Engineering uses engineering, chemistry, and biology to protect human health and the environment. Environmental engineers design systems for clean water, clean air, and waste management.",
+  "description": "Environmental Engineering majors study chemistry, biology, and fluid mechanics along with courses in water and wastewater treatment, air pollution control, solid and hazardous waste management, hydrology, environmental remediation, and environmental regulations. They learn to design treatment plants, model how pollutants move through air, water, and soil, and assess environmental impacts. Lab and field work involve sampling and analysis. Growing areas include climate change adaptation, sustainable infrastructure, and renewable energy. Graduates work for engineering consulting firms, utilities, industry, and environmental agencies.",
+  "jobs": [
+    "Environmental engineer",
+    "Water treatment engineer",
+    "Air quality engineer",
+    "Remediation engineer",
+    "Environmental compliance engineer",
+    "Stormwater engineer",
+    "Solid waste engineer",
+    "Environmental consultant"
+  ]
+}

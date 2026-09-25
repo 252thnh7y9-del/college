@@ -1,0 +1,18 @@
+{
+  "id": 244,
+  "name": "Community Health",
+  "departmentIds": [
+    62
+  ],
+  "summary": "Community Health focuses on improving health at the local level through education, outreach, and community programs. Students learn to work directly with communities to address health needs.",
+  "description": "Community Health majors study health behavior, health promotion, program planning and evaluation, epidemiology, health disparities, community organizing, and cultural competence. They learn to assess community health needs, design and run programs such as smoking cessation or diabetes prevention, and partner with local organizations. Field placements with health departments, community clinics, and nonprofits give hands-on experience. Graduates can pursue the Certified Health Education Specialist credential and work as health educators, outreach coordinators, and community health workers.",
+  "jobs": [
+    "Community health worker",
+    "Health educator",
+    "Outreach coordinator",
+    "Patient navigator",
+    "Health program coordinator",
+    "Wellness coordinator",
+    "Nonprofit program manager"
+  ]
+}

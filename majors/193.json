@@ -1,0 +1,19 @@
+{
+  "id": 193,
+  "name": "Engineering Science",
+  "departmentIds": [
+    48
+  ],
+  "summary": "Engineering Science is a broad, flexible engineering major grounded in math and science. It lets students combine engineering fundamentals across disciplines or prepare for specialized graduate study.",
+  "description": "Engineering Science majors take a rigorous core in mathematics, physics, and engineering mechanics, thermodynamics, circuits, and materials, then design an individualized concentration or pursue interdisciplinary areas such as biomedical, environmental, energy, or nanotechnology engineering. The major emphasizes fundamental principles over the specialized practice of a single discipline, and some programs pair it with liberal arts or pre-medical study. Graduates work in research and development and across engineering industries, and many continue to graduate school in engineering, medicine, or law.",
+  "jobs": [
+    "Research and development engineer",
+    "Design engineer",
+    "Systems engineer",
+    "Technical consultant",
+    "Patent examiner",
+    "Test engineer",
+    "Patent attorney (with law degree)",
+    "Physician (with medical degree)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "name": "Rhetoric & Composition",
+  "departmentIds": [
+    1,
+    67
+  ],
+  "summary": "Rhetoric and Composition studies how persuasion works and how people learn to write. Students analyze arguments in speeches, texts, and media and practice writing for many audiences and purposes.",
+  "description": "Rhetoric is one of the oldest academic disciplines, going back to Aristotle and Cicero, and this major connects that tradition to modern writing and communication. Students study rhetorical theory, argumentation, the history of rhetoric, visual and digital rhetoric, and the rhetoric of science, politics, and public life. Composition coursework looks at how writing is taught and learned, and many students tutor in a campus writing center. Students practice writing in academic, professional, and public genres and analyze real discourse such as political speeches, advertising, and social media campaigns. The major builds strong writing, analysis, and editing skills useful in communications, law, education, and public affairs.",
+  "jobs": [
+    "Writing center coordinator",
+    "Speechwriter",
+    "Editor",
+    "Communications specialist",
+    "Content strategist",
+    "Policy writer",
+    "Teacher",
+    "Political campaign staffer",
+    "Attorney (with law degree)",
+    "Professor (with graduate degree)"
+  ]
+}

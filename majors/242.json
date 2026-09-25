@@ -1,0 +1,19 @@
+{
+  "id": 242,
+  "name": "Public Health",
+  "departmentIds": [
+    62
+  ],
+  "summary": "Public Health focuses on protecting and improving the health of entire populations rather than individual patients. Students study disease prevention, health policy, and the social factors that affect health.",
+  "description": "Public Health majors take courses in epidemiology, biostatistics, environmental health, health policy and management, social and behavioral determinants of health, and global health. They learn how diseases spread, how to design and evaluate health programs, and how social factors such as income, education, and housing shape health outcomes. Students often complete practicums or internships with health departments, hospitals, or nonprofits. The COVID-19 pandemic highlighted the field's importance. Graduates work in health departments, hospitals, nonprofits, and research, and many pursue a Master of Public Health or medical school.",
+  "jobs": [
+    "Public health analyst",
+    "Epidemiology assistant",
+    "Health educator",
+    "Community health program coordinator",
+    "Health policy analyst",
+    "Infection prevention specialist",
+    "Epidemiologist (with graduate degree)",
+    "Physician (with medical degree)"
+  ]
+}

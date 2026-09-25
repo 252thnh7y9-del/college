@@ -1,0 +1,19 @@
+{
+  "id": 172,
+  "name": "Artificial Intelligence",
+  "departmentIds": [
+    41
+  ],
+  "summary": "Artificial Intelligence is a newer major focused on building computer systems that can learn, reason, perceive, and act. Students study machine learning, robotics, and natural language processing.",
+  "description": "AI majors take core computer science and mathematics, including programming, algorithms, linear algebra, probability, and statistics, then specialize in machine learning, deep learning, computer vision, natural language processing, reinforcement learning, knowledge representation, and robotics. Many programs include courses in cognitive science and in the ethics, fairness, and safety of AI systems. Students build and train models on real data and complete projects and research. Graduates work as machine learning engineers, data scientists, and AI researchers at technology companies, startups, and in fields such as healthcare, finance, and autonomous vehicles.",
+  "jobs": [
+    "Machine learning engineer",
+    "AI engineer",
+    "Data scientist",
+    "Computer vision engineer",
+    "NLP engineer",
+    "Robotics software engineer",
+    "AI research scientist (with graduate degree)",
+    "AI product manager"
+  ]
+}

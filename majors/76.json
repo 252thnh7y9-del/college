@@ -1,0 +1,19 @@
+{
+  "id": 76,
+  "name": "Theatre",
+  "departmentIds": [
+    15
+  ],
+  "summary": "Theatre majors study the creation and performance of drama, including acting, directing, design, and theatre history. The major combines hands-on production work with study of plays and performance traditions.",
+  "description": "Theatre majors take courses in acting, directing, stagecraft, lighting, costume and scenic design, playwriting, and dramatic literature and theatre history from ancient Greece to contemporary performance. They participate in departmental productions on stage and backstage, which builds collaboration, time management, and public speaking skills. Many programs allow students to focus on performance, design and technology, or dramaturgy and playwriting. A BA in theatre offers flexibility to double major, while a BFA is more intensive. Graduates work in professional and community theatre, film and television, education, arts administration, and fields that value communication and creativity.",
+  "jobs": [
+    "Actor",
+    "Stage manager",
+    "Director",
+    "Theatre technician",
+    "Drama teacher",
+    "Arts administrator",
+    "Casting assistant",
+    "Dramaturg"
+  ]
+}

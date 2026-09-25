@@ -1,0 +1,21 @@
+{
+  "id": 272,
+  "name": "Media Studies",
+  "departmentIds": [
+    67,
+    17,
+    68
+  ],
+  "summary": "Media Studies examines how media such as television, film, the internet, and social media shape culture, politics, and everyday life. Students analyze media industries, content, and audiences.",
+  "description": "Media Studies majors study media history, media theory, media industries and economics, audiences and fandom, representation of gender, race, and identity, media policy and regulation, and digital and social media. They learn to critically analyze media texts and the systems that produce them, and many programs also include some production. Topics include misinformation, algorithms, streaming, and the attention economy. Graduates work in media companies, digital content, marketing, research, and policy, and many pursue graduate study or law.",
+  "jobs": [
+    "Media analyst",
+    "Digital content strategist",
+    "Social media manager",
+    "Audience research analyst",
+    "Media planner",
+    "Content producer",
+    "Communications specialist",
+    "Media policy analyst"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 145,
+  "name": "Oceanography & Marine Science",
+  "departmentIds": [
+    31,
+    28
+  ],
+  "summary": "Oceanography and Marine Science study the oceans, including their physics, chemistry, geology, and biology. Students learn how oceans work and how they influence climate and life on Earth.",
+  "description": "Marine Science majors take an interdisciplinary approach to the ocean. Coursework covers physical oceanography (currents, waves, and tides), chemical oceanography, marine geology, and marine biology and ecology, supported by chemistry, physics, math, and data analysis. Students gain hands-on experience on research vessels, at coastal field stations, and with ocean sensors and datasets. Topics include climate change, sea-level rise, ocean acidification, fisheries, and coastal management. Graduates work in environmental consulting, coastal management, government agencies such as NOAA, research institutions, and marine education.",
+  "jobs": [
+    "Oceanographer",
+    "Marine scientist",
+    "Coastal zone manager",
+    "Environmental consultant",
+    "NOAA research technician",
+    "Marine educator",
+    "Hydrographic surveyor",
+    "Fisheries scientist"
+  ]
+}

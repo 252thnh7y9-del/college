@@ -1,0 +1,20 @@
+{
+  "id": 290,
+  "name": "Agricultural Economics",
+  "departmentIds": [
+    71,
+    19
+  ],
+  "summary": "Agricultural Economics applies economic analysis to agriculture, food, natural resources, and rural development. Students study markets, policy, and resource use in the food system.",
+  "description": "Agricultural Economics majors study microeconomics and macroeconomics, agricultural markets and prices, agricultural policy, farm management, resource and environmental economics, international agricultural trade, and food industry economics, along with statistics and econometrics. They analyze issues such as farm subsidies, trade agreements, food prices, water rights, and rural development. The major is more quantitative than agricultural business. Graduates work as analysts for government agencies such as the USDA, agricultural lenders, commodity firms, food companies, and consulting firms, and some pursue graduate study.",
+  "jobs": [
+    "Agricultural economist",
+    "Commodity analyst",
+    "Agricultural policy analyst",
+    "Market analyst",
+    "Agricultural loan officer",
+    "Risk management specialist",
+    "Research analyst",
+    "Farm business consultant"
+  ]
+}

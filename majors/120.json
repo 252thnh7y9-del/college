@@ -1,0 +1,19 @@
+{
+  "id": 120,
+  "name": "Ethnic Studies",
+  "departmentIds": [
+    26
+  ],
+  "summary": "Ethnic Studies examines race, ethnicity, and racism in the United States, often through the experiences of African American, Asian American, Latino, and Native American communities. The major is interdisciplinary and focused on social justice.",
+  "description": "Ethnic Studies grew out of student movements in the late 1960s and studies how race and ethnicity shape American society, culture, and institutions. Coursework compares the histories and experiences of different racial and ethnic groups and examines immigration, colonialism, labor, education, health, law, and the arts. Students learn theories of race and identity and methods for community-based research. Many programs emphasize community engagement and activism. Graduates work in education, social services, community organizing, public policy, law, and diversity and inclusion roles.",
+  "jobs": [
+    "Teacher",
+    "Community organizer",
+    "Diversity and inclusion specialist",
+    "Social services coordinator",
+    "Policy analyst",
+    "Nonprofit program manager",
+    "Attorney (with law degree)",
+    "Journalist"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 113,
+  "name": "Latin American Studies",
+  "departmentIds": [
+    26,
+    7
+  ],
+  "summary": "Latin American Studies examines the history, politics, economies, and cultures of Latin America and the Caribbean. Students usually develop proficiency in Spanish or Portuguese.",
+  "description": "Latin American Studies is an interdisciplinary major that draws on history, political science, economics, anthropology, literature, and the arts. Students study indigenous civilizations, Spanish and Portuguese colonization, independence movements, revolutions and dictatorships, economic development, migration, and contemporary politics and culture in countries from Mexico to Argentina and across the Caribbean. Language study in Spanish or Portuguese is required, and study abroad is strongly encouraged. Graduates work in international business, diplomacy, development, human rights, immigration services, journalism, and education.",
+  "jobs": [
+    "International business associate",
+    "Foreign service officer",
+    "Immigration services specialist",
+    "International development worker",
+    "Translator",
+    "Human rights advocate",
+    "Teacher",
+    "Journalist"
+  ]
+}

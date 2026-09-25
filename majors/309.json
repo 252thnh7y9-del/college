@@ -1,0 +1,21 @@
+{
+  "id": 309,
+  "name": "Gerontology",
+  "departmentIds": [
+    81,
+    62,
+    23
+  ],
+  "summary": "Gerontology studies aging and older adults from biological, psychological, and social perspectives. Students prepare to serve a rapidly growing older population.",
+  "description": "Gerontology majors study the biology and psychology of aging, health and chronic disease in later life, aging policy and programs such as Social Security and Medicare, death and dying, caregiving, and diversity in aging. They learn how to design and manage services that support older adults' health, independence, and quality of life. Internships in senior centers, long-term care facilities, hospitals, and aging agencies are common. With the aging of the U.S. population, demand for professionals in this field is growing. Graduates work in aging services, healthcare, long-term care administration, and policy.",
+  "jobs": [
+    "Senior services coordinator",
+    "Assisted living administrator",
+    "Aging services case manager",
+    "Activities director",
+    "Geriatric care manager",
+    "Retirement community director",
+    "Aging policy analyst",
+    "Adult day center director"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 218,
+  "name": "Hospitality Management",
+  "departmentIds": [
+    82
+  ],
+  "summary": "Hospitality Management prepares students to manage hotels, resorts, restaurants, and other guest service businesses. The major combines business skills with hospitality operations.",
+  "description": "Hospitality Management majors study lodging operations, food and beverage management, revenue management, hospitality marketing, human resources, hospitality law, accounting, and guest service. Many programs include hands-on training in campus hotels or restaurants and require paid internships or work hours in the industry. Students learn to manage staff, control costs, and create memorable guest experiences. Graduates enter management training programs with hotel companies, restaurant groups, resorts, casinos, cruise lines, and clubs.",
+  "jobs": [
+    "Hotel manager",
+    "Front office manager",
+    "Food and beverage manager",
+    "Revenue manager",
+    "Restaurant manager",
+    "Resort manager",
+    "Guest services manager",
+    "Hospitality sales manager"
+  ]
+}

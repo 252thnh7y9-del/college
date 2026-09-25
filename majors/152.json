@@ -1,0 +1,19 @@
+{
+  "id": 152,
+  "name": "Applied Mathematics",
+  "departmentIds": [
+    33
+  ],
+  "summary": "Applied Mathematics uses mathematical methods to solve real-world problems in science, engineering, business, and technology. The major emphasizes modeling and computation.",
+  "description": "Applied Mathematics majors study calculus, linear algebra, and differential equations, then take courses in numerical analysis, mathematical modeling, optimization, probability, statistics, and partial differential equations. They learn programming and scientific computing to simulate and analyze complex systems. Students often choose an application area such as physics, biology, economics, engineering, or computer science. Projects involve modeling phenomena such as disease spread, fluid flow, or financial markets. Graduates work in data science, engineering, finance, defense, technology, and scientific research.",
+  "jobs": [
+    "Data scientist",
+    "Operations research analyst",
+    "Quantitative analyst",
+    "Modeling and simulation engineer",
+    "Software engineer",
+    "Actuary",
+    "Research analyst",
+    "Machine learning engineer"
+  ]
+}

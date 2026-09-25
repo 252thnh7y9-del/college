@@ -1,0 +1,19 @@
+{
+  "id": 203,
+  "name": "Business Administration",
+  "departmentIds": [
+    53
+  ],
+  "summary": "Business Administration provides a broad foundation in how organizations operate, including management, accounting, finance, marketing, and operations. It is one of the most popular majors in the United States.",
+  "description": "Business Administration majors take a core curriculum covering accounting, finance, marketing, management, operations, business law, economics, statistics, and information systems, capped by a strategy course that integrates them. Many choose a concentration, such as finance, marketing, management, entrepreneurship, or international business. Coursework emphasizes case studies, teamwork, presentations, and analytical tools like Excel. Internships are strongly encouraged. The versatility of the degree prepares graduates for entry-level roles in almost any industry and for later MBA study.",
+  "jobs": [
+    "Business analyst",
+    "Management trainee",
+    "Sales representative",
+    "Operations coordinator",
+    "Account manager",
+    "Human resources specialist",
+    "Marketing coordinator",
+    "Small business owner"
+  ]
+}

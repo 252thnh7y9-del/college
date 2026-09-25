@@ -1,0 +1,19 @@
+{
+  "id": 52,
+  "name": "Photography",
+  "departmentIds": [
+    12
+  ],
+  "summary": "Photography majors learn to create and think critically about photographic images, from darkroom processes to digital capture and editing. The major covers both artistic and commercial photography.",
+  "description": "Photography students learn camera operation, exposure, lighting, composition, and both traditional black-and-white darkroom printing and digital workflows with editing software. They explore genres such as portraiture, documentary, landscape, studio and commercial work, and experimental and conceptual photography, and many programs include video. Courses in the history of photography and visual culture examine how photographs shape memory, news, advertising, and identity. Students build a portfolio and often complete a senior exhibition. Graduates work as freelance and staff photographers, photo editors, and in advertising, journalism, and fine art.",
+  "jobs": [
+    "Commercial photographer",
+    "Photojournalist",
+    "Wedding and portrait photographer",
+    "Photo editor",
+    "Studio manager",
+    "Fine art photographer",
+    "Social media content creator",
+    "Digital imaging technician"
+  ]
+}

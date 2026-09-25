@@ -1,0 +1,18 @@
+{
+  "id": 315,
+  "name": "Individualized Major",
+  "departmentIds": [
+    84
+  ],
+  "summary": "The Individualized Major allows students to design their own course of study when no existing major fits their goals. Students build the curriculum with faculty advisors and get it approved by the college.",
+  "description": "Students pursuing an Individualized Major, sometimes called a self-designed or independent major, write a proposal explaining their intellectual goals, the courses they will take across departments, and how the pieces fit together. A faculty committee reviews and approves the plan and advises the student throughout. Examples include majors such as bioethics, sound studies, or food and culture. Most programs require a substantial capstone project or thesis that integrates the student's areas. The major suits self-motivated students and demonstrates initiative and independent thinking to employers and graduate schools.",
+  "jobs": [
+    "Researcher",
+    "Consultant",
+    "Entrepreneur",
+    "Program manager",
+    "Policy analyst",
+    "Writer",
+    "Graduate or professional school candidate"
+  ]
+}

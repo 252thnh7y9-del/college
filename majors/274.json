@@ -1,0 +1,20 @@
+{
+  "id": 274,
+  "name": "Public Relations",
+  "departmentIds": [
+    68,
+    67
+  ],
+  "summary": "Public Relations teaches students to manage communication between organizations and the public and to build and protect reputations. Students learn media relations, strategic messaging, and crisis communication.",
+  "description": "Public Relations majors study PR principles, writing for PR, media relations, campaign planning, crisis communication, social media management, corporate communication, research and measurement, and ethics. They learn to write press releases, pitch stories to journalists, plan events, and create communication strategies for companies, nonprofits, and government agencies. Student-run PR firms and chapters of the Public Relations Student Society of America offer real client experience, and internships are expected. Graduates work at PR agencies, corporations, nonprofits, and government communications offices.",
+  "jobs": [
+    "Public relations specialist",
+    "Media relations coordinator",
+    "Account executive (PR agency)",
+    "Communications manager",
+    "Social media manager",
+    "Crisis communications specialist",
+    "Press secretary",
+    "Publicist"
+  ]
+}

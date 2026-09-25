@@ -1,0 +1,19 @@
+{
+  "id": 50,
+  "name": "Printmaking",
+  "departmentIds": [
+    12
+  ],
+  "summary": "Printmaking majors create art using techniques that transfer images from a matrix onto paper or other surfaces. Students learn relief, intaglio, lithography, screen printing, and digital processes.",
+  "description": "Printmaking combines craft and art. Students learn woodcut and linocut, etching and engraving on metal plates, stone and plate lithography, screen printing, and letterpress, as well as hybrid digital methods. Because prints can be made in editions, students also study the history of prints as a democratic art form and their role in political art, book arts, and poster design. The work requires careful technique, chemistry, and use of presses, and students typically work in a shared print shop. Critiques and a senior exhibition develop each student's artistic voice. Graduates work as artists, master printers, and in book arts, design, and screen printing businesses.",
+  "jobs": [
+    "Printmaker",
+    "Master printer",
+    "Screen printing business owner",
+    "Book artist",
+    "Graphic designer",
+    "Art teacher",
+    "Print shop technician",
+    "Gallery associate"
+  ]
+}

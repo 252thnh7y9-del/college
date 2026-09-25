@@ -1,0 +1,20 @@
+{
+  "id": 243,
+  "name": "Global Health",
+  "departmentIds": [
+    62,
+    21
+  ],
+  "summary": "Global Health examines health issues that cross national borders and the efforts to improve health worldwide, especially in low- and middle-income countries. The major combines public health, social science, and international development.",
+  "description": "Global Health majors study infectious diseases such as HIV, malaria, and tuberculosis, maternal and child health, nutrition, noncommunicable diseases, health systems, and humanitarian response. Coursework draws on epidemiology, anthropology, economics, and policy, and examines how poverty, conflict, and climate change affect health. Students learn about major global health organizations and ethical issues in international work. Many programs include study abroad or field experiences. Graduates work with international NGOs, government agencies, foundations, and research organizations, and many continue to graduate or medical school.",
+  "jobs": [
+    "Global health program officer",
+    "International NGO staff",
+    "Research coordinator",
+    "Humanitarian health worker",
+    "Health policy analyst",
+    "Monitoring and evaluation specialist",
+    "Peace Corps volunteer",
+    "Physician (with medical degree)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 214,
+  "name": "Supply Chain Management",
+  "departmentIds": [
+    56
+  ],
+  "summary": "Supply Chain Management studies how products move from raw materials to customers, including sourcing, production, logistics, and distribution. Students learn to make these flows efficient and resilient.",
+  "description": "Supply Chain Management majors study procurement and sourcing, logistics and transportation, inventory management, operations planning, demand forecasting, warehousing, global supply chains, and supply chain analytics and software, along with core business courses. They learn to balance cost, speed, and risk and to manage relationships with suppliers. Recent global disruptions have made the field especially visible and in demand. Internships are common. Graduates work for manufacturers, retailers, logistics companies, and consulting firms.",
+  "jobs": [
+    "Supply chain analyst",
+    "Logistics coordinator",
+    "Purchasing agent",
+    "Procurement specialist",
+    "Inventory planner",
+    "Demand planner",
+    "Operations manager",
+    "Transportation manager"
+  ]
+}

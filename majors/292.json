@@ -1,0 +1,19 @@
+{
+  "id": 292,
+  "name": "Agricultural Communications",
+  "departmentIds": [
+    75,
+    68
+  ],
+  "summary": "Agricultural Communications prepares students to tell the stories of agriculture, food, and natural resources through journalism, public relations, and marketing. The major combines communication skills with agricultural knowledge.",
+  "description": "Agricultural Communications majors study writing, editing, photography, video, graphic design, public relations, and social media, applied to agriculture and food. They also take agricultural science courses so they can explain complex topics accurately. Students learn to communicate with farmers, consumers, and policymakers about issues such as food production, biotechnology, and sustainability. Many work on student publications and complete internships with agricultural companies, media outlets, and organizations. Graduates work in agricultural journalism, marketing, public relations, and advocacy.",
+  "jobs": [
+    "Agricultural journalist",
+    "Public relations specialist",
+    "Marketing coordinator",
+    "Communications director (agriculture organization)",
+    "Social media manager",
+    "Agricultural advertising account executive",
+    "Extension communications specialist"
+  ]
+}

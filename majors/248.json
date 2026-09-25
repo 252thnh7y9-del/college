@@ -1,0 +1,19 @@
+{
+  "id": 248,
+  "name": "Health Sciences",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Health Sciences is a broad major that provides a foundation in human health, the healthcare system, and the sciences. It is often used as preparation for graduate programs in clinical professions.",
+  "description": "Health Sciences majors take biology, chemistry, anatomy and physiology, and statistics along with courses in medical terminology, healthcare systems, health ethics, public health, research methods, and health policy. Many programs offer concentrations aligned with graduate programs in physical therapy, occupational therapy, physician assistant studies, and other health professions, and they help students complete prerequisites. Students often complete observation hours or internships in clinical settings. Graduates work in healthcare support roles, research, and health education, or continue to professional school.",
+  "jobs": [
+    "Clinical research coordinator",
+    "Patient care technician",
+    "Health educator",
+    "Medical scribe",
+    "Healthcare administrator",
+    "Physical therapist (with DPT)",
+    "Occupational therapist (with graduate degree)",
+    "Physician assistant (with graduate degree)"
+  ]
+}

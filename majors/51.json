@@ -1,0 +1,18 @@
+{
+  "id": 51,
+  "name": "Ceramics",
+  "departmentIds": [
+    12
+  ],
+  "summary": "Ceramics majors create functional and sculptural work in clay. Students learn wheel throwing, hand building, glaze chemistry, and kiln firing.",
+  "description": "Ceramics students develop skill on the potter's wheel and with hand-building techniques such as coil, slab, and pinch construction. They study clay bodies, glaze formulation and chemistry, surface decoration, and firing methods including electric, gas reduction, wood, raku, and soda firing. The major covers both functional pottery and ceramic sculpture, along with the history of ceramics across cultures from ancient China and Greece to contemporary studio pottery. Critiques and a senior exhibition help students develop a distinct approach. Graduates work as studio potters and ceramic artists, teachers, and in production pottery, tile, and industrial ceramics settings.",
+  "jobs": [
+    "Studio potter",
+    "Ceramic artist",
+    "Ceramics instructor",
+    "Production potter",
+    "Kiln technician",
+    "Art center director",
+    "Tile designer"
+  ]
+}

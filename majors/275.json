@@ -1,0 +1,21 @@
+{
+  "id": 275,
+  "name": "Strategic Communication",
+  "departmentIds": [
+    68,
+    67,
+    54
+  ],
+  "summary": "Strategic Communication combines public relations, advertising, and marketing communication to help organizations reach their goals. Students learn to plan integrated campaigns across many channels.",
+  "description": "Strategic Communication majors study communication strategy, audience research, writing for various media, branding, public relations, advertising, social media, content creation, and campaign planning and evaluation. The major emphasizes an integrated approach, in which messages are consistent across earned, owned, paid, and social media. Students use research and analytics to measure effectiveness and learn digital tools for design and content. Projects with real clients and internships are central. Graduates work in agencies, corporations, nonprofits, government, and political communication.",
+  "jobs": [
+    "Communications specialist",
+    "Brand strategist",
+    "Content strategist",
+    "Public relations specialist",
+    "Social media manager",
+    "Marketing communications manager",
+    "Account executive",
+    "Digital strategist"
+  ]
+}

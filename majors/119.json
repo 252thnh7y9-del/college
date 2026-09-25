@@ -1,0 +1,20 @@
+{
+  "id": 119,
+  "name": "American Studies",
+  "departmentIds": [
+    26,
+    3
+  ],
+  "summary": "American Studies is an interdisciplinary study of American culture, history, and society. Students examine how ideas about America have been shaped through politics, literature, art, and popular culture.",
+  "description": "American Studies majors combine history, literature, political science, sociology, and media studies to understand the United States. Coursework may explore topics such as immigration, race and ethnicity, regional cultures, religion, popular music and film, consumer culture, the environment, and America's role in the world. Students learn to analyze diverse sources, from novels and films to advertisements and material objects, and often design their own concentration. The major builds research and writing skills and prepares graduates for careers in education, law, journalism, public history, museums, and public service.",
+  "jobs": [
+    "Teacher",
+    "Museum educator",
+    "Journalist",
+    "Archivist",
+    "Policy analyst",
+    "Paralegal",
+    "Writer",
+    "Attorney (with law degree)"
+  ]
+}

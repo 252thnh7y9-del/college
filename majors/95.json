@@ -1,0 +1,20 @@
+{
+  "id": 95,
+  "name": "International Relations",
+  "departmentIds": [
+    21,
+    20
+  ],
+  "summary": "International Relations studies how countries, international organizations, and other actors interact on issues such as war, trade, diplomacy, and human rights. Students develop a global perspective and often study a foreign language.",
+  "description": "International Relations majors examine theories of world politics, diplomacy, international security, international political economy, international law and organizations, and foreign policy. They explore issues such as conflict and terrorism, nuclear proliferation, global trade and development, climate change, human rights, and migration. Most programs require significant foreign language study and courses in history, economics, and regional studies, and many encourage study abroad and internships with government, think tanks, or international organizations. Graduates work in diplomacy, intelligence, international business, development, humanitarian organizations, and journalism.",
+  "jobs": [
+    "Foreign service officer",
+    "Intelligence analyst",
+    "International development specialist",
+    "Policy analyst",
+    "International business consultant",
+    "Humanitarian program officer",
+    "Think tank researcher",
+    "Journalist"
+  ]
+}

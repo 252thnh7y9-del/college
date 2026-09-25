@@ -1,0 +1,20 @@
+{
+  "id": 87,
+  "name": "Archaeology",
+  "departmentIds": [
+    18,
+    6
+  ],
+  "summary": "Archaeology studies past human societies through the material remains they left behind, such as tools, buildings, and bones. Students learn how to excavate, analyze, and interpret evidence of the past.",
+  "description": "Archaeology majors study human history from early human origins to recent centuries, in regions around the world. They learn field methods including survey, excavation, mapping, and recording, and laboratory methods for analyzing artifacts, animal and plant remains, and human skeletons. Dating techniques, GIS, remote sensing, and statistics are part of the toolkit. Coursework also addresses heritage law, ethics, and working with descendant communities. Most students attend an archaeological field school. In the United States, much archaeological work happens in cultural resource management, which surveys sites before construction, so graduates find work with CRM firms, government agencies, and museums.",
+  "jobs": [
+    "Field technician",
+    "Cultural resource management archaeologist",
+    "Museum collections assistant",
+    "GIS technician",
+    "Historic preservation specialist",
+    "Park service archaeologist",
+    "Laboratory technician",
+    "Professor (with graduate degree)"
+  ]
+}

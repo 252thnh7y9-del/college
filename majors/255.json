@@ -1,0 +1,17 @@
+{
+  "id": 255,
+  "name": "Dental Hygiene",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Dental Hygiene prepares students to provide preventive oral health care, including cleaning teeth, taking X-rays, and educating patients. Dental hygienists work alongside dentists.",
+  "description": "Dental Hygiene majors study anatomy, physiology, microbiology, oral anatomy, periodontology, dental radiography, pharmacology, nutrition, and community dental health. They learn clinical skills such as scaling and root planing, applying sealants and fluoride, and assessing oral health, practicing first on models and then on patients in a campus clinic. Graduates take the national board exam and a regional clinical exam for licensure. Bachelor's programs add coursework in public health, education, and research. Dental hygienists work in dental offices, public health programs, and education.",
+  "jobs": [
+    "Dental hygienist",
+    "Public health dental hygienist",
+    "Dental hygiene educator",
+    "Dental product sales representative",
+    "Clinical research coordinator",
+    "Community oral health coordinator"
+  ]
+}

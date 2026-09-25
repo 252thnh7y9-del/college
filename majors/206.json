@@ -1,0 +1,20 @@
+{
+  "id": 206,
+  "name": "International Business",
+  "departmentIds": [
+    53,
+    21
+  ],
+  "summary": "International Business studies how companies operate across national borders, including global trade, finance, marketing, and management. Students learn to navigate different economies, cultures, and regulations.",
+  "description": "International Business majors take the core business curriculum and specialize in international trade, global marketing, international finance, multinational management, global supply chains, and cross-cultural communication. They study how exchange rates, trade agreements, and political conditions affect companies. Most programs require foreign language study and encourage or require study abroad or international internships. Graduates work for multinational companies, import and export firms, logistics companies, international banks, and government trade agencies.",
+  "jobs": [
+    "International business analyst",
+    "Import/export specialist",
+    "Global supply chain analyst",
+    "International marketing manager",
+    "Foreign trade specialist",
+    "International sales representative",
+    "Customs compliance specialist",
+    "Management consultant"
+  ]
+}

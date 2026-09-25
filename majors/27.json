@@ -1,0 +1,19 @@
+{
+  "id": 27,
+  "name": "Scandinavian Studies",
+  "departmentIds": [
+    7
+  ],
+  "summary": "Scandinavian Studies explores the languages, literature, history, and cultures of Denmark, Finland, Iceland, Norway, and Sweden. Students typically learn at least one Nordic language.",
+  "description": "Scandinavian Studies majors study a Nordic language such as Swedish, Norwegian, Danish, Finnish, or Icelandic, and take courses on Norse mythology and the Viking Age, Old Norse sagas, and modern writers such as Ibsen, Strindberg, and Lagerlöf. Other courses examine Nordic film, design, the welfare state, environmental policy, and Sámi and immigrant cultures. The major is offered at a handful of universities, often in regions with strong Scandinavian heritage. It develops language skills, cultural knowledge, and analytical writing, and graduates work in education, translation, international business, cultural organizations, and public policy.",
+  "jobs": [
+    "Translator",
+    "Teacher",
+    "Cultural center staff",
+    "International business associate",
+    "Museum professional",
+    "Tourism professional",
+    "Policy researcher",
+    "Editor"
+  ]
+}

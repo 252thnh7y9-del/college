@@ -1,0 +1,20 @@
+{
+  "id": 299,
+  "name": "Historic Preservation",
+  "departmentIds": [
+    76,
+    3
+  ],
+  "summary": "Historic Preservation studies how to identify, protect, and reuse historic buildings, landscapes, and places. The major combines history, architecture, and planning.",
+  "description": "Historic Preservation majors study American architectural history, preservation law and policy, documentation and survey techniques, building materials and conservation, adaptive reuse, heritage tourism, and preservation planning. They learn to research the history of buildings, prepare National Register of Historic Places nominations, and assess the condition of historic structures. Fieldwork and hands-on conservation projects are common. Graduates work for state historic preservation offices, local governments, preservation nonprofits, architecture and consulting firms, and museums.",
+  "jobs": [
+    "Preservation planner",
+    "Architectural historian",
+    "Historic preservation specialist",
+    "Cultural resources consultant",
+    "Preservation contractor",
+    "Museum site manager",
+    "Main Street program manager",
+    "Architectural conservator"
+  ]
+}

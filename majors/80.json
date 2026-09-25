@@ -1,0 +1,19 @@
+{
+  "id": 80,
+  "name": "Dance",
+  "departmentIds": [
+    16
+  ],
+  "summary": "Dance majors train as performers and choreographers while studying dance history, anatomy, and theory. The major covers styles such as ballet, modern, contemporary, and jazz.",
+  "description": "Dance majors take daily technique classes, most often in ballet and modern or contemporary dance, with electives in jazz, hip-hop, tap, and world dance forms. They study choreography and improvisation, create and perform original work, and perform in faculty and guest-choreographed concerts. Academic courses cover dance history, kinesiology and anatomy for dancers, injury prevention, music for dancers, and dance pedagogy. Some programs offer tracks in dance education, dance science, or dance and technology. Graduates perform with companies, choreograph, teach in studios and schools, and work in arts administration or pursue dance therapy and physical therapy.",
+  "jobs": [
+    "Professional dancer",
+    "Choreographer",
+    "Dance teacher",
+    "Studio owner",
+    "Dance company manager",
+    "Pilates instructor",
+    "Dance movement therapist (with graduate degree)",
+    "Arts administrator"
+  ]
+}

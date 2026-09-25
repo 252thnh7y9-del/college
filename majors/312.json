@@ -1,0 +1,19 @@
+{
+  "id": 312,
+  "name": "Liberal Arts",
+  "departmentIds": [
+    84
+  ],
+  "summary": "Liberal Arts provides a broad education across the humanities, social sciences, natural sciences, and arts. The major emphasizes critical thinking, communication, and intellectual breadth.",
+  "description": "Liberal Arts majors take courses across many disciplines, including literature, history, philosophy, languages, social sciences, mathematics, and science, rather than specializing deeply in one. Some programs are built around great books or seminars on major texts and ideas. The emphasis is on learning how to think, write, analyze, and communicate, and on understanding problems from multiple perspectives. Graduates are adaptable generalists who work in business, education, government, nonprofits, and communications, and many pursue graduate or professional school.",
+  "jobs": [
+    "Teacher",
+    "Communications specialist",
+    "Management trainee",
+    "Sales representative",
+    "Nonprofit program coordinator",
+    "Writer or editor",
+    "Human resources specialist",
+    "Attorney (with law degree)"
+  ]
+}

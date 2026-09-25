@@ -1,0 +1,19 @@
+{
+  "id": 241,
+  "name": "Nursing",
+  "departmentIds": [
+    61
+  ],
+  "summary": "Nursing prepares students to become registered nurses who care for patients, promote health, and prevent illness. The Bachelor of Science in Nursing (BSN) combines science coursework with extensive clinical training.",
+  "description": "Nursing majors take foundational courses in anatomy and physiology, microbiology, chemistry, psychology, and statistics, then study nursing fundamentals, health assessment, pharmacology, pathophysiology, and nursing care across the lifespan, including adult health, pediatrics, maternity, mental health, community health, and critical care. Students complete hundreds of hours of supervised clinical rotations in hospitals and community settings, as well as simulation labs. Graduates take the NCLEX-RN exam to become licensed registered nurses. Nurses are in high demand, and the BSN also opens the door to advanced practice roles such as nurse practitioner.",
+  "jobs": [
+    "Registered nurse",
+    "Emergency room nurse",
+    "Pediatric nurse",
+    "ICU nurse",
+    "Public health nurse",
+    "Travel nurse",
+    "Nurse practitioner (with graduate degree)",
+    "Nurse anesthetist (with graduate degree)"
+  ]
+}

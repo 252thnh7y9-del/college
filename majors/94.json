@@ -1,0 +1,20 @@
+{
+  "id": 94,
+  "name": "Legal Studies",
+  "departmentIds": [
+    20,
+    25
+  ],
+  "summary": "Legal Studies examines law, legal systems, and how law shapes society. The major prepares students for law school, paralegal work, and careers that require legal knowledge.",
+  "description": "Legal Studies majors study the structure of the legal system and major areas of law, such as constitutional, criminal, civil, contract, and property law. Courses cover legal research and writing, the courts and judicial process, law and society, legal philosophy, and topics like civil rights, environmental law, and international law. Some programs include paralegal training in litigation support and legal document preparation. The major builds skills in analysis, argument, and precise writing. Graduates work as paralegals, in compliance and contracts, in government and courts, and many go on to law school.",
+  "jobs": [
+    "Paralegal",
+    "Legal assistant",
+    "Compliance specialist",
+    "Contract administrator",
+    "Court clerk",
+    "Mediator",
+    "Attorney (with law degree)",
+    "Policy analyst"
+  ]
+}

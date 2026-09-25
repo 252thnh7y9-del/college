@@ -1,0 +1,19 @@
+{
+  "id": 285,
+  "name": "Horticulture",
+  "departmentIds": [
+    70
+  ],
+  "summary": "Horticulture is the science and art of growing fruits, vegetables, flowers, and ornamental plants. Students learn plant production, landscape design, and greenhouse management.",
+  "description": "Horticulture majors study plant propagation, plant physiology, greenhouse and nursery production, fruit and vegetable crops, ornamental plants and landscape design, plant pests and diseases, and soil and irrigation management. Many programs also offer urban agriculture, controlled-environment agriculture (such as vertical farming), and public garden management. Students gain hands-on experience in campus greenhouses, gardens, and farms. Graduates work in nurseries, greenhouses, botanical gardens, landscape companies, produce farms, and garden centers.",
+  "jobs": [
+    "Horticulturist",
+    "Greenhouse manager",
+    "Nursery manager",
+    "Landscape designer",
+    "Botanical garden curator",
+    "Vertical farm manager",
+    "Extension horticulture agent",
+    "Plant propagator"
+  ]
+}

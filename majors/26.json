@@ -1,0 +1,19 @@
+{
+  "id": 26,
+  "name": "Russian",
+  "departmentIds": [
+    7
+  ],
+  "summary": "Russian majors learn the Russian language and study Russian literature, history, and culture. The major builds skills in a language of strategic importance to government and international affairs.",
+  "description": "Russian majors work through the Cyrillic alphabet and Russian grammar to reach advanced proficiency in reading, writing, and speaking. They study Russian literature, including Pushkin, Tolstoy, Dostoevsky, Chekhov, and Soviet and post-Soviet writers, as well as Russian film, art, and history from Kievan Rus to the present. Many programs include courses on the broader region and allow study of other Slavic languages. Russian is designated a critical language by the U.S. government, and scholarships support intensive summer and study-abroad programs. Graduates frequently work in government, intelligence, diplomacy, journalism, translation, and international business.",
+  "jobs": [
+    "Intelligence analyst",
+    "Foreign service officer",
+    "Translator",
+    "Journalist",
+    "International business associate",
+    "Linguist (government)",
+    "Teacher",
+    "Policy analyst"
+  ]
+}

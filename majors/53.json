@@ -1,0 +1,18 @@
+{
+  "id": 53,
+  "name": "Art Education",
+  "departmentIds": [
+    12,
+    57
+  ],
+  "summary": "Art Education prepares students to teach visual art in elementary, middle, and high schools. The major combines studio art training with education courses and student teaching.",
+  "description": "Art Education majors develop their own skills across media such as drawing, painting, ceramics, printmaking, and digital art, while learning how children and teenagers develop artistically. Education coursework covers curriculum design, classroom management, assessment, teaching students with diverse needs, and state standards for arts education. Students observe classrooms and complete a semester of student teaching, which leads to K-12 teaching licensure in most states. Some also prepare to teach in museums or community arts programs. Graduates are qualified public school art teachers and are also well suited to museum education and community arts work.",
+  "jobs": [
+    "K-12 art teacher",
+    "Museum educator",
+    "Community arts program director",
+    "After-school arts instructor",
+    "Arts camp director",
+    "Curriculum coordinator"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 137,
+  "name": "Chemistry",
+  "departmentIds": [
+    29
+  ],
+  "summary": "Chemistry studies matter, its properties, and how substances interact and change. The major provides a rigorous foundation for careers in science, industry, and medicine.",
+  "description": "Chemistry majors take courses in the five traditional branches: general, organic, inorganic, analytical, and physical chemistry, along with biochemistry, calculus, and physics. Laboratory work is extensive, and students learn synthesis, spectroscopy, chromatography, and instrumental analysis. Upper-level electives may include materials, environmental, medicinal, polymer, or computational chemistry. Many programs follow American Chemical Society certification guidelines, and undergraduate research is common. Chemistry graduates work in pharmaceuticals, materials, energy, environmental testing, and manufacturing, and the major is strong preparation for medical, pharmacy, and graduate school.",
+  "jobs": [
+    "Chemist",
+    "Analytical chemist",
+    "Quality control chemist",
+    "Pharmaceutical scientist",
+    "Environmental chemist",
+    "Chemistry teacher",
+    "Materials scientist",
+    "Physician (with medical degree)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 114,
+  "name": "Latino/a Studies",
+  "departmentIds": [
+    26
+  ],
+  "summary": "Latino/a Studies examines the histories, cultures, and experiences of Latinos in the United States. Students explore immigration, identity, politics, and the arts in Latino communities.",
+  "description": "Latino/a Studies, sometimes called Latinx or Chicano/a Studies, focuses on people of Latin American descent in the United States, including Mexican American, Puerto Rican, Cuban American, Dominican, and Central American communities. Coursework covers history, immigration and border policy, labor, education, politics, religion, literature, art, and music, and examines identity, language, and civil rights movements. Many programs include community engagement and Spanish language study. Graduates work in education, social services, community organizing, immigration services, public health, policy, and media.",
+  "jobs": [
+    "Community organizer",
+    "Bilingual teacher",
+    "Immigration services caseworker",
+    "Social services coordinator",
+    "Public health outreach worker",
+    "Policy analyst",
+    "Journalist",
+    "Attorney (with law degree)"
+  ]
+}

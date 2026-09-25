@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "name": "English",
+  "departmentIds": [
+    1
+  ],
+  "summary": "English majors study literature written in English and learn to read closely, think critically, and write with clarity and force. The major covers poetry, fiction, drama, and nonfiction across centuries and cultures.",
+  "description": "The English major is built on two skills: interpreting texts and writing about them persuasively. Students read widely, from Chaucer and Shakespeare through the Romantics, Victorians, and modernists to contemporary and global Anglophone writers, and learn critical approaches such as historicism, formalism, feminist, and postcolonial theory. Coursework usually combines survey classes with small seminars on single authors, genres, or themes, and many programs offer tracks in creative writing, rhetoric, or professional writing. Students write constantly, producing close readings, research papers, and often a senior thesis. Because it trains people to analyze complex material, argue clearly, and write well, the major is a common path into law, publishing, teaching, communications, and many other fields where language matters.",
+  "jobs": [
+    "Editor",
+    "Writer or author",
+    "Copywriter",
+    "Content strategist",
+    "High school English teacher",
+    "Technical writer",
+    "Publishing assistant",
+    "Communications specialist",
+    "Attorney (with law degree)",
+    "Professor (with graduate degree)"
+  ]
+}

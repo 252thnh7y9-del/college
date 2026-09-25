@@ -1,0 +1,19 @@
+{
+  "id": 17,
+  "name": "Classical Civilization",
+  "departmentIds": [
+    6
+  ],
+  "summary": "Classical Civilization studies ancient Greece and Rome mostly through texts in translation, along with history, art, and archaeology. It offers the breadth of classics with less intensive language study.",
+  "description": "Classical Civilization majors examine the ancient Mediterranean world without needing to reach advanced proficiency in Greek or Latin, though some language study is usually encouraged. Students read epic, tragedy, comedy, history, and philosophy in translation and take courses in Greek and Roman history, mythology, religion, art and architecture, law, gender and sexuality in antiquity, and the reception of the classics in later literature and film. The major emphasizes cultural understanding and the connections between the ancient world and modern institutions and ideas. It develops strong reading, writing, and analytical skills and pairs well with majors in history, philosophy, political science, and pre-law or pre-med tracks.",
+  "jobs": [
+    "Teacher",
+    "Museum educator",
+    "Tour guide or heritage interpreter",
+    "Editor",
+    "Paralegal",
+    "Attorney (with law degree)",
+    "Writer",
+    "Nonprofit program coordinator"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 162,
+  "name": "Chemical Engineering",
+  "departmentIds": [
+    38
+  ],
+  "summary": "Chemical Engineering applies chemistry, physics, biology, and math to design processes that turn raw materials into useful products. Chemical engineers work in energy, pharmaceuticals, food, and materials.",
+  "description": "Chemical Engineering majors take extensive chemistry and math along with engineering courses in material and energy balances, thermodynamics, fluid mechanics, heat and mass transfer, chemical reaction engineering, separations, and process control. Senior design courses have students design a complete chemical plant with attention to safety, economics, and environmental impact. Lab courses use pilot-scale equipment. Electives may cover biochemical engineering, polymers, energy, or semiconductors. Chemical engineers are among the highest-paid engineering graduates and work in petroleum and energy, pharmaceuticals, food and consumer products, specialty chemicals, and semiconductors.",
+  "jobs": [
+    "Process engineer",
+    "Chemical engineer",
+    "Manufacturing engineer",
+    "Pharmaceutical process engineer",
+    "Environmental engineer",
+    "Refinery engineer",
+    "Process safety engineer",
+    "Research and development engineer"
+  ]
+}

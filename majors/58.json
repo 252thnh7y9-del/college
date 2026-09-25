@@ -1,0 +1,19 @@
+{
+  "id": 58,
+  "name": "Industrial Design",
+  "departmentIds": [
+    13
+  ],
+  "summary": "Industrial Design majors design the physical products people use every day, from furniture and appliances to medical devices and electronics. The major blends creativity, engineering awareness, and research into how people use things.",
+  "description": "Industrial Design students learn to sketch, model, and prototype products, moving from ideas to physical and digital models. Coursework covers design drawing, form and aesthetics, materials and manufacturing processes, human factors and ergonomics, 3D CAD modeling, rapid prototyping, and design research methods that study users' needs. Students increasingly address sustainability and inclusive design. Studio projects often involve industry sponsors, and internships are common. The program ends with a portfolio showing a full design process. Graduates work in product design consultancies, consumer products and technology companies, furniture, automotive, and medical device firms.",
+  "jobs": [
+    "Industrial designer",
+    "Product designer",
+    "CAD designer",
+    "Design researcher",
+    "Furniture designer",
+    "Toy designer",
+    "Automotive designer",
+    "Exhibit designer"
+  ]
+}

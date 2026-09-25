@@ -1,0 +1,19 @@
+{
+  "id": 180,
+  "name": "Systems Engineering",
+  "departmentIds": [
+    43
+  ],
+  "summary": "Systems Engineering designs and manages complex systems as a whole, making sure all components work together over their life cycle. It is widely used in aerospace, defense, and technology.",
+  "description": "Systems Engineering majors learn methods for defining requirements, designing system architectures, integrating subsystems, verifying and validating performance, and managing risk, cost, and reliability. Coursework includes probability and statistics, optimization, modeling and simulation, control systems, decision analysis, and project management, often using model-based systems engineering tools. Students apply these methods to projects such as transportation networks, spacecraft, energy systems, and healthcare. Graduates work at aerospace and defense contractors, government agencies, technology companies, and consulting firms.",
+  "jobs": [
+    "Systems engineer",
+    "Requirements engineer",
+    "Integration and test engineer",
+    "Reliability engineer",
+    "Project engineer",
+    "Defense systems analyst",
+    "Operations analyst",
+    "Technical program manager"
+  ]
+}

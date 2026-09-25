@@ -1,0 +1,19 @@
+{
+  "id": 154,
+  "name": "Statistics",
+  "departmentIds": [
+    34
+  ],
+  "summary": "Statistics is the science of collecting, analyzing, and interpreting data. Students learn to draw reliable conclusions from data and to measure uncertainty.",
+  "description": "Statistics majors study probability theory, mathematical statistics, regression, experimental design, sampling, and statistical computing, supported by calculus and linear algebra. They learn statistical programming languages such as R, SAS, and Python and work with real datasets from fields like medicine, economics, and sports. Electives may include Bayesian statistics, time series, machine learning, and biostatistics. Consulting and capstone projects give practical experience. Statisticians are in strong demand in nearly every industry, including healthcare, technology, finance, government, and pharmaceuticals.",
+  "jobs": [
+    "Statistician",
+    "Data analyst",
+    "Data scientist",
+    "Biostatistician",
+    "Survey statistician",
+    "Quality analyst",
+    "Clinical trial statistician",
+    "Market research analyst"
+  ]
+}

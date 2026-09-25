@@ -1,0 +1,18 @@
+{
+  "id": 25,
+  "name": "Portuguese",
+  "departmentIds": [
+    7
+  ],
+  "summary": "Portuguese majors learn Portuguese and study the literature and cultures of Brazil, Portugal, and Lusophone Africa. The language is spoken by more than 250 million people worldwide.",
+  "description": "Portuguese majors develop proficiency in speaking, reading, and writing, often with attention to both Brazilian and European varieties. Upper-level coursework covers the literature, music, film, and history of Brazil, Portugal, Angola, Mozambique, Cape Verde, and other Portuguese-speaking regions, including topics such as colonialism, slavery, and modern Brazilian society. Some programs combine Portuguese with Spanish in a Luso-Hispanic studies track. Because Brazil is one of the world's largest economies, the major is valuable for international business, energy, agriculture, and diplomacy, and graduates are in demand as translators and interpreters.",
+  "jobs": [
+    "Translator or interpreter",
+    "International business associate",
+    "Foreign service officer",
+    "Teacher",
+    "International development worker",
+    "Trade specialist",
+    "Intelligence analyst"
+  ]
+}

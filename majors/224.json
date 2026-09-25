@@ -1,0 +1,20 @@
+{
+  "id": 224,
+  "name": "Aviation Management",
+  "departmentIds": [
+    83,
+    53
+  ],
+  "summary": "Aviation Management prepares students to manage airlines, airports, and other aviation businesses. The major combines business management with aviation industry knowledge.",
+  "description": "Aviation Management majors study airline and airport management, aviation safety and security, aviation law and regulations, air transportation economics, airport planning, aviation marketing, and aviation finance, along with core business courses. Many programs include some flight training or ground school. Students learn about the operation of the air transportation system and the roles of the FAA and TSA. Internships with airlines, airports, and aviation companies are common. Graduates work in airline operations, airport management, aviation consulting, and corporate flight departments.",
+  "jobs": [
+    "Airport manager",
+    "Airline operations manager",
+    "Aviation safety inspector",
+    "Flight operations coordinator",
+    "Crew scheduler",
+    "Aviation consultant",
+    "Fixed base operator manager",
+    "Airline station manager"
+  ]
+}

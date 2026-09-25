@@ -1,0 +1,19 @@
+{
+  "id": 289,
+  "name": "Agricultural Business",
+  "departmentIds": [
+    71
+  ],
+  "summary": "Agricultural Business applies business principles to farming, food, and agricultural industries. Students learn management, marketing, and finance as they apply to agriculture.",
+  "description": "Agricultural Business majors study agricultural economics, farm and ranch management, agricultural marketing, commodity markets and risk management, agricultural finance and lending, agribusiness management, and agricultural law and policy, along with accounting and business courses. They learn how agricultural markets work, how farms and agribusinesses make decisions, and how to manage risk from weather and price swings. Internships with agricultural lenders, cooperatives, and food companies are common. Graduates work in agricultural lending, sales, commodity trading, farm management, and food and agribusiness companies.",
+  "jobs": [
+    "Agricultural loan officer",
+    "Farm manager",
+    "Agricultural sales representative",
+    "Commodity merchandiser",
+    "Grain buyer",
+    "Agribusiness manager",
+    "Crop insurance agent",
+    "Agricultural marketing specialist"
+  ]
+}

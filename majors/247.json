@@ -1,0 +1,21 @@
+{
+  "id": 247,
+  "name": "Health Administration",
+  "departmentIds": [
+    62,
+    53,
+    63
+  ],
+  "summary": "Health Administration prepares students to manage hospitals, clinics, and other healthcare organizations. The major combines business skills with knowledge of the healthcare system.",
+  "description": "Health Administration majors study the U.S. healthcare system, healthcare finance and accounting, health policy and law, health information management, quality improvement, human resources, and healthcare marketing and strategy. They learn about insurance and reimbursement, regulations such as HIPAA, and how to run efficient, patient-centered organizations. Internships in hospitals, physician practices, long-term care facilities, or insurance companies are typical. Graduates work in management and administrative roles throughout healthcare, and many continue to a Master of Health Administration.",
+  "jobs": [
+    "Healthcare administrator",
+    "Practice manager",
+    "Health services manager",
+    "Patient services coordinator",
+    "Revenue cycle analyst",
+    "Long-term care administrator",
+    "Healthcare consultant",
+    "Hospital department manager"
+  ]
+}

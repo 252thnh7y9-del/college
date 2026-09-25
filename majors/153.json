@@ -1,0 +1,21 @@
+{
+  "id": 153,
+  "name": "Actuarial Science",
+  "departmentIds": [
+    33,
+    34,
+    52
+  ],
+  "summary": "Actuarial Science uses mathematics, statistics, and financial theory to measure and manage risk, especially for insurance and pension plans. The major prepares students for professional actuarial exams.",
+  "description": "Actuarial Science majors study calculus, probability, mathematical statistics, financial mathematics, and the theory of interest, along with courses in life contingencies, risk models, and predictive analytics. They also take economics, accounting, and finance, and learn programming and spreadsheet modeling. Programs are designed around the professional exams from the Society of Actuaries and Casualty Actuarial Society, and many students pass one or two exams before graduating. Internships at insurance companies and consulting firms are common. Actuaries are consistently ranked among the best-paying and most secure careers.",
+  "jobs": [
+    "Actuarial analyst",
+    "Actuary",
+    "Risk analyst",
+    "Pricing analyst",
+    "Underwriter",
+    "Pension consultant",
+    "Insurance data analyst",
+    "Financial analyst"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 257,
+  "name": "Rehabilitation Sciences",
+  "departmentIds": [
+    63,
+    60
+  ],
+  "summary": "Rehabilitation Sciences studies how to help people recover function and independence after injury, illness, or disability. It is often preparation for graduate programs in physical and occupational therapy.",
+  "description": "Rehabilitation Sciences majors study anatomy, physiology, kinesiology, neuroscience, disability studies, and the rehabilitation process, along with courses on assistive technology, health across the lifespan, and research methods. They learn how injuries and conditions such as stroke, spinal cord injury, and arthritis affect movement and daily life, and how therapy teams work together. Many students complete observation hours with therapists. Graduates work in rehabilitation support roles or continue to graduate programs in physical therapy, occupational therapy, and speech-language pathology.",
+  "jobs": [
+    "Rehabilitation technician",
+    "Physical therapy aide",
+    "Vocational rehabilitation specialist",
+    "Case manager",
+    "Assistive technology specialist",
+    "Physical therapist (with DPT)",
+    "Occupational therapist (with graduate degree)"
+  ]
+}

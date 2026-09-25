@@ -1,0 +1,20 @@
+{
+  "id": 96,
+  "name": "Global Studies",
+  "departmentIds": [
+    21,
+    26
+  ],
+  "summary": "Global Studies is an interdisciplinary major that examines worldwide issues and connections, such as globalization, migration, climate change, and human rights. Students combine social sciences, humanities, and language study.",
+  "description": "Global Studies majors look at how economic, political, cultural, and environmental forces connect people and places around the world. Coursework draws on political science, economics, anthropology, history, and geography and addresses topics such as global inequality, development, international trade, migration and refugees, global health, climate change, and cultural globalization. Students typically choose a thematic focus and a regional specialization, study a foreign language, and study abroad. Graduates work in international nonprofits, development organizations, global business, government, and education.",
+  "jobs": [
+    "International NGO program coordinator",
+    "Global business associate",
+    "Foreign service officer",
+    "Refugee resettlement caseworker",
+    "Study abroad advisor",
+    "Policy analyst",
+    "International development consultant",
+    "Journalist"
+  ]
+}

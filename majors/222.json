@@ -1,0 +1,20 @@
+{
+  "id": 222,
+  "name": "Recreation, Parks & Leisure Studies",
+  "departmentIds": [
+    82,
+    60
+  ],
+  "summary": "Recreation, Parks and Leisure Studies prepares students to plan and manage recreation programs, parks, and outdoor experiences for communities. The major connects recreation with health, conservation, and quality of life.",
+  "description": "Recreation, Parks and Leisure Studies majors study recreation programming, park and natural resource management, outdoor recreation and adventure education, therapeutic recreation, community recreation, facility management, and leisure theory. Coursework also covers budgeting, marketing, risk management, and inclusive programming for diverse populations. Internships with parks departments, camps, YMCAs, or outdoor organizations are typically required. Graduates work for city and county park and recreation departments, state and national parks, camps, nonprofits, and resorts.",
+  "jobs": [
+    "Recreation program coordinator",
+    "Parks and recreation director",
+    "Park ranger",
+    "Outdoor education instructor",
+    "Camp director",
+    "Therapeutic recreation specialist",
+    "Aquatics director",
+    "Community center manager"
+  ]
+}

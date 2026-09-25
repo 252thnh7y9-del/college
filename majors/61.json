@@ -1,0 +1,20 @@
+{
+  "id": 61,
+  "name": "Fashion Merchandising",
+  "departmentIds": [
+    13,
+    54
+  ],
+  "summary": "Fashion Merchandising focuses on the business side of the fashion industry, from buying and product development to retail and marketing. Students learn how clothing gets from designers to consumers.",
+  "description": "Fashion Merchandising majors study retail math, buying and planning, product development, visual merchandising, textiles, trend forecasting, consumer behavior, and fashion marketing and branding. They also learn about global sourcing, supply chains, e-commerce, and sustainability. Coursework often includes business classes in accounting, management, and marketing. Internships with retailers, brands, or showrooms are a key part of the program. Graduates work as buyers, planners, merchandisers, and in marketing, e-commerce, and management for apparel brands and retailers.",
+  "jobs": [
+    "Fashion buyer",
+    "Merchandise planner",
+    "Visual merchandiser",
+    "Retail manager",
+    "Product development coordinator",
+    "E-commerce merchandiser",
+    "Fashion marketing specialist",
+    "Showroom manager"
+  ]
+}

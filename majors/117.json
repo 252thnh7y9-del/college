@@ -1,0 +1,20 @@
+{
+  "id": 117,
+  "name": "European Studies",
+  "departmentIds": [
+    26,
+    7
+  ],
+  "summary": "European Studies examines the history, politics, cultures, and economies of Europe and the European Union. Students usually study one or more European languages.",
+  "description": "European Studies is an interdisciplinary major combining history, political science, economics, literature, and the arts. Students study European history from the Enlightenment through the world wars and the Cold War, the creation and workings of the European Union, European economies, immigration and national identity, and contemporary challenges such as populism and climate policy. Language proficiency in a European language is required, and study abroad is strongly encouraged. Graduates work in international business, diplomacy, international organizations, trade, tourism, and education.",
+  "jobs": [
+    "International business associate",
+    "Foreign service officer",
+    "Trade specialist",
+    "Policy analyst",
+    "Translator",
+    "Tourism professional",
+    "International organization staff",
+    "Teacher"
+  ]
+}

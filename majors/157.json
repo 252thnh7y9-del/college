@@ -1,0 +1,22 @@
+{
+  "id": 157,
+  "name": "Natural Sciences",
+  "departmentIds": [
+    84,
+    28,
+    29,
+    30
+  ],
+  "summary": "Natural Sciences is a broad major that combines biology, chemistry, physics, and earth science. It suits students who want a wide science foundation rather than a single specialty.",
+  "description": "Natural Sciences majors take introductory sequences across several sciences and mathematics, then complete upper-level work in two or more areas, such as biology and chemistry or physics and earth science. The breadth helps students see connections across disciplines and approach problems from multiple angles. Laboratory and research experience are part of the program. The major is often chosen by students preparing for medical or other health professional schools, science teaching, or interdisciplinary fields such as environmental or forensic science. Graduates work in labs, healthcare, education, and science communication.",
+  "jobs": [
+    "Science teacher",
+    "Laboratory technician",
+    "Science writer",
+    "Clinical research coordinator",
+    "Environmental technician",
+    "Technical sales representative",
+    "Physician (with medical degree)",
+    "Pharmacist (with PharmD)"
+  ]
+}

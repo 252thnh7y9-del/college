@@ -1,0 +1,19 @@
+{
+  "id": 28,
+  "name": "Chinese",
+  "departmentIds": [
+    8
+  ],
+  "summary": "Chinese majors learn Mandarin Chinese and study the literature, history, and culture of China. The major prepares students to work with one of the world's largest economies and oldest civilizations.",
+  "description": "Chinese majors develop speaking, listening, reading, and writing skills in Mandarin, including mastery of thousands of Chinese characters, over several years of study. Upper-level courses cover classical Chinese, modern and contemporary literature, Chinese film, philosophy traditions such as Confucianism and Daoism, and modern Chinese history and society. Study abroad in mainland China, Taiwan, or elsewhere is strongly encouraged, and many students take intensive summer language programs. Mandarin is a critical language for the U.S. government and a valuable asset in business, so graduates find opportunities in international trade, diplomacy, translation, education, and security.",
+  "jobs": [
+    "Translator or interpreter",
+    "International business associate",
+    "Foreign service officer",
+    "Intelligence analyst",
+    "Chinese teacher",
+    "Supply chain specialist",
+    "Journalist",
+    "Policy analyst"
+  ]
+}

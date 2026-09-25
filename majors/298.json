@@ -1,0 +1,19 @@
+{
+  "id": 298,
+  "name": "Architecture",
+  "departmentIds": [
+    76
+  ],
+  "summary": "Architecture teaches students to design buildings and spaces that are functional, safe, and beautiful. The major combines creative design with technical knowledge of structures, materials, and building systems.",
+  "description": "Architecture students spend much of their time in design studios, developing projects from concept sketches to detailed drawings and physical and digital models. Coursework also covers architectural history and theory, building structures, environmental systems, materials and construction, and digital tools such as Revit and Rhino. Sustainability and urban context are central themes. Professional licensure usually requires an accredited degree, either a five-year Bachelor of Architecture or a four-year pre-professional degree followed by a Master of Architecture, plus experience and licensing exams. Graduates work in architecture firms, design-build companies, and related fields.",
+  "jobs": [
+    "Architect (with licensure)",
+    "Architectural designer",
+    "Urban designer",
+    "BIM specialist",
+    "Sustainability consultant",
+    "Construction project manager",
+    "Exhibit designer",
+    "Architectural visualization artist"
+  ]
+}

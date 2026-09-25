@@ -1,0 +1,19 @@
+{
+  "id": 100,
+  "name": "Industrial-Organizational Psychology",
+  "departmentIds": [
+    22,
+    53
+  ],
+  "summary": "Industrial-Organizational Psychology applies psychology to the workplace to improve hiring, training, motivation, and organizational performance. It connects psychology with management and human resources.",
+  "description": "I-O Psychology majors study how people think and behave at work. Coursework covers personnel selection and assessment, job analysis, performance appraisal, training and development, work motivation, leadership, teams, organizational culture, and employee well-being. Students also take statistics, research methods, and psychometrics, which is the science of measurement and testing. Many programs include courses in human resources and management. Students often complete internships in HR or consulting. With a bachelor's degree, graduates work in HR, recruiting, training, and people analytics, while a master's or doctorate leads to roles as I-O psychologists and organizational consultants.",
+  "jobs": [
+    "Human resources specialist",
+    "Talent acquisition specialist",
+    "Training and development coordinator",
+    "People analytics analyst",
+    "Organizational development consultant",
+    "Employee experience specialist",
+    "I-O psychologist (with graduate degree)"
+  ]
+}

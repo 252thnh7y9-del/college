@@ -1,0 +1,21 @@
+{
+  "id": 44,
+  "name": "Digital Humanities",
+  "departmentIds": [
+    1,
+    50,
+    84
+  ],
+  "summary": "Digital Humanities uses computational tools to study literature, history, art, and culture. Students learn to build digital archives, analyze large collections of texts, and create interactive maps and visualizations.",
+  "description": "Digital Humanities sits at the intersection of the humanities and computing. Students take traditional humanities courses while learning methods such as text encoding, text mining and distant reading, digital mapping with GIS, network analysis, data visualization, and web development. They build projects such as online editions of historical documents, databases of archival material, or interactive exhibits, and they study questions about digital culture, preservation, and the ethics of data. Courses in programming, often Python, and in design are common. Graduates are well positioned for jobs in libraries, archives, museums, publishing, and technology, and for graduate study in information science or the humanities.",
+  "jobs": [
+    "Digital archivist",
+    "Digital projects librarian",
+    "Data analyst",
+    "Web developer",
+    "UX researcher",
+    "Content strategist",
+    "Digital collections specialist",
+    "Research software specialist"
+  ]
+}

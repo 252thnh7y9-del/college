@@ -1,0 +1,20 @@
+{
+  "id": 46,
+  "name": "Fine Arts",
+  "departmentIds": [
+    12
+  ],
+  "summary": "The Fine Arts degree, usually a Bachelor of Fine Arts (BFA), is an intensive professional program for students committed to making art. Students spend most of their coursework in the studio, developing a mature body of work.",
+  "description": "A BFA in Fine Arts devotes roughly two-thirds of coursework to studio art, compared with about one-third in a typical BA. After foundation courses in drawing, design, and art history, students concentrate in an area such as painting, sculpture, printmaking, photography, ceramics, or new media. They work closely with faculty who are practicing artists, participate in frequent critiques, and often have dedicated studio space. Courses in contemporary art theory and professional practice prepare them to exhibit, apply for residencies and grants, and write artist statements. The program culminates in a thesis exhibition. Graduates pursue careers as studio artists and in related creative fields, and many go on to Master of Fine Arts programs.",
+  "jobs": [
+    "Studio artist",
+    "Gallery manager",
+    "Art instructor",
+    "Museum preparator",
+    "Illustrator",
+    "Muralist",
+    "Art fabricator",
+    "MFA candidate",
+    "Arts administrator"
+  ]
+}

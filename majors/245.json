@@ -1,0 +1,18 @@
+{
+  "id": 245,
+  "name": "Health Promotion",
+  "departmentIds": [
+    62
+  ],
+  "summary": "Health Promotion teaches students to help people adopt healthier behaviors through education, programs, and policy. The major covers wellness, prevention, and behavior change.",
+  "description": "Health Promotion majors study health behavior theories, nutrition, physical activity, stress management, substance use prevention, program planning and evaluation, and health communication. They learn to design wellness programs for workplaces, schools, and communities and to use strategies such as health coaching and social marketing. Many programs prepare students for the Certified Health Education Specialist exam. Internships in corporate wellness, hospitals, fitness centers, or public health departments are common. Graduates work as wellness coordinators, health coaches, and health educators.",
+  "jobs": [
+    "Wellness coordinator",
+    "Health coach",
+    "Health educator",
+    "Corporate wellness specialist",
+    "Prevention specialist",
+    "Health communication specialist",
+    "Community outreach coordinator"
+  ]
+}

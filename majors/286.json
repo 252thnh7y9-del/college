@@ -1,0 +1,18 @@
+{
+  "id": 286,
+  "name": "Turfgrass Management",
+  "departmentIds": [
+    70
+  ],
+  "summary": "Turfgrass Management prepares students to maintain high-quality grass surfaces on golf courses, sports fields, parks, and lawns. The major combines plant and soil science with facility management.",
+  "description": "Turfgrass Management majors study turfgrass species and physiology, soil science, fertility, irrigation and drainage, integrated pest management, equipment management, and golf course and sports field construction and maintenance. Business and personnel management courses prepare them to lead crews and manage budgets. Internships at golf courses, sports stadiums, and lawn care companies are typically required, and graduates of strong programs are in high demand. Graduates work as golf course superintendents, sports turf managers, and in lawn care, sod production, and turf product sales.",
+  "jobs": [
+    "Golf course superintendent",
+    "Sports turf manager",
+    "Grounds manager",
+    "Lawn care business owner",
+    "Turf product sales representative",
+    "Sod farm manager",
+    "Irrigation specialist"
+  ]
+}

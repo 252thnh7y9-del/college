@@ -1,0 +1,19 @@
+{
+  "id": 143,
+  "name": "Geology",
+  "departmentIds": [
+    31
+  ],
+  "summary": "Geology studies the Earth: its rocks, minerals, landforms, and the processes that have shaped it over billions of years. The major includes extensive fieldwork.",
+  "description": "Geology majors learn mineralogy, petrology (the study of rocks), structural geology, sedimentology, stratigraphy, paleontology, geochemistry, and geomorphology, with supporting courses in chemistry, physics, and math. Field experience is central: students learn to read landscapes and rock formations, make geologic maps, and usually complete a multi-week summer field camp. Applied courses cover hydrogeology, natural hazards such as earthquakes and volcanoes, and energy and mineral resources. Graduates work in environmental consulting, groundwater and water resources, mining, energy, engineering geology, and government geological surveys.",
+  "jobs": [
+    "Geologist",
+    "Hydrogeologist",
+    "Environmental consultant",
+    "Engineering geologist",
+    "Mining geologist",
+    "Petroleum geologist",
+    "Geotechnical technician",
+    "Geological survey scientist"
+  ]
+}

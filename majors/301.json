@@ -1,0 +1,19 @@
+{
+  "id": 301,
+  "name": "Urban & Regional Planning",
+  "departmentIds": [
+    78
+  ],
+  "summary": "Urban and Regional Planning prepares students to shape how cities, towns, and regions grow and change. Planners work on land use, housing, transportation, and the environment.",
+  "description": "Urban and Regional Planning majors study planning history and theory, land-use planning and zoning, urban design, transportation planning, housing and community development, environmental planning, economic development, planning law, and public participation. They learn GIS, data analysis, and plan-making skills, often through studio projects for real communities. Internships with city and regional planning departments are common. Many planners later earn a master's degree and the AICP certification. Graduates work for local and regional governments, consulting firms, developers, and nonprofits.",
+  "jobs": [
+    "Urban planner",
+    "Transportation planner",
+    "Zoning administrator",
+    "Community development planner",
+    "Environmental planner",
+    "Housing specialist",
+    "GIS planner",
+    "Economic development specialist"
+  ]
+}

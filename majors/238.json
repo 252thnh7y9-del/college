@@ -1,0 +1,19 @@
+{
+  "id": 238,
+  "name": "Bilingual Education",
+  "departmentIds": [
+    57,
+    7
+  ],
+  "summary": "Bilingual Education prepares students to teach in classrooms where instruction happens in two languages, most often English and Spanish. Graduates support students as they learn content while developing both languages.",
+  "description": "Bilingual Education majors study language acquisition, bilingualism and biliteracy, methods for teaching content in two languages, dual-language program models, assessment of English learners, and culturally responsive teaching. They must demonstrate strong proficiency in both languages. Field experiences take place in bilingual and dual-language classrooms, followed by student teaching, and graduates earn teaching licensure with a bilingual endorsement. With growing numbers of English learners, bilingual teachers are among the highest-need educators in many states.",
+  "jobs": [
+    "Bilingual elementary teacher",
+    "Dual-language immersion teacher",
+    "ESL teacher",
+    "Bilingual education coordinator",
+    "Family engagement specialist",
+    "Language assessment specialist",
+    "Instructional coach"
+  ]
+}

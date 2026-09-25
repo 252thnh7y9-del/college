@@ -1,0 +1,19 @@
+{
+  "id": 125,
+  "name": "Microbiology",
+  "departmentIds": [
+    28
+  ],
+  "summary": "Microbiology studies microscopic organisms such as bacteria, viruses, fungi, and protozoa. Students learn how microbes cause disease, support ecosystems, and are used in medicine and industry.",
+  "description": "Microbiology majors study the structure, genetics, physiology, and ecology of microorganisms. Coursework includes general microbiology, immunology, virology, bacterial genetics, medical microbiology, and environmental and industrial microbiology, supported by chemistry, biochemistry, and molecular biology. Lab courses teach sterile technique, culturing, microscopy, and molecular identification methods. The field is central to understanding infectious diseases and pandemics, developing vaccines and antibiotics, food safety, and biotechnology. Graduates work in clinical and public health labs, pharmaceutical and food companies, and research, and many go on to health professional schools.",
+  "jobs": [
+    "Microbiologist",
+    "Clinical laboratory scientist",
+    "Public health laboratory scientist",
+    "Quality control microbiologist",
+    "Food safety specialist",
+    "Vaccine research associate",
+    "Infection prevention specialist",
+    "Physician (with medical degree)"
+  ]
+}

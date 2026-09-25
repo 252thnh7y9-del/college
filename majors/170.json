@@ -1,0 +1,19 @@
+{
+  "id": 170,
+  "name": "Computer Science",
+  "departmentIds": [
+    41
+  ],
+  "summary": "Computer Science studies computation, algorithms, and software. Students learn to design and analyze programs and systems that solve problems.",
+  "description": "Computer Science majors learn programming in several languages and study data structures, algorithms, discrete mathematics, computer systems and architecture, operating systems, programming languages, and the theory of computation. Upper-level electives cover areas such as artificial intelligence and machine learning, databases, networks, security, graphics, human-computer interaction, and distributed systems. Team software projects and a capstone are common, and many students complete internships. Computer science graduates are among the most sought-after in the job market and work in technology companies and nearly every other industry.",
+  "jobs": [
+    "Software engineer",
+    "Web developer",
+    "Data scientist",
+    "Machine learning engineer",
+    "Systems engineer",
+    "Security engineer",
+    "Mobile app developer",
+    "Database administrator"
+  ]
+}

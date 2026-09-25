@@ -1,0 +1,19 @@
+{
+  "id": 129,
+  "name": "Zoology",
+  "departmentIds": [
+    28
+  ],
+  "summary": "Zoology is the study of animals, including their structure, behavior, physiology, evolution, and ecology. The major prepares students for work with animals in research, conservation, and care.",
+  "description": "Zoology majors study the diversity of animal life, from invertebrates to mammals. Coursework includes animal physiology, comparative anatomy, animal behavior, vertebrate and invertebrate zoology, evolution, ecology, and genetics, along with chemistry and math. Lab and field courses teach dissection, specimen identification, and field observation methods. Electives may cover specific groups such as mammals, birds, reptiles, or insects. Graduates work in zoos, aquariums, wildlife agencies, research labs, and conservation organizations, and the major is also common preparation for veterinary school.",
+  "jobs": [
+    "Zookeeper",
+    "Wildlife biologist",
+    "Animal behaviorist",
+    "Research technician",
+    "Conservation officer",
+    "Zoo educator",
+    "Veterinarian (with DVM)",
+    "Museum collections specialist"
+  ]
+}

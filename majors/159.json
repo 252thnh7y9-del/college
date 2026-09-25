@@ -1,0 +1,18 @@
+{
+  "id": 159,
+  "name": "Astronautical Engineering",
+  "departmentIds": [
+    36
+  ],
+  "summary": "Astronautical Engineering focuses on the design of spacecraft, satellites, and launch vehicles and the systems needed to operate in space. It is a specialized branch of aerospace engineering.",
+  "description": "Astronautical Engineering majors take the core aerospace curriculum and concentrate on space systems. Coursework covers orbital mechanics, rocket propulsion, spacecraft dynamics and control, space environment effects, spacecraft structures and thermal control, satellite communication, and space mission design. Students often build and test small satellites such as CubeSats or rockets in team projects. The major is offered at a limited number of schools, including military academies. Graduates work for space agencies, satellite companies, launch providers, and defense contractors.",
+  "jobs": [
+    "Spacecraft engineer",
+    "Satellite systems engineer",
+    "Propulsion engineer",
+    "Mission design engineer",
+    "Guidance, navigation and control engineer",
+    "Launch operations engineer",
+    "Space systems officer"
+  ]
+}

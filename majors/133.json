@@ -1,0 +1,23 @@
+{
+  "id": 133,
+  "name": "Cognitive Science",
+  "departmentIds": [
+    22,
+    4,
+    10,
+    41,
+    35
+  ],
+  "summary": "Cognitive Science studies the mind and intelligence by combining psychology, neuroscience, linguistics, philosophy, and computer science. Students explore how people and machines think, learn, and perceive.",
+  "description": "Cognitive Science majors investigate questions such as how we perceive, remember, reason, use language, and make decisions, and whether machines can do the same. They take foundational courses in cognitive psychology, neuroscience, linguistics, philosophy of mind, and computer science, including programming and often machine learning. Students learn experimental methods, computational modeling, and data analysis, and many focus on a track such as neuroscience, AI, language, or human-computer interaction. The major prepares graduates for careers in user experience research, artificial intelligence, data science, and education technology, and for graduate study in psychology, neuroscience, or computer science.",
+  "jobs": [
+    "UX researcher",
+    "Data scientist",
+    "Machine learning engineer",
+    "Human factors specialist",
+    "Research assistant",
+    "Product manager",
+    "Conversation designer",
+    "Cognitive scientist (with graduate degree)"
+  ]
+}

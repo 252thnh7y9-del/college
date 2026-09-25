@@ -1,0 +1,20 @@
+{
+  "id": 127,
+  "name": "Ecology & Evolutionary Biology",
+  "departmentIds": [
+    28,
+    32
+  ],
+  "summary": "Ecology and Evolutionary Biology studies how organisms interact with each other and their environment and how life has evolved over time. The major emphasizes field and research work.",
+  "description": "Ecology and Evolutionary Biology majors study populations, communities, and ecosystems as well as the processes that produce biodiversity, such as natural selection, speciation, and adaptation. Coursework includes ecology, evolution, genetics, animal behavior, plant biology, conservation biology, and statistics, and students often take field courses at biological stations, in forests, deserts, or coastal habitats. They learn field sampling, experimental design, data analysis in R, and sometimes phylogenetics and GIS. Graduates work in conservation, environmental consulting, natural resource management, and research, and many pursue graduate school.",
+  "jobs": [
+    "Field biologist",
+    "Conservation scientist",
+    "Environmental consultant",
+    "Wildlife technician",
+    "Restoration ecologist",
+    "Natural resources specialist",
+    "Science educator",
+    "Research scientist (with graduate degree)"
+  ]
+}

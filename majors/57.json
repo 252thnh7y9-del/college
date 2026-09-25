@@ -1,0 +1,20 @@
+{
+  "id": 57,
+  "name": "Animation",
+  "departmentIds": [
+    13,
+    17
+  ],
+  "summary": "Animation majors bring characters and stories to life with 2D, 3D, and stop-motion techniques. Students learn drawing, storytelling, and industry software to create animated films and media.",
+  "description": "Animation programs start with drawing, figure study, and the principles of animation such as timing, squash and stretch, and anticipation. Students then learn 2D digital animation, 3D modeling, rigging, texturing, lighting, and animation in software such as Maya and Blender, and often stop-motion. Storytelling courses cover storyboarding, character design, and visual development, and students work in teams to produce short films. Many programs include visual effects and motion graphics. A demo reel and portfolio are the key outcomes. Graduates work in film and television studios, video game companies, advertising, and visual effects houses.",
+  "jobs": [
+    "2D or 3D animator",
+    "Character designer",
+    "Storyboard artist",
+    "3D modeler",
+    "Rigging artist",
+    "Visual effects artist",
+    "Motion graphics designer",
+    "Game animator"
+  ]
+}

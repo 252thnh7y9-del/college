@@ -1,0 +1,20 @@
+{
+  "id": 136,
+  "name": "Entomology",
+  "departmentIds": [
+    70,
+    28
+  ],
+  "summary": "Entomology is the study of insects, the most diverse group of animals on Earth. Students learn about insect biology and ecology and insects' effects on agriculture, health, and ecosystems.",
+  "description": "Entomology majors study insect anatomy, physiology, behavior, classification, and ecology. Coursework covers insect identification, pollination biology, integrated pest management in agriculture, medical and veterinary entomology (insects that spread diseases such as malaria and Lyme disease), forensic entomology, and insect conservation. Students take biology and chemistry as foundations and gain field and lab experience collecting and studying insects. Graduates work in agriculture and pest management, public health mosquito control programs, government agencies, research, and museums.",
+  "jobs": [
+    "Entomologist",
+    "Pest management specialist",
+    "Agricultural extension agent",
+    "Vector control specialist",
+    "Plant protection inspector",
+    "Beekeeper or apiarist",
+    "Research technician",
+    "Forensic entomologist"
+  ]
+}

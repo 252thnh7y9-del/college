@@ -1,0 +1,19 @@
+{
+  "id": 77,
+  "name": "Acting",
+  "departmentIds": [
+    15
+  ],
+  "summary": "Acting is an intensive program, often a BFA, that trains students to perform on stage and screen. Students develop voice, movement, and character work through classes and productions.",
+  "description": "Acting majors take a sequence of acting technique classes drawing on methods such as Stanislavski, Meisner, and Viewpoints, along with voice and speech, dialects, stage movement, stage combat, and scene study across periods from Shakespeare to contemporary work. Many programs include acting for the camera and audition technique. Students perform frequently in departmental productions and showcases, and senior showcases often introduce graduates to agents and casting directors. Admission usually requires an audition. Graduates pursue careers in theatre, film, television, commercials, and voice-over, and many also teach or work in related fields.",
+  "jobs": [
+    "Stage actor",
+    "Film and television actor",
+    "Voice-over artist",
+    "Commercial actor",
+    "Acting coach",
+    "Standardized patient actor",
+    "Teaching artist",
+    "Theme park performer"
+  ]
+}

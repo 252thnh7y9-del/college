@@ -1,0 +1,20 @@
+{
+  "id": 287,
+  "name": "Viticulture & Enology",
+  "departmentIds": [
+    70,
+    72
+  ],
+  "summary": "Viticulture and Enology studies how to grow grapes and make wine. The major combines plant science, chemistry, and microbiology with winery operations.",
+  "description": "Viticulture and Enology majors study grapevine biology, vineyard management, irrigation, pest and disease control, and grape varieties, as well as the science of winemaking, including fermentation microbiology, wine chemistry, sensory evaluation, and winery operations and sanitation. Many programs include courses in wine business, marketing, and regulations. Students gain hands-on experience in teaching vineyards and campus wineries. Graduates work as vineyard managers, winemakers, cellar masters, and lab technicians at wineries and in grape growing, wine distribution, and wine tourism.",
+  "jobs": [
+    "Winemaker",
+    "Vineyard manager",
+    "Enologist",
+    "Cellar master",
+    "Wine laboratory technician",
+    "Viticulturist",
+    "Wine sales representative",
+    "Tasting room manager"
+  ]
+}

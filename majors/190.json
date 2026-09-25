@@ -1,0 +1,19 @@
+{
+  "id": 190,
+  "name": "Agricultural Engineering",
+  "departmentIds": [
+    47
+  ],
+  "summary": "Agricultural Engineering applies engineering to agriculture, including farm machinery, irrigation, food processing, and agricultural structures. It helps farms produce food more efficiently and sustainably.",
+  "description": "Agricultural Engineering majors take engineering fundamentals and apply them to agricultural systems. Coursework covers power and machinery design, soil and water engineering, irrigation and drainage, agricultural structures, food and bioprocess engineering, precision agriculture using GPS and sensors, and environmental protection. Students learn how to design equipment and systems that increase productivity while conserving natural resources. Graduates work for farm equipment manufacturers, food processing companies, government agencies such as the USDA and NRCS, and irrigation and environmental firms.",
+  "jobs": [
+    "Agricultural engineer",
+    "Machinery design engineer",
+    "Irrigation engineer",
+    "Precision agriculture specialist",
+    "Food process engineer",
+    "Conservation engineer",
+    "Soil and water engineer",
+    "Equipment test engineer"
+  ]
+}

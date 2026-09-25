@@ -1,0 +1,20 @@
+{
+  "id": 240,
+  "name": "Educational Technology",
+  "departmentIds": [
+    59,
+    50
+  ],
+  "summary": "Educational Technology focuses on using technology to improve teaching and learning. Students learn to design digital learning experiences, online courses, and training programs.",
+  "description": "Educational Technology majors study learning theory, instructional design, multimedia development, online course design, learning management systems, e-learning authoring tools, and the evaluation of learning programs. They learn to create videos, interactive modules, and courses for schools, universities, and corporate training. Accessibility and universal design for learning are key topics. Students build a portfolio of digital learning projects. Graduates work as instructional designers, e-learning developers, and technology integration specialists in education, business, healthcare, and government.",
+  "jobs": [
+    "Instructional designer",
+    "E-learning developer",
+    "Learning technology specialist",
+    "Technology integration coach",
+    "Corporate trainer",
+    "Learning management system administrator",
+    "Educational content developer",
+    "Curriculum designer"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 66,
+  "name": "Music",
+  "departmentIds": [
+    14
+  ],
+  "summary": "Music majors study music theory, history, and performance within a liberal arts education. Students develop musicianship while exploring how music works and what it means across cultures.",
+  "description": "A Bachelor of Arts in Music combines core musical training with broad study outside music. Students take several semesters of music theory and aural skills, music history from the medieval era to the present, and courses in world music, and they participate in ensembles and private lessons on their instrument or voice. Electives may include composition, conducting, music technology, jazz, or popular music studies. Compared with a performance degree, the BA offers more flexibility for double majors and interdisciplinary interests. Graduates work in performance, teaching, arts administration, and the music industry, or pursue graduate study.",
+  "jobs": [
+    "Private music teacher",
+    "Performer",
+    "Arts administrator",
+    "Music publisher assistant",
+    "Church music director",
+    "Music librarian (with MLS)",
+    "Audio producer",
+    "Music journalist"
+  ]
+}

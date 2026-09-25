@@ -1,0 +1,19 @@
+{
+  "id": 187,
+  "name": "Petroleum Engineering",
+  "departmentIds": [
+    46
+  ],
+  "summary": "Petroleum Engineering designs methods to locate, extract, and produce oil and natural gas from underground reservoirs. It combines geology, physics, and engineering.",
+  "description": "Petroleum Engineering majors study reservoir engineering, drilling engineering, production engineering, well completion, formation evaluation, petrophysics, and reservoir simulation, along with geology and fluid mechanics. They learn how fluids flow through rock and how to maximize production economically and safely. Many programs now include carbon capture and storage, geothermal energy, and energy transition topics. Summer internships in the oil and gas industry are common. Petroleum engineers are among the highest-paid engineers, though employment tracks energy prices. Graduates work for energy companies, service firms, and consultancies.",
+  "jobs": [
+    "Petroleum engineer",
+    "Reservoir engineer",
+    "Drilling engineer",
+    "Production engineer",
+    "Completions engineer",
+    "Field engineer",
+    "Carbon storage engineer",
+    "Geothermal engineer"
+  ]
+}

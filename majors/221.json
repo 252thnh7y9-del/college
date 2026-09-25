@@ -1,0 +1,20 @@
+{
+  "id": 221,
+  "name": "Culinary Management",
+  "departmentIds": [
+    82,
+    64
+  ],
+  "summary": "Culinary Management combines culinary arts training with the business skills needed to run food service operations. Students learn cooking techniques as well as management, cost control, and food safety.",
+  "description": "Culinary Management majors take hands-on kitchen courses in culinary fundamentals, baking and pastry, international cuisines, and menu development, along with food safety and sanitation, nutrition, purchasing, cost control, restaurant management, and hospitality business courses. Students often run a campus restaurant or catering operation and complete industry internships. The major prepares graduates to move beyond cooking into leadership roles in restaurants, hotels, catering companies, institutional food service, and food product development.",
+  "jobs": [
+    "Executive chef",
+    "Restaurant manager",
+    "Kitchen manager",
+    "Catering manager",
+    "Food service director",
+    "Menu developer",
+    "Food and beverage director",
+    "Restaurant owner"
+  ]
+}

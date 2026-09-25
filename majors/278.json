@@ -1,0 +1,19 @@
+{
+  "id": 278,
+  "name": "Equine Science",
+  "departmentIds": [
+    69
+  ],
+  "summary": "Equine Science focuses on the biology, care, training, and management of horses. Students learn horse nutrition, health, reproduction, and the business of the horse industry.",
+  "description": "Equine Science majors study equine anatomy and physiology, nutrition, reproduction and breeding, health and disease, behavior and training, farrier science, and facility management. Many programs also offer riding and training courses and business courses in equine enterprise management. Students gain hands-on experience with university horse herds, breeding programs, and horse shows. Graduates work at breeding farms, training and boarding facilities, equine pharmaceutical and feed companies, racing and show organizations, and in equine therapy and veterinary support.",
+  "jobs": [
+    "Barn or stable manager",
+    "Horse trainer",
+    "Breeding farm manager",
+    "Equine nutrition specialist",
+    "Equine veterinary technician",
+    "Riding instructor",
+    "Equine therapy coordinator",
+    "Veterinarian (with DVM)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 231,
+  "name": "Physical Education",
+  "departmentIds": [
+    60,
+    57
+  ],
+  "summary": "Physical Education prepares students to teach physical activity, sports, and health in K-12 schools. The major combines exercise science with teaching methods.",
+  "description": "Physical Education majors study anatomy, exercise physiology, biomechanics, motor learning and development, and methods for teaching games, sports, fitness, and movement to children and adolescents. They also learn adapted physical education for students with disabilities, health education, first aid and CPR, and classroom management. Field experiences in schools lead to student teaching and licensure. Many graduates also coach school sports. Graduates work as physical education teachers, coaches, and in recreation and fitness programs.",
+  "jobs": [
+    "Physical education teacher",
+    "Athletic coach",
+    "Athletic director",
+    "Adapted physical education specialist",
+    "Recreation coordinator",
+    "Fitness instructor",
+    "Youth sports director"
+  ]
+}

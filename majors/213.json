@@ -1,0 +1,20 @@
+{
+  "id": 213,
+  "name": "Business Analytics",
+  "departmentIds": [
+    55,
+    34
+  ],
+  "summary": "Business Analytics teaches students to use data, statistics, and modeling to inform business decisions. The major combines analytics tools with business knowledge.",
+  "description": "Business Analytics majors study statistics, data management, SQL, data visualization, predictive modeling, machine learning, and optimization, and they learn tools such as Python, R, Tableau, and Excel. Courses apply these skills to marketing, finance, operations, and human resources problems. Students learn to clean and analyze data and to communicate findings clearly to decision-makers. Projects often use real company data. Graduates are in high demand as analysts in consulting, finance, retail, technology, healthcare, and nearly every industry.",
+  "jobs": [
+    "Business analyst",
+    "Data analyst",
+    "Business intelligence analyst",
+    "Marketing analyst",
+    "Operations analyst",
+    "Analytics consultant",
+    "Financial analyst",
+    "Data scientist"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 144,
+  "name": "Geophysics",
+  "departmentIds": [
+    31,
+    30
+  ],
+  "summary": "Geophysics uses physics to study the Earth's interior, structure, and processes, such as earthquakes, magnetism, and gravity. It combines geology with physics and mathematics.",
+  "description": "Geophysics majors apply physics and math to investigate what lies beneath the surface. Coursework includes seismology, gravity and magnetic methods, electrical and electromagnetic methods, geodynamics, and signal processing, along with core geology, physics, and computational courses. Students collect and analyze geophysical data in the field, often using seismic surveys and ground-penetrating radar. Applications include earthquake and volcano monitoring, oil, gas, and mineral exploration, groundwater studies, geothermal energy, and environmental and engineering site investigation. Graduates work in energy, mining, environmental firms, and government agencies such as the USGS.",
+  "jobs": [
+    "Geophysicist",
+    "Seismologist",
+    "Exploration geophysicist",
+    "Data processing geophysicist",
+    "Environmental geophysicist",
+    "Geothermal specialist",
+    "Research scientist",
+    "Geospatial analyst"
+  ]
+}

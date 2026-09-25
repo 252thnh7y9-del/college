@@ -1,0 +1,19 @@
+{
+  "id": 62,
+  "name": "Apparel & Textiles",
+  "departmentIds": [
+    13
+  ],
+  "summary": "Apparel and Textiles studies the design, science, and production of clothing and fabrics. The major covers textile materials, apparel product development, and the global apparel industry.",
+  "description": "This major, often housed in family and consumer sciences or design departments, combines design, science, and business. Students learn textile science, including fibers, yarns, fabric structures, dyeing, and testing for quality and performance, along with apparel design, patternmaking, and production. They study the global supply chain, sourcing and manufacturing, quality assurance, and sustainable and ethical production. Some programs offer concentrations in design, product development, or merchandising. Graduates work in product development, textile testing, sourcing, and production management for apparel brands, retailers, and textile manufacturers.",
+  "jobs": [
+    "Product developer",
+    "Textile technologist",
+    "Quality assurance specialist",
+    "Sourcing manager",
+    "Technical designer",
+    "Production manager",
+    "Apparel designer",
+    "Textile testing lab technician"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 262,
+  "name": "Athletic Training",
+  "departmentIds": [
+    60,
+    63
+  ],
+  "summary": "Athletic Training prepares students to prevent, diagnose, and treat injuries and illnesses in athletes and physically active people. Athletic trainers are licensed healthcare professionals.",
+  "description": "Athletic Training education in the U.S. has moved to the master's level, so undergraduate students typically complete a pre-athletic training track or a combined bachelor's and master's program. Coursework covers anatomy, physiology, kinesiology, injury prevention, evaluation of injuries, emergency care, therapeutic interventions, rehabilitation, and general medical conditions. Students complete clinical rotations with sports teams and clinics. After completing an accredited program, graduates take the Board of Certification exam. Athletic trainers work with high school, college, and professional teams, clinics, and in industry and the military.",
+  "jobs": [
+    "Athletic trainer (with master's degree)",
+    "Sports medicine aide",
+    "Rehabilitation technician",
+    "Strength and conditioning coach",
+    "Physical therapy aide",
+    "Orthopedic technician",
+    "Physical therapist (with DPT)"
+  ]
+}

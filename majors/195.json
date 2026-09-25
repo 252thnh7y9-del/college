@@ -1,0 +1,19 @@
+{
+  "id": 195,
+  "name": "Electrical Engineering Technology",
+  "departmentIds": [
+    49
+  ],
+  "summary": "Electrical Engineering Technology focuses on applying electrical and electronic engineering principles to install, test, and maintain systems. It is more hands-on and applied than electrical engineering.",
+  "description": "Electrical Engineering Technology majors study circuits, electronics, digital systems, microcontrollers, programmable logic controllers (PLCs), electrical power and machines, instrumentation, and communications, with less emphasis on advanced mathematics and theory than in electrical engineering. Laboratory work is extensive, and students learn to troubleshoot, test, and implement real systems. Graduates work as engineering technologists, field engineers, and technical specialists in manufacturing, utilities, telecommunications, and automation.",
+  "jobs": [
+    "Electrical engineering technologist",
+    "Controls technician",
+    "Field service engineer",
+    "Test technician",
+    "Automation specialist",
+    "Power systems technologist",
+    "Electronics technician",
+    "Technical sales engineer"
+  ]
+}

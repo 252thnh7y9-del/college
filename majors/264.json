@@ -1,0 +1,20 @@
+{
+  "id": 264,
+  "name": "Food Science",
+  "departmentIds": [
+    72,
+    64
+  ],
+  "summary": "Food Science applies chemistry, biology, microbiology, and engineering to develop, process, preserve, and ensure the safety of food. Food scientists create the products people find in grocery stores.",
+  "description": "Food Science majors study food chemistry, food microbiology, food processing and engineering, food analysis, sensory evaluation, nutrition, and food safety and quality assurance, along with chemistry and biology foundations. They learn how ingredients interact, how to extend shelf life, and how to develop new products that meet consumer, nutritional, and regulatory requirements. Lab and pilot plant courses provide hands-on product development experience. Graduates work for food and beverage companies, ingredient suppliers, government agencies such as the FDA and USDA, and testing laboratories.",
+  "jobs": [
+    "Food scientist",
+    "Product developer",
+    "Quality assurance manager",
+    "Food safety specialist",
+    "Sensory scientist",
+    "Flavor chemist",
+    "Regulatory affairs specialist",
+    "Food technologist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 215,
+  "name": "Operations Management",
+  "departmentIds": [
+    56
+  ],
+  "summary": "Operations Management focuses on designing and improving the processes that produce goods and services. Students learn to make organizations more efficient, higher quality, and more productive.",
+  "description": "Operations Management majors study process analysis, quality management, Lean and Six Sigma, capacity and production planning, inventory control, project management, supply chain management, and operations analytics, along with the business core. They learn quantitative tools for forecasting, scheduling, and optimization. The skills apply to manufacturing plants as well as hospitals, banks, restaurants, and technology companies. Graduates work as operations analysts, production and process managers, consultants, and project managers.",
+  "jobs": [
+    "Operations analyst",
+    "Operations manager",
+    "Production planner",
+    "Process improvement specialist",
+    "Quality manager",
+    "Project manager",
+    "Plant manager",
+    "Management consultant"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 97,
+  "name": "Peace & Conflict Studies",
+  "departmentIds": [
+    21,
+    20,
+    84
+  ],
+  "summary": "Peace and Conflict Studies examines the causes of violence and conflict and the ways people and societies build peace. Students study conflict resolution, human rights, and social justice.",
+  "description": "This interdisciplinary major draws on political science, sociology, psychology, history, and religious studies to understand conflict at every level, from interpersonal disputes to civil war and genocide. Students study theories of violence and peace, nonviolent movements, conflict resolution and mediation, human rights, transitional justice, and peacebuilding after war. Many programs include training in negotiation and mediation and require internships or fieldwork with community, humanitarian, or international organizations. Graduates work in mediation, human rights advocacy, humanitarian aid, community organizing, and international development, and many pursue law or graduate study.",
+  "jobs": [
+    "Mediator",
+    "Human rights advocate",
+    "Humanitarian aid worker",
+    "Community organizer",
+    "Conflict resolution specialist",
+    "Refugee services coordinator",
+    "Nonprofit program manager",
+    "Policy analyst"
+  ]
+}

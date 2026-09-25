@@ -1,0 +1,19 @@
+{
+  "id": 21,
+  "name": "Spanish",
+  "departmentIds": [
+    7
+  ],
+  "summary": "Spanish majors build fluency in Spanish and study the literature, history, and cultures of Spain and Latin America. The major prepares students to communicate and work across the Spanish-speaking world.",
+  "description": "Spanish is the second most spoken language in the United States and an official language in more than twenty countries, which makes this one of the most practical language majors. Students advance through grammar, conversation, and composition to upper-level courses in Spanish and Latin American literature, film, linguistics, and cultural studies, all taught in Spanish. Many programs offer courses in Spanish for health professions, business, or translation, and nearly all strongly encourage study abroad. Graduates reach professional proficiency and a nuanced understanding of Hispanic cultures, which is valuable in education, healthcare, law, social services, business, and government. Spanish is also a popular double major with nursing, business, and pre-med.",
+  "jobs": [
+    "Spanish teacher",
+    "Translator or interpreter",
+    "Bilingual social worker",
+    "Healthcare interpreter",
+    "International business specialist",
+    "Foreign service officer",
+    "Immigration paralegal",
+    "Customer relations specialist"
+  ]
+}

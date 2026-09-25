@@ -1,0 +1,20 @@
+{
+  "id": 56,
+  "name": "Illustration",
+  "departmentIds": [
+    13,
+    12
+  ],
+  "summary": "Illustration majors create images that tell stories, explain ideas, and accompany text in books, magazines, games, and products. The major builds strong drawing skills and a distinctive visual style.",
+  "description": "Illustration students develop drawing, painting, and digital illustration skills, with courses in figure drawing, color, composition, and perspective. They apply these to editorial illustration, children's books, comics and graphic novels, concept art for games and film, surface design, and scientific or technical illustration. Students learn industry software such as Procreate and Photoshop and how to work to a brief and a deadline. Business courses cover self-promotion, contracts, licensing, and freelance practice. A professional portfolio is the program's main product. Graduates work as freelance illustrators and on staff in publishing, entertainment, games, and advertising.",
+  "jobs": [
+    "Freelance illustrator",
+    "Children's book illustrator",
+    "Concept artist",
+    "Comic artist",
+    "Storyboard artist",
+    "Editorial illustrator",
+    "Surface pattern designer",
+    "Game artist"
+  ]
+}

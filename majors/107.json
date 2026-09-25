@@ -1,0 +1,19 @@
+{
+  "id": 107,
+  "name": "Criminal Justice",
+  "departmentIds": [
+    25
+  ],
+  "summary": "Criminal Justice studies the systems that respond to crime: police, courts, and corrections. The major prepares students for careers in law enforcement, the legal system, and corrections.",
+  "description": "Criminal Justice majors learn how the justice system operates from arrest through prosecution, sentencing, and incarceration or community supervision. Coursework covers policing, criminal law and procedure, the courts, corrections, juvenile justice, criminal investigation, ethics, and criminological theory. Many programs offer concentrations in law enforcement, homeland security, forensic investigation, or corrections, and internships with police departments, courts, and correctional agencies are common. Graduates work as police officers, detectives, probation and parole officers, correctional officers, and federal agents, and some go on to law school.",
+  "jobs": [
+    "Police officer",
+    "Detective",
+    "Probation or parole officer",
+    "Correctional officer",
+    "Federal agent",
+    "Court administrator",
+    "Loss prevention manager",
+    "Paralegal"
+  ]
+}

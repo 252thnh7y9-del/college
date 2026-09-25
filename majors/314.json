@@ -1,0 +1,19 @@
+{
+  "id": 314,
+  "name": "Humanities",
+  "departmentIds": [
+    84
+  ],
+  "summary": "Humanities is an interdisciplinary major that studies human culture through literature, history, philosophy, religion, and the arts. Students explore big questions about meaning, values, and the human experience.",
+  "description": "Humanities majors take courses across the humanistic disciplines and study how people have expressed and understood their experience through texts, art, music, ideas, and beliefs. Programs often combine survey courses on major periods and civilizations with seminars on themes such as justice, identity, or beauty, and some emphasize great works or cultural history. Students develop strong reading, writing, and interpretive skills and cultural literacy. Graduates work in education, publishing, communications, cultural institutions, and public service, and many pursue graduate or law school.",
+  "jobs": [
+    "Teacher",
+    "Writer or editor",
+    "Museum educator",
+    "Communications specialist",
+    "Librarian (with MLS)",
+    "Nonprofit program coordinator",
+    "Paralegal",
+    "Attorney (with law degree)"
+  ]
+}

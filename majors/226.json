@@ -1,0 +1,20 @@
+{
+  "id": 226,
+  "name": "Aviation Maintenance Technology",
+  "departmentIds": [
+    83,
+    49
+  ],
+  "summary": "Aviation Maintenance Technology trains students to inspect, repair, and maintain aircraft. Graduates are prepared for FAA Airframe and Powerplant (A&P) certification.",
+  "description": "Aviation Maintenance Technology majors learn aircraft structures, powerplants (engines), electrical and avionics systems, hydraulics, fuel systems, inspection, and maintenance regulations and documentation. Most of the program takes place in hands-on labs and hangars working on real aircraft and engines. The curriculum meets FAA requirements so students can earn the Airframe and Powerplant mechanic certificate, and bachelor's programs add management courses. There is a significant shortage of aviation maintenance technicians, and graduates work for airlines, repair stations, manufacturers, and the military.",
+  "jobs": [
+    "Aircraft maintenance technician (A&P mechanic)",
+    "Avionics technician",
+    "Maintenance inspector",
+    "Maintenance supervisor",
+    "Maintenance planner",
+    "Quality assurance inspector",
+    "Engine technician",
+    "Aviation maintenance manager"
+  ]
+}

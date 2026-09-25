@@ -1,0 +1,20 @@
+{
+  "id": 282,
+  "name": "Veterinary Technology",
+  "departmentIds": [
+    69,
+    63
+  ],
+  "summary": "Veterinary Technology trains students to work as veterinary technicians, the animal healthcare equivalent of nurses. Technicians assist veterinarians with exams, surgery, anesthesia, and lab work.",
+  "description": "Veterinary Technology majors study animal anatomy and physiology, pharmacology, anesthesia, surgical nursing, radiography, clinical laboratory procedures, dentistry, and the care of companion animals, livestock, and exotic and laboratory animals. They practice skills in campus clinics and complete clinical externships at veterinary practices. Graduates of accredited programs take the Veterinary Technician National Exam (VTNE) to become credentialed technicians. Bachelor's programs add advanced coursework and management. Graduates work in veterinary clinics, animal hospitals, research facilities, zoos, and shelters.",
+  "jobs": [
+    "Veterinary technician",
+    "Veterinary technologist",
+    "Surgical veterinary technician",
+    "Laboratory animal technician",
+    "Zoo veterinary technician",
+    "Veterinary practice manager",
+    "Shelter medicine technician",
+    "Animal health sales representative"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 220,
+  "name": "Event Management",
+  "departmentIds": [
+    82
+  ],
+  "summary": "Event Management prepares students to plan and run events such as conferences, festivals, weddings, concerts, and trade shows. Students learn logistics, budgeting, marketing, and risk management.",
+  "description": "Event Management majors study event planning and design, meeting and convention management, festival and special event management, budgeting, sponsorship, marketing, venue management, catering, risk management, and contracts. Students gain hands-on experience planning and running real events on and off campus and through internships. Many prepare for professional certifications such as the Certified Meeting Professional. Graduates work for event planning companies, hotels and convention centers, corporations, nonprofits, sports organizations, and as independent planners.",
+  "jobs": [
+    "Event planner",
+    "Meeting and convention planner",
+    "Wedding planner",
+    "Festival coordinator",
+    "Conference manager",
+    "Venue sales manager",
+    "Corporate events manager",
+    "Trade show coordinator"
+  ]
+}

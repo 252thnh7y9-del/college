@@ -1,0 +1,20 @@
+{
+  "id": 11,
+  "name": "Religious Studies",
+  "departmentIds": [
+    5
+  ],
+  "summary": "Religious Studies examines the world's religions from an academic, non-devotional perspective. Students study sacred texts, beliefs, practices, and the role of religion in history, politics, and culture.",
+  "description": "Religious Studies majors learn about traditions such as Christianity, Judaism, Islam, Hinduism, Buddhism, and indigenous and new religious movements. The approach is comparative and scholarly: students ask how religions shape identity, ethics, art, law, and conflict, and they draw on history, anthropology, sociology, philosophy, and textual analysis. Coursework may include sacred texts, religion and politics, religion in America, myth and ritual, religion and gender, and theory of religion. Many programs encourage study of a relevant language such as Hebrew, Arabic, Sanskrit, or Greek. The major builds cultural literacy and analytical skills valuable in education, journalism, international affairs, social services, and ministry.",
+  "jobs": [
+    "Chaplain",
+    "Nonprofit program coordinator",
+    "Teacher",
+    "Journalist",
+    "Interfaith organization staff",
+    "Foreign service officer",
+    "Social worker",
+    "Minister or clergy (with seminary)",
+    "Professor (with graduate degree)"
+  ]
+}

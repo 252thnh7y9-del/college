@@ -1,0 +1,19 @@
+{
+  "id": 210,
+  "name": "Digital Marketing",
+  "departmentIds": [
+    54
+  ],
+  "summary": "Digital Marketing focuses on promoting products and services through online channels such as search, social media, email, and websites. The major combines marketing strategy with analytics and technology.",
+  "description": "Digital Marketing majors study search engine optimization (SEO), search and social advertising, content marketing, email marketing, social media strategy, web analytics, e-commerce, and marketing automation. They learn to use platforms such as Google Analytics, Google Ads, and social media advertising tools, and to measure campaign performance with data. Courses also cover consumer behavior, branding, and privacy regulations. Students build real campaigns and often earn industry certifications. Graduates work at agencies, e-commerce companies, and in-house marketing teams.",
+  "jobs": [
+    "Digital marketing specialist",
+    "SEO specialist",
+    "Social media manager",
+    "Content marketing manager",
+    "PPC specialist",
+    "Email marketing manager",
+    "Marketing analyst",
+    "E-commerce manager"
+  ]
+}

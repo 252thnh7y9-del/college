@@ -1,0 +1,19 @@
+{
+  "id": 20,
+  "name": "Ancient Greek",
+  "departmentIds": [
+    6
+  ],
+  "summary": "Ancient Greek majors learn to read the Greek of Homer, Plato, the tragedians, and the New Testament. The major combines intensive language training with the study of Greek literature and culture.",
+  "description": "Students of Ancient Greek begin with Attic grammar and vocabulary and move quickly to reading original texts, including Homer's epics, Herodotus and Thucydides, Plato's dialogues, the tragedies of Aeschylus, Sophocles, and Euripides, and often Koine Greek texts such as the New Testament. Advanced courses cover dialects, meter, prose composition, and specific authors or genres. Supporting courses in Greek history, philosophy, and art place the texts in context. The major develops rigorous analytical and interpretive skills and deep familiarity with the foundations of Western thought. Graduates often pursue graduate study in classics, philosophy, or theology, or careers in teaching, law, and publishing.",
+  "jobs": [
+    "Classics teacher",
+    "Translator",
+    "Editor",
+    "Biblical scholar",
+    "Attorney (with law degree)",
+    "Seminary student",
+    "Archivist",
+    "Professor (with graduate degree)"
+  ]
+}

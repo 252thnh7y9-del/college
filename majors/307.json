@@ -1,0 +1,20 @@
+{
+  "id": 307,
+  "name": "Human Development & Family Studies",
+  "departmentIds": [
+    81,
+    22
+  ],
+  "summary": "Human Development and Family Studies examines how people grow and change across the lifespan and how families function. Students study development from infancy through old age.",
+  "description": "Human Development and Family Studies majors study child, adolescent, and adult development, family relationships, parenting, family diversity, family policy, aging, and family resource management. They learn how biological, psychological, and social factors shape development and how programs and policies support families. Coursework often includes research methods and field placements in childcare centers, family service agencies, schools, or senior programs. Graduates work in family services, child and youth programs, early education, aging services, and many continue to graduate study in counseling, social work, or marriage and family therapy.",
+  "jobs": [
+    "Family support specialist",
+    "Child life specialist",
+    "Youth program coordinator",
+    "Family services caseworker",
+    "Parent educator",
+    "Early childhood program director",
+    "Marriage and family therapist (with master's degree)",
+    "Extension family educator"
+  ]
+}

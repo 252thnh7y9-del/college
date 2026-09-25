@@ -1,0 +1,19 @@
+{
+  "id": 54,
+  "name": "Art Therapy",
+  "departmentIds": [
+    12,
+    22
+  ],
+  "summary": "Art Therapy combines studio art with psychology to prepare students to use art-making as a way to support mental health. Undergraduate programs lay the groundwork for the master's degree required to become a credentialed art therapist.",
+  "description": "Undergraduate art therapy majors take studio courses in several media alongside psychology courses such as developmental psychology, abnormal psychology, counseling theories, and research methods. Introductory art therapy courses explain how creative expression can help people process trauma, manage stress, and communicate feelings, and they cover the history, ethics, and populations served by the profession. Students often complete supervised fieldwork in hospitals, schools, or community agencies. To become a registered art therapist, graduates must complete a master's program and supervised clinical hours. With a bachelor's degree, they can work in supportive roles in mental health, social services, and community arts.",
+  "jobs": [
+    "Art therapist (with master's degree)",
+    "Mental health technician",
+    "Case manager",
+    "Activities coordinator",
+    "Community arts facilitator",
+    "Residential counselor",
+    "Child life assistant"
+  ]
+}

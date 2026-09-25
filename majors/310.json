@@ -1,0 +1,18 @@
+{
+  "id": 310,
+  "name": "Family & Consumer Sciences",
+  "departmentIds": [
+    81
+  ],
+  "summary": "Family and Consumer Sciences studies how individuals and families make decisions about food, housing, clothing, finances, and relationships. The major prepares students for teaching and community education careers.",
+  "description": "Family and Consumer Sciences, historically known as home economics, is an interdisciplinary field covering nutrition and food, human development, family relationships, personal and family finance, housing and interior environments, apparel and textiles, and consumer economics. Many students pursue teacher licensure to teach FCS courses in middle and high schools, which is a high-need teaching area. Others work in cooperative extension, community education, and consumer services. Graduates help families and communities improve everyday well-being.",
+  "jobs": [
+    "Family and consumer sciences teacher",
+    "Extension educator",
+    "Consumer affairs specialist",
+    "Community nutrition educator",
+    "Financial counselor",
+    "Family life educator",
+    "Product development specialist"
+  ]
+}

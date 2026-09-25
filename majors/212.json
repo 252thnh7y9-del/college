@@ -1,0 +1,19 @@
+{
+  "id": 212,
+  "name": "Management Information Systems",
+  "departmentIds": [
+    55
+  ],
+  "summary": "Management Information Systems connects business and technology, teaching students to use information systems to solve business problems. MIS professionals bridge the gap between technical teams and business needs.",
+  "description": "MIS majors study database design, systems analysis and design, business process management, programming, networking, cybersecurity, enterprise systems such as ERP, data analytics, and IT project management, along with the core business curriculum. They learn to gather business requirements and translate them into technology solutions. Hands-on projects often use tools such as SQL, Python, and enterprise software. Graduates are in strong demand and work as business analysts, IT consultants, systems analysts, and project managers in consulting firms and corporations.",
+  "jobs": [
+    "Business systems analyst",
+    "IT consultant",
+    "Systems analyst",
+    "Data analyst",
+    "IT project manager",
+    "ERP analyst",
+    "Database administrator",
+    "Technology risk consultant"
+  ]
+}

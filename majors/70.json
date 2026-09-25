@@ -1,0 +1,19 @@
+{
+  "id": 70,
+  "name": "Music Education",
+  "departmentIds": [
+    14,
+    57
+  ],
+  "summary": "Music Education prepares students to teach band, orchestra, choir, and general music in K-12 schools. The major combines musicianship with teaching methods and student teaching.",
+  "description": "Music Education majors build strong musicianship through theory, aural skills, music history, and private lessons on a primary instrument or voice, and they learn to play secondary instruments across strings, woodwinds, brass, and percussion. They study conducting, rehearsal techniques, and methods for teaching instrumental, choral, and general music to different age groups, along with child development, classroom management, and special education. Students complete field observations and a semester of student teaching, leading to state teaching licensure. Graduates are in steady demand as school music teachers and band, orchestra, and choir directors.",
+  "jobs": [
+    "Band director",
+    "Choir director",
+    "Orchestra director",
+    "Elementary general music teacher",
+    "Private music instructor",
+    "Community music program director",
+    "Church music director"
+  ]
+}

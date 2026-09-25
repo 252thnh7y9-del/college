@@ -1,0 +1,19 @@
+{
+  "id": 256,
+  "name": "Emergency Medical Services / Paramedicine",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Emergency Medical Services and Paramedicine prepares students to provide emergency medical care before patients reach the hospital. Paramedics respond to accidents, medical emergencies, and disasters.",
+  "description": "Paramedicine majors study anatomy and physiology, pharmacology, patient assessment, airway management, cardiology and ECG interpretation, trauma care, medical emergencies, obstetrics, pediatrics, and EMS operations. They practice skills in simulation labs and complete clinical rotations in hospitals and field internships on ambulances. Graduates take the National Registry of EMTs paramedic exam for certification. Bachelor's programs add coursework in EMS leadership, public health, and disaster management. Graduates work for ambulance services, fire departments, hospitals, and emergency management agencies.",
+  "jobs": [
+    "Paramedic",
+    "Flight paramedic",
+    "Firefighter-paramedic",
+    "Critical care paramedic",
+    "EMS supervisor",
+    "EMS educator",
+    "Emergency department technician",
+    "Emergency management coordinator"
+  ]
+}

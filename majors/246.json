@@ -1,0 +1,20 @@
+{
+  "id": 246,
+  "name": "Environmental Health",
+  "departmentIds": [
+    62,
+    32
+  ],
+  "summary": "Environmental Health studies how environmental factors such as air, water, food, and chemicals affect human health. Students learn to identify and control environmental hazards.",
+  "description": "Environmental Health majors take biology, chemistry, and microbiology along with courses in toxicology, epidemiology, air and water quality, food safety, occupational health and safety, industrial hygiene, waste management, and environmental regulations. They learn to inspect facilities, sample environments, and assess risks from hazards such as lead, pesticides, and contaminated water. Accredited programs prepare students to become Registered Environmental Health Specialists. Graduates work for health departments, environmental agencies, industry, and consulting firms.",
+  "jobs": [
+    "Environmental health specialist",
+    "Health inspector",
+    "Industrial hygienist",
+    "Occupational safety specialist",
+    "Food safety inspector",
+    "Environmental compliance officer",
+    "Toxicology technician",
+    "Water quality specialist"
+  ]
+}

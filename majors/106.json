@@ -1,0 +1,20 @@
+{
+  "id": 106,
+  "name": "Criminology",
+  "departmentIds": [
+    25,
+    23
+  ],
+  "summary": "Criminology is the scientific study of crime, criminal behavior, and society's response to crime. Students explore why crime happens and how it can be prevented.",
+  "description": "Criminology majors examine theories that explain criminal behavior from biological, psychological, and sociological perspectives. Coursework covers patterns and measurement of crime, juvenile delinquency, victimology, white-collar and organized crime, drugs and crime, and the social factors linked to crime such as poverty and inequality. Students also study the criminal justice system and crime policy and learn research methods and statistics to evaluate programs. Criminology is more research-focused than criminal justice. Graduates work in law enforcement, corrections, victim services, crime analysis, and policy research, and some go on to law school or graduate study.",
+  "jobs": [
+    "Crime analyst",
+    "Probation officer",
+    "Victim advocate",
+    "Police officer",
+    "Policy researcher",
+    "Juvenile justice specialist",
+    "Federal agent",
+    "Attorney (with law degree)"
+  ]
+}

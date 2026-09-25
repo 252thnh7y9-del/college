@@ -1,0 +1,21 @@
+{
+  "id": 140,
+  "name": "Engineering Physics",
+  "departmentIds": [
+    30,
+    42,
+    40
+  ],
+  "summary": "Engineering Physics combines a rigorous physics education with engineering design and problem-solving. It prepares students for work in advanced technology and research.",
+  "description": "Engineering Physics is one of the most mathematically demanding undergraduate programs. Students complete a substantial physics sequence, including quantum mechanics and electromagnetism, along with core engineering courses in circuits, mechanics, thermodynamics, and design. Many programs let students choose an engineering concentration such as electrical, mechanical, nuclear, or materials engineering. Students gain experience with advanced lab equipment and often complete a capstone design project or research thesis. Graduates work on emerging technologies such as quantum computing, lasers, renewable energy, and aerospace systems, or continue to graduate study in engineering or physics.",
+  "jobs": [
+    "Research engineer",
+    "Optical engineer",
+    "Nuclear engineer",
+    "Semiconductor engineer",
+    "Aerospace engineer",
+    "Systems engineer",
+    "R&D scientist",
+    "Quantum hardware engineer"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 178,
+  "name": "Naval Architecture & Marine Engineering",
+  "departmentIds": [
+    42
+  ],
+  "summary": "Naval Architecture and Marine Engineering designs ships, submarines, offshore platforms, and other marine vehicles and structures. Students learn how vessels float, move, and survive at sea.",
+  "description": "Naval Architecture and Marine Engineering majors study hydrostatics and stability, ship resistance and propulsion, seakeeping and maneuvering, marine structures, ship design, and marine power and propulsion systems. They also take fundamental engineering courses in fluid mechanics, thermodynamics, and structural mechanics, and they use design and simulation software. Many students test models in towing tanks and complete a full ship design project. Graduates work for shipyards, naval and coast guard organizations, offshore energy companies, ship classification societies, and marine engineering firms.",
+  "jobs": [
+    "Naval architect",
+    "Marine engineer",
+    "Ship designer",
+    "Offshore structural engineer",
+    "Marine surveyor",
+    "Shipyard production engineer",
+    "Navy civilian engineer",
+    "Classification society engineer"
+  ]
+}

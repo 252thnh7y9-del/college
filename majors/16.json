@@ -1,0 +1,19 @@
+{
+  "id": 16,
+  "name": "Classics",
+  "departmentIds": [
+    6
+  ],
+  "summary": "Classics is the study of ancient Greece and Rome, including their languages, literature, history, and philosophy. Students read ancient texts, often in the original Greek and Latin.",
+  "description": "Classics is one of the oldest academic disciplines and examines the civilizations that shaped Western literature, law, politics, and philosophy. Majors typically study Latin, ancient Greek, or both, reading authors such as Homer, Sophocles, Plato, Virgil, Cicero, and Ovid in the original. They also take courses on ancient history, mythology, philosophy, art, archaeology, and the ways later cultures have used and reinterpreted the classical past. The language work builds precision and a strong grasp of grammar, and the major as a whole trains careful reading, analysis, and argument. Classics majors do well in law school and medical school admissions and go into teaching, museums, publishing, and many other fields.",
+  "jobs": [
+    "Latin teacher",
+    "Attorney (with law degree)",
+    "Museum professional",
+    "Editor",
+    "Archivist",
+    "Librarian (with MLS)",
+    "Physician (with medical degree)",
+    "Professor (with graduate degree)"
+  ]
+}

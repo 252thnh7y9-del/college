@@ -1,0 +1,19 @@
+{
+  "id": 199,
+  "name": "Finance",
+  "departmentIds": [
+    52
+  ],
+  "summary": "Finance studies how individuals, companies, and governments raise, invest, and manage money. Students learn to analyze investments, value companies, and manage financial risk.",
+  "description": "Finance majors study corporate finance, investments, financial markets and institutions, financial statement analysis, portfolio management, derivatives, and international finance, along with accounting, economics, and statistics. They learn to value stocks, bonds, and companies, build financial models in Excel, and evaluate risk and return. Electives may cover banking, real estate, personal finance, or financial technology. Many students join investment clubs or manage student portfolios. Graduates work in corporate finance, investment banking, commercial banking, asset management, financial planning, and insurance.",
+  "jobs": [
+    "Financial analyst",
+    "Investment banking analyst",
+    "Commercial banker",
+    "Portfolio manager",
+    "Financial planner",
+    "Credit analyst",
+    "Corporate treasurer",
+    "Equity research analyst"
+  ]
+}

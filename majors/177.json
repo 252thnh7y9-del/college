@@ -1,0 +1,20 @@
+{
+  "id": 177,
+  "name": "Mechatronics & Robotics Engineering",
+  "departmentIds": [
+    42,
+    40
+  ],
+  "summary": "Mechatronics and Robotics Engineering combines mechanical, electrical, and computer engineering to design intelligent machines and automated systems. Students build robots and smart devices.",
+  "description": "Mechatronics majors learn to integrate mechanical design, electronics, sensors, actuators, and software into working systems. Coursework covers mechanics, circuits and electronics, microcontrollers and embedded programming, control systems, sensors and signal processing, kinematics and dynamics of robots, computer vision, and automation. Students build robotic systems in hands-on labs and team projects, and many participate in robotics competitions. Graduates work in industrial automation and manufacturing, autonomous vehicles and drones, medical robotics, consumer electronics, and aerospace and defense.",
+  "jobs": [
+    "Robotics engineer",
+    "Mechatronics engineer",
+    "Automation engineer",
+    "Controls engineer",
+    "Embedded systems engineer",
+    "Autonomous systems engineer",
+    "Manufacturing engineer",
+    "Field applications engineer"
+  ]
+}

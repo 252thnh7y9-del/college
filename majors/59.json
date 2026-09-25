@@ -1,0 +1,20 @@
+{
+  "id": 59,
+  "name": "Interior Design",
+  "departmentIds": [
+    13,
+    76
+  ],
+  "summary": "Interior Design majors plan functional, safe, and attractive interior spaces for homes, offices, hospitals, stores, and other buildings. The major combines design creativity with technical knowledge of building codes and materials.",
+  "description": "Interior Design goes well beyond decorating. Students learn space planning, lighting design, color theory, furniture and materials, building systems, codes and accessibility requirements, and sustainable design. They draft and model spaces by hand and with software such as AutoCAD, Revit, and SketchUp, and they present designs to clients. Studio projects cover residential, commercial, hospitality, and healthcare spaces. Accredited programs prepare graduates for the NCIDQ professional exam required for licensure in some states. Graduates work at interior design firms, architecture firms, furniture companies, and in facilities planning.",
+  "jobs": [
+    "Interior designer",
+    "Space planner",
+    "Kitchen and bath designer",
+    "Lighting designer",
+    "Facilities planner",
+    "Furniture sales designer",
+    "Set designer",
+    "Visual merchandiser"
+  ]
+}

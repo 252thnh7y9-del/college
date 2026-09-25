@@ -1,0 +1,19 @@
+{
+  "id": 201,
+  "name": "Insurance & Risk Management",
+  "departmentIds": [
+    52
+  ],
+  "summary": "Insurance and Risk Management teaches students to identify, measure, and manage the risks that individuals and organizations face. The major prepares students for careers in the insurance industry and corporate risk management.",
+  "description": "Insurance and Risk Management majors study the principles of risk and insurance, property and casualty insurance, life and health insurance, employee benefits, commercial risk management, underwriting, claims, and insurance law and regulation, along with finance, economics, and statistics. They learn how insurers price policies, how companies protect themselves against losses, and how to use data to assess risk. Many students earn professional designations or pass licensing exams while in school. The insurance industry has strong hiring demand, and graduates work as underwriters, brokers, claims professionals, and risk managers.",
+  "jobs": [
+    "Underwriter",
+    "Insurance broker",
+    "Claims adjuster",
+    "Risk manager",
+    "Insurance agent",
+    "Loss control specialist",
+    "Benefits consultant",
+    "Reinsurance analyst"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 122,
+  "name": "Biology",
+  "departmentIds": [
+    28
+  ],
+  "summary": "Biology is the study of living organisms, from molecules and cells to ecosystems. The major provides broad training in the life sciences and hands-on laboratory experience.",
+  "description": "Biology majors take a core sequence covering cell and molecular biology, genetics, evolution, ecology, and organismal biology, along with chemistry, physics, math, and statistics. Upper-level electives let students focus on areas such as microbiology, physiology, neuroscience, marine biology, botany, or conservation. Laboratory and field courses teach techniques such as microscopy, PCR, cell culture, and field sampling, and many students do independent research with faculty. Biology is the most common pre-medical major and also leads to careers in research, healthcare, biotechnology, environmental work, and education.",
+  "jobs": [
+    "Laboratory technician",
+    "Research associate",
+    "Clinical research coordinator",
+    "Environmental scientist",
+    "Biology teacher",
+    "Science writer",
+    "Physician (with medical degree)",
+    "Physician assistant (with graduate degree)"
+  ]
+}

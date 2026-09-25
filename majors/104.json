@@ -1,0 +1,20 @@
+{
+  "id": 104,
+  "name": "Geographic Information Science (GIS)",
+  "departmentIds": [
+    24,
+    50
+  ],
+  "summary": "Geographic Information Science (GIS) teaches students to collect, analyze, and visualize spatial data using mapping software and technology. The major prepares students for technical careers in mapping and location-based analysis.",
+  "description": "GIS majors learn to create and analyze digital maps and spatial data. Coursework covers cartography, GIS software such as ArcGIS and QGIS, spatial statistics, remote sensing and satellite imagery, GPS and field data collection, database management, and programming in Python for geospatial automation. Students apply these tools to problems in environmental management, urban planning, public health, emergency response, transportation, and business location analysis. Projects and internships give students real-world experience. Graduates are in demand as GIS analysts, technicians, and developers in government, utilities, engineering firms, and technology companies.",
+  "jobs": [
+    "GIS analyst",
+    "GIS technician",
+    "Geospatial developer",
+    "Remote sensing specialist",
+    "Cartographer",
+    "Geospatial intelligence analyst",
+    "Surveying technician",
+    "Location data scientist"
+  ]
+}

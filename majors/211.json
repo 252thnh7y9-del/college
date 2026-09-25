@@ -1,0 +1,19 @@
+{
+  "id": 211,
+  "name": "Professional Sales",
+  "departmentIds": [
+    54
+  ],
+  "summary": "Professional Sales prepares students for careers in business-to-business and consultative selling. Students learn how to build relationships, understand customer needs, and close deals.",
+  "description": "Professional Sales majors study the selling process, sales negotiation, customer relationship management (CRM), sales management, sales technology, and business-to-business marketing, along with the business core. Much of the learning is hands-on, with role-play exercises in sales labs, recorded practice calls, and national sales competitions. Students often complete sales internships, and many receive job offers before graduation because demand for trained salespeople is high. Graduates work in technology, medical device, pharmaceutical, industrial, and financial services sales.",
+  "jobs": [
+    "Sales representative",
+    "Account executive",
+    "Business development representative",
+    "Medical device sales representative",
+    "Technical sales representative",
+    "Sales manager",
+    "Customer success manager",
+    "Key account manager"
+  ]
+}

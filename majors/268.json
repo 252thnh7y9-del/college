@@ -1,0 +1,19 @@
+{
+  "id": 268,
+  "name": "Communication Studies",
+  "departmentIds": [
+    67
+  ],
+  "summary": "Communication Studies examines how people create and share meaning through speech, relationships, groups, organizations, and media. Students develop strong speaking, writing, and interpersonal skills.",
+  "description": "Communication Studies majors study interpersonal communication, public speaking, argumentation and debate, group and organizational communication, intercultural communication, rhetoric, persuasion, and media and society. They learn both how communication works and how to communicate more effectively in personal, professional, and public settings. Research methods courses cover surveys, interviews, and discourse analysis. Many students join debate teams or complete internships. The versatile major leads to careers in public relations, human resources, sales, marketing, event planning, and nonprofits.",
+  "jobs": [
+    "Public relations specialist",
+    "Communications coordinator",
+    "Sales representative",
+    "Human resources specialist",
+    "Event coordinator",
+    "Social media manager",
+    "Corporate trainer",
+    "Fundraiser"
+  ]
+}

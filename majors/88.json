@@ -1,0 +1,19 @@
+{
+  "id": 88,
+  "name": "Biological Anthropology",
+  "departmentIds": [
+    18,
+    28
+  ],
+  "summary": "Biological Anthropology studies human evolution, genetics, and biological variation, and how biology and culture interact. It combines anthropology with biology.",
+  "description": "Biological, or physical, anthropology examines humans as biological organisms shaped by evolution and culture. Majors study the fossil record of human ancestors, primate behavior and ecology, human genetics and population variation, human osteology and skeletal biology, and the effects of diet, disease, and environment on human bodies. Specialized areas include forensic anthropology, paleoanthropology, primatology, and bioarchaeology. Students take substantial biology and chemistry coursework along with anthropology, and they often gain lab experience with skeletal material. Graduates pursue careers in forensics, museums, public health, and research, and the major is also good preparation for medical school.",
+  "jobs": [
+    "Forensic anthropologist (with graduate degree)",
+    "Laboratory technician",
+    "Primate care technician",
+    "Museum collections specialist",
+    "Public health researcher",
+    "Physician assistant (with graduate degree)",
+    "Physician (with medical degree)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 303,
+  "name": "Human Services",
+  "departmentIds": [
+    79,
+    81
+  ],
+  "summary": "Human Services prepares students to help people meet basic needs and improve their quality of life through social service programs. The major emphasizes practical skills in case management and program delivery.",
+  "description": "Human Services majors study human development, social problems, interviewing and counseling skills, case management, crisis intervention, social welfare systems, program planning, and ethics. They learn to connect clients to resources such as housing, healthcare, food assistance, and job training. Supervised internships in social service agencies, shelters, schools, and community organizations are central. The major is similar to social work but typically does not lead to social work licensure. Graduates work in nonprofits, government agencies, and community organizations.",
+  "jobs": [
+    "Case manager",
+    "Social services coordinator",
+    "Community outreach worker",
+    "Residential counselor",
+    "Youth worker",
+    "Eligibility specialist",
+    "Program coordinator",
+    "Victim advocate"
+  ]
+}

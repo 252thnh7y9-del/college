@@ -1,0 +1,19 @@
+{
+  "id": 126,
+  "name": "Genetics",
+  "departmentIds": [
+    28
+  ],
+  "summary": "Genetics studies genes, heredity, and how genetic variation shapes living organisms. The major covers everything from molecular genetics to population genetics and genomics.",
+  "description": "Genetics majors study how traits are inherited, how genes are structured and regulated, and how DNA changes over generations. Coursework includes Mendelian and molecular genetics, genomics, population and evolutionary genetics, human and medical genetics, epigenetics, and bioinformatics, along with biology, chemistry, and statistics. Students learn laboratory techniques such as DNA sequencing, PCR, and gene editing, and many conduct research. Genetics applies to medicine, agriculture, forensics, and ancestry testing. Graduates work in research and clinical labs, biotechnology, agriculture, and genetic testing companies, and many pursue graduate training in genetic counseling or medicine.",
+  "jobs": [
+    "Genetics lab technician",
+    "Cytogenetic technologist",
+    "Bioinformatics analyst",
+    "Plant or animal breeder",
+    "Genetic counselor (with graduate degree)",
+    "Research associate",
+    "Clinical research coordinator",
+    "Physician (with medical degree)"
+  ]
+}

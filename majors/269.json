@@ -1,0 +1,19 @@
+{
+  "id": 269,
+  "name": "Organizational Communication",
+  "departmentIds": [
+    67,
+    53
+  ],
+  "summary": "Organizational Communication studies how communication works inside organizations and between organizations and the public. Students learn about leadership, teamwork, conflict, and corporate messaging.",
+  "description": "Organizational Communication majors examine communication within companies, nonprofits, and government agencies. Coursework covers organizational culture, leadership communication, team and group dynamics, conflict management, change communication, internal communications, training and development, crisis communication, and communication technology in the workplace. Students learn to diagnose communication problems and design solutions, such as employee communication plans or training programs. Graduates work in internal communications, human resources, training, consulting, and management.",
+  "jobs": [
+    "Internal communications specialist",
+    "Corporate trainer",
+    "Human resources specialist",
+    "Change management consultant",
+    "Employee engagement coordinator",
+    "Communications manager",
+    "Organizational development specialist"
+  ]
+}

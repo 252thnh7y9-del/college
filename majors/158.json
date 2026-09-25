@@ -1,0 +1,19 @@
+{
+  "id": 158,
+  "name": "Aerospace Engineering",
+  "departmentIds": [
+    36
+  ],
+  "summary": "Aerospace Engineering designs, builds, and tests aircraft, spacecraft, satellites, and missiles. The major covers aerodynamics, propulsion, structures, and flight control.",
+  "description": "Aerospace Engineering majors take a core of math, physics, and engineering fundamentals, then study aerodynamics, flight mechanics, propulsion (jet and rocket engines), aerospace structures and materials, orbital mechanics, and control systems. Lab work includes wind tunnel testing and structural testing, and students learn computational tools such as CAD, MATLAB, and computational fluid dynamics. A capstone project typically involves designing an aircraft, drone, rocket, or satellite, and many students join teams in design competitions. Graduates work for aerospace manufacturers, airlines, NASA, defense contractors, and space companies.",
+  "jobs": [
+    "Aerospace engineer",
+    "Propulsion engineer",
+    "Flight test engineer",
+    "Structural analyst",
+    "Avionics engineer",
+    "Spacecraft systems engineer",
+    "Aerodynamicist",
+    "Defense systems engineer"
+  ]
+}

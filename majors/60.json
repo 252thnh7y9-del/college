@@ -1,0 +1,19 @@
+{
+  "id": 60,
+  "name": "Fashion Design",
+  "departmentIds": [
+    13
+  ],
+  "summary": "Fashion Design majors learn to design and construct clothing and accessories. The major covers sketching, patternmaking, sewing, textiles, and the business of fashion.",
+  "description": "Fashion Design students develop skills in fashion illustration, draping, flat patternmaking, garment construction, and tailoring, along with digital design tools such as CAD and 3D garment software. They study textiles, fashion history, trend forecasting, and sustainability in the fashion industry. Students design collections for specific markets, from womenswear and menswear to activewear and costume. Many programs include internships with fashion houses or manufacturers and end with a senior collection shown in a runway show. Graduates work as designers, patternmakers, and technical designers for apparel brands, retailers, and costume shops.",
+  "jobs": [
+    "Fashion designer",
+    "Technical designer",
+    "Patternmaker",
+    "Costume designer",
+    "Textile designer",
+    "Product developer",
+    "Fashion stylist",
+    "Sample maker"
+  ]
+}

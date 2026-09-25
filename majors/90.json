@@ -1,0 +1,20 @@
+{
+  "id": 90,
+  "name": "Mathematical Economics",
+  "departmentIds": [
+    19,
+    33
+  ],
+  "summary": "Mathematical Economics combines economics with advanced mathematics to build and analyze formal economic models. It is ideal for students planning graduate study in economics or quantitative careers.",
+  "description": "This major blends the core economics curriculum with a substantial mathematics sequence, including multivariable calculus, linear algebra, real analysis, differential equations, probability, and mathematical statistics. Students apply these tools in advanced courses on economic theory, game theory, econometrics, and optimization, learning to prove results and build models of markets, strategic behavior, and economic growth. Programming and data analysis are often required. The rigorous training prepares graduates for PhD programs in economics, which are highly mathematical, and for quantitative roles in finance, consulting, data science, and government.",
+  "jobs": [
+    "Quantitative analyst",
+    "Economic consultant",
+    "Data scientist",
+    "Actuary",
+    "Financial analyst",
+    "Research assistant (Federal Reserve)",
+    "Risk analyst",
+    "Economist (with graduate degree)"
+  ]
+}

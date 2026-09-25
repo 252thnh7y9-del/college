@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "name": "History",
+  "departmentIds": [
+    3
+  ],
+  "summary": "History majors study the human past to understand how societies, ideas, and events have shaped the present. The major trains students to research primary sources, weigh evidence, and write well-supported arguments.",
+  "description": "History students explore periods and places ranging from the ancient Mediterranean to modern Asia, Africa, Europe, and the Americas, and topics such as war, religion, economics, gender, race, science, and empire. Beyond learning what happened, they learn how historians know it: finding and interpreting primary sources such as letters, government records, newspapers, and artifacts, and evaluating competing interpretations. Coursework mixes lectures with research seminars, and most programs culminate in a substantial research paper or thesis based on original sources. The major builds research, analytical, and writing skills that transfer to law, government, education, journalism, and museum and archival work.",
+  "jobs": [
+    "Teacher",
+    "Archivist",
+    "Museum curator",
+    "Paralegal",
+    "Attorney (with law degree)",
+    "Policy analyst",
+    "Journalist",
+    "Researcher",
+    "Historic preservation specialist",
+    "Government analyst"
+  ]
+}

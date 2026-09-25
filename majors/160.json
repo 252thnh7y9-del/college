@@ -1,0 +1,19 @@
+{
+  "id": 160,
+  "name": "Biomedical Engineering",
+  "departmentIds": [
+    37
+  ],
+  "summary": "Biomedical Engineering applies engineering to medicine and biology to design medical devices, diagnostic equipment, and therapies. The major combines engineering with life sciences.",
+  "description": "Biomedical Engineering majors take engineering fundamentals along with biology, chemistry, and physiology. Specialized courses cover biomechanics, biomaterials, biomedical instrumentation, medical imaging, biotransport, tissue engineering, and signal processing. Students work on projects such as prosthetics, implants, wearable sensors, and drug delivery systems, and they learn regulations and design controls for medical devices. A senior design project often involves clinicians or industry partners. Graduates work in medical device and biotechnology companies and hospitals, and the major is popular preparation for medical school.",
+  "jobs": [
+    "Biomedical engineer",
+    "Medical device design engineer",
+    "Clinical engineer",
+    "Quality engineer",
+    "Regulatory affairs specialist",
+    "Biomaterials engineer",
+    "Field clinical engineer",
+    "Physician (with medical degree)"
+  ]
+}

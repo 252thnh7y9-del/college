@@ -1,0 +1,18 @@
+{
+  "id": 251,
+  "name": "Radiologic Technology",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Radiologic Technology trains students to perform diagnostic imaging exams such as X-rays and CT scans. Radiologic technologists work closely with patients and physicians.",
+  "description": "Radiologic Technology majors study anatomy and physiology, patient positioning, radiation physics, radiation protection and safety, imaging equipment, image evaluation, and patient care. Students complete extensive clinical rotations in hospitals and imaging centers. Graduates take the American Registry of Radiologic Technologists (ARRT) exam to become registered technologists. Bachelor's programs often add advanced modalities such as CT, MRI, or mammography and coursework in healthcare leadership. Radiologic technologists work in hospitals, outpatient imaging centers, and physician offices.",
+  "jobs": [
+    "Radiologic technologist",
+    "CT technologist",
+    "MRI technologist",
+    "Mammographer",
+    "Interventional radiology technologist",
+    "Imaging department supervisor",
+    "Radiology applications specialist"
+  ]
+}

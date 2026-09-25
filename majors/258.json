@@ -1,0 +1,18 @@
+{
+  "id": 258,
+  "name": "Occupational Science",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Occupational Science studies how people engage in the daily activities that give their lives meaning, such as work, self-care, and leisure. It is the foundation for careers in occupational therapy.",
+  "description": "Occupational Science majors study human occupation, meaning the everyday activities people need and want to do, and how health, disability, environment, and culture affect participation. Coursework includes anatomy, physiology, psychology, human development, neuroscience, and disability studies, along with occupational science theory and research. Students learn to analyze activities and environments and often complete observation hours in occupational therapy settings. The major is primarily a pathway to graduate programs in occupational therapy, which are required for licensure.",
+  "jobs": [
+    "Occupational therapy aide",
+    "Rehabilitation technician",
+    "Activities coordinator",
+    "Case manager",
+    "Disability services coordinator",
+    "Occupational therapist (with graduate degree)",
+    "Occupational therapy assistant"
+  ]
+}

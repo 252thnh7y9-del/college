@@ -1,0 +1,19 @@
+{
+  "id": 49,
+  "name": "Sculpture",
+  "departmentIds": [
+    12
+  ],
+  "summary": "Sculpture majors create three-dimensional art using materials such as metal, wood, stone, clay, and found objects. The major teaches fabrication techniques alongside concepts of space, form, and installation.",
+  "description": "Sculpture students learn a wide range of processes, including carving, modeling, mold-making and casting, welding and metal fabrication, woodworking, and increasingly digital fabrication with 3D printing and CNC machines. They also explore installation, site-specific work, public art, and performance. Safety training and shop skills are a significant part of the program. Critiques and courses in art history and theory help students develop a conceptual approach to their work. The major typically ends with a thesis exhibition. Graduates become exhibiting artists and public artists and also find work in fabrication shops, prop and exhibit building, and museums.",
+  "jobs": [
+    "Sculptor",
+    "Public artist",
+    "Art fabricator",
+    "Prop maker",
+    "Exhibit fabricator",
+    "Foundry technician",
+    "Museum preparator",
+    "Set builder"
+  ]
+}

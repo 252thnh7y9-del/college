@@ -1,0 +1,19 @@
+{
+  "id": 13,
+  "name": "Biblical Studies",
+  "departmentIds": [
+    5
+  ],
+  "summary": "Biblical Studies focuses on the close study of the Hebrew Bible and New Testament, including their languages, history, and interpretation. Students learn how these texts were written, transmitted, and read.",
+  "description": "Biblical Studies majors examine the Bible as a collection of ancient texts. Students study its historical and cultural setting in the ancient Near East and the Greco-Roman world, the formation of the biblical canon, and the methods scholars use to interpret it, such as textual, historical, literary, and archaeological criticism. Most programs require biblical Hebrew and Koine Greek, allowing students to read texts in their original languages. Coursework may also cover the history of interpretation, biblical theology, and archaeology of the biblical world. The major is common at seminaries and religious colleges and prepares students for ministry, seminary, and graduate work in religion or ancient history.",
+  "jobs": [
+    "Pastor (with seminary)",
+    "Bible translator",
+    "Missionary",
+    "Religious educator",
+    "Chaplain",
+    "Ministry director",
+    "Christian publishing editor",
+    "Professor (with graduate degree)"
+  ]
+}

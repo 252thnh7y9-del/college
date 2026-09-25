@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "name": "Middle Eastern Studies",
+  "departmentIds": [
+    9,
+    26
+  ],
+  "summary": "Middle Eastern Studies is an interdisciplinary major on the history, politics, religions, languages, and cultures of the Middle East and North Africa. Students usually learn Arabic, Hebrew, Persian, or Turkish.",
+  "description": "Middle Eastern Studies majors combine language training with courses from history, political science, religious studies, anthropology, economics, and literature. Topics include the rise and spread of Islam, the Ottoman Empire, colonialism and independence movements, the Arab-Israeli conflict, oil and political economy, the Arab Spring, and contemporary society and culture. Students typically reach at least intermediate proficiency in a regional language and often study abroad. The major prepares graduates to analyze a region of great strategic importance and leads to careers in diplomacy, intelligence, journalism, international development, humanitarian work, and business.",
+  "jobs": [
+    "Foreign service officer",
+    "Intelligence analyst",
+    "Policy analyst",
+    "Journalist",
+    "Humanitarian aid worker",
+    "International business associate",
+    "Translator",
+    "Think tank researcher"
+  ]
+}

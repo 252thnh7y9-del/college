@@ -1,0 +1,18 @@
+{
+  "id": 69,
+  "name": "Music Theory",
+  "departmentIds": [
+    14
+  ],
+  "summary": "Music Theory majors study how music is built, analyzing harmony, melody, rhythm, and form across styles. The major is highly analytical and often leads to graduate study or teaching.",
+  "description": "Music Theory majors go deeper than the core theory sequence all music students take. They study tonal harmony, counterpoint, form, post-tonal theory, Schenkerian analysis, and mathematical approaches to music, and they analyze repertoire ranging from Bach to jazz and popular music. Students develop exceptional aural skills and often take courses in music cognition, which studies how listeners perceive music. They continue performance study and ensembles. The major prepares students for graduate study in music theory or musicology and for careers in teaching, music editing and publishing, and music technology.",
+  "jobs": [
+    "Music theory instructor",
+    "Music editor",
+    "Music publishing specialist",
+    "Arranger",
+    "Music software specialist",
+    "Private teacher",
+    "Professor (with graduate degree)"
+  ]
+}

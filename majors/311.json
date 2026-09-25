@@ -1,0 +1,19 @@
+{
+  "id": 311,
+  "name": "Interdisciplinary Studies",
+  "departmentIds": [
+    84
+  ],
+  "summary": "Interdisciplinary Studies lets students combine two or more academic fields into a single integrated major. It suits students whose interests cross traditional departmental lines.",
+  "description": "Interdisciplinary Studies majors design a program of study that combines coursework from multiple disciplines around a theme, question, or career goal, such as environmental communication, health and society, or technology and ethics. Students typically take a core sequence in interdisciplinary theory and research methods, work with advisors to build their plan, and complete a capstone project that integrates their fields. The major develops the ability to synthesize ideas and approach problems from several perspectives. Graduates work in fields related to their concentrations and in roles that value adaptability.",
+  "jobs": [
+    "Program coordinator",
+    "Project manager",
+    "Research assistant",
+    "Communications specialist",
+    "Policy analyst",
+    "Business analyst",
+    "Nonprofit manager",
+    "Consultant"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 313,
+  "name": "General Studies",
+  "departmentIds": [
+    84
+  ],
+  "summary": "General Studies is a flexible degree that lets students combine coursework from several fields without a single traditional major. It is popular with transfer students and adults returning to college.",
+  "description": "General Studies majors complete a broad set of courses across the humanities, social sciences, sciences, and professional fields, often with two or three areas of emphasis chosen by the student. The flexibility allows students to use credits earned at other institutions or over many years and to tailor the degree to career goals. Many programs are offered online or in formats designed for working adults. The degree satisfies the bachelor's requirement for many jobs and promotions and can lead to graduate study.",
+  "jobs": [
+    "Administrative manager",
+    "Customer service manager",
+    "Sales representative",
+    "Office manager",
+    "Program coordinator",
+    "Retail manager",
+    "Human resources assistant",
+    "Military officer"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31,
+  "name": "East Asian Studies",
+  "departmentIds": [
+    8,
+    26
+  ],
+  "summary": "East Asian Studies is an interdisciplinary major focused on China, Japan, and Korea. Students combine language study with courses in history, politics, religion, literature, and economics of the region.",
+  "description": "East Asian Studies majors typically reach advanced proficiency in Chinese, Japanese, or Korean while taking courses across disciplines to understand the region as a whole. Coursework may include East Asian history, Buddhism and Confucianism, East Asian literature and film, politics and international relations in the Asia-Pacific, and the economies of China, Japan, and Korea. Students often focus on one country while studying connections across the region. Study abroad is highly encouraged. The combination of language skills and regional expertise prepares graduates for careers in international business, government, journalism, education, and nonprofits with ties to East Asia.",
+  "jobs": [
+    "International business associate",
+    "Foreign service officer",
+    "Policy analyst",
+    "Translator",
+    "Journalist",
+    "Teacher",
+    "Nonprofit program coordinator",
+    "Intelligence analyst"
+  ]
+}

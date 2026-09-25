@@ -1,0 +1,21 @@
+{
+  "id": 132,
+  "name": "Neuroscience",
+  "departmentIds": [
+    35,
+    28,
+    22
+  ],
+  "summary": "Neuroscience studies the nervous system and how it gives rise to thought, behavior, and feeling. The interdisciplinary major combines biology, chemistry, psychology, and sometimes computation.",
+  "description": "Neuroscience majors study the brain at many levels: molecular and cellular neuroscience, which examines how neurons signal; systems neuroscience, which looks at circuits for vision, movement, and memory; and cognitive and behavioral neuroscience, which connects the brain to mind and behavior. Coursework includes biology, chemistry, psychology, neuroanatomy, neuropharmacology, and often physics, statistics, and computational neuroscience. Students learn laboratory techniques such as electrophysiology and brain imaging, and many conduct research. Graduates go on to medical school, graduate research programs, and careers in biotechnology, pharmaceuticals, and clinical research.",
+  "jobs": [
+    "Research technician",
+    "Clinical research coordinator",
+    "Neurodiagnostic technologist",
+    "Pharmaceutical research associate",
+    "Data analyst",
+    "Physician (with medical degree)",
+    "Neuroscientist (with doctorate)",
+    "Neuropsychologist (with doctorate)"
+  ]
+}

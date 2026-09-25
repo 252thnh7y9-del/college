@@ -1,0 +1,19 @@
+{
+  "id": 232,
+  "name": "Health Education",
+  "departmentIds": [
+    62,
+    57
+  ],
+  "summary": "Health Education prepares students to teach people how to live healthier lives, in schools or communities. The major combines health science with teaching and program planning.",
+  "description": "Health Education majors study personal and community health, nutrition, human sexuality, mental health, substance abuse prevention, disease prevention, and health behavior theory, along with methods for teaching and planning health programs. School health education tracks lead to teaching licensure and include student teaching. Community tracks prepare students to design and evaluate health programs and often lead to the Certified Health Education Specialist (CHES) exam. Graduates work in schools, public health departments, hospitals, and nonprofits.",
+  "jobs": [
+    "Health education teacher",
+    "Health educator",
+    "Community health worker",
+    "Wellness coordinator",
+    "Prevention specialist",
+    "Public health program coordinator",
+    "Patient educator"
+  ]
+}

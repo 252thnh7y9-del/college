@@ -1,0 +1,19 @@
+{
+  "id": 68,
+  "name": "Music Composition",
+  "departmentIds": [
+    14
+  ],
+  "summary": "Music Composition majors learn to write original music for instruments, voices, and electronic media. The major builds deep knowledge of theory, orchestration, and musical styles.",
+  "description": "Composition students study advanced music theory, counterpoint, orchestration, form and analysis, and twentieth- and twenty-first-century compositional techniques. They take private composition lessons, write pieces for solo performers, chamber groups, choirs, and orchestras, and hear their work performed in readings and concerts. Many programs include electronic music, music technology, and film and game scoring. Students also continue performance study and music history. By graduation, students have a portfolio of compositions and recordings. Careers include concert composition, scoring for film, television, and video games, arranging, and teaching.",
+  "jobs": [
+    "Composer",
+    "Film and TV composer",
+    "Video game composer",
+    "Arranger",
+    "Orchestrator",
+    "Music copyist",
+    "Music producer",
+    "Music teacher"
+  ]
+}

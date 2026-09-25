@@ -1,0 +1,20 @@
+{
+  "id": 146,
+  "name": "Atmospheric Science & Meteorology",
+  "departmentIds": [
+    31,
+    30
+  ],
+  "summary": "Atmospheric Science and Meteorology study the atmosphere, weather, and climate. Students learn to forecast weather and understand climate change using physics and data.",
+  "description": "Meteorology majors apply physics and math to the atmosphere. Coursework includes atmospheric thermodynamics, atmospheric dynamics, cloud physics, radiation, synoptic and mesoscale meteorology, weather forecasting, climate science, and numerical weather prediction, with calculus, differential equations, physics, and programming as foundations. Students analyze weather data from radar, satellites, and models and practice forecasting. Many programs meet federal requirements for National Weather Service meteorologists. Graduates work as forecasters, broadcast meteorologists, climate scientists, and in aviation, energy, agriculture, and risk analysis.",
+  "jobs": [
+    "Meteorologist",
+    "Broadcast meteorologist",
+    "Weather forecaster (National Weather Service)",
+    "Climate scientist",
+    "Air quality specialist",
+    "Aviation meteorologist",
+    "Weather data analyst",
+    "Energy forecasting analyst"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 204,
+  "name": "Management",
+  "departmentIds": [
+    53
+  ],
+  "summary": "Management studies how to lead people and organizations to achieve goals. Students learn about leadership, organizational behavior, strategy, and operations.",
+  "description": "Management majors study organizational behavior, leadership, human resource management, strategic management, operations, negotiation, business ethics, and team dynamics, along with the core business curriculum. They learn how organizations are structured, how to motivate employees, how to make decisions under uncertainty, and how to manage change. Case studies, simulations, and group projects develop practical leadership and communication skills. Graduates enter management training programs and work as supervisors, project managers, consultants, and operations managers across all industries.",
+  "jobs": [
+    "Management trainee",
+    "Operations manager",
+    "Project manager",
+    "Management consultant",
+    "Retail store manager",
+    "Human resources manager",
+    "Business development associate",
+    "General manager"
+  ]
+}

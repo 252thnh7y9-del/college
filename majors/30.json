@@ -1,0 +1,18 @@
+{
+  "id": 30,
+  "name": "Korean",
+  "departmentIds": [
+    8
+  ],
+  "summary": "Korean majors learn the Korean language and study the history, literature, and culture of Korea. The major reflects growing global interest in Korea's economy and popular culture.",
+  "description": "Korean majors learn to speak, read, and write Korean using the Hangul alphabet, advancing to professional-level proficiency. Courses cover Korean literature, film, history from the Three Kingdoms through Japanese colonial rule and the Korean War, the division of the peninsula, and the rapid economic and cultural rise of South Korea, including K-pop and Korean cinema. Many students study abroad in Seoul. Korean is designated a critical language by the U.S. government, and graduates find opportunities in translation, intelligence, diplomacy, international business with Korean technology and manufacturing firms, and entertainment and media localization.",
+  "jobs": [
+    "Translator or interpreter",
+    "Intelligence analyst",
+    "Foreign service officer",
+    "International business associate",
+    "Media localization specialist",
+    "English teacher in Korea",
+    "Korean teacher"
+  ]
+}

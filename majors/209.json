@@ -1,0 +1,19 @@
+{
+  "id": 209,
+  "name": "Marketing",
+  "departmentIds": [
+    54
+  ],
+  "summary": "Marketing studies how organizations understand customers, create value, and promote products and services. Students learn consumer behavior, branding, advertising, and market research.",
+  "description": "Marketing majors study consumer behavior, marketing research, brand management, advertising and promotion, pricing, distribution, digital and social media marketing, sales, and marketing strategy, alongside the business core. They learn to analyze markets, segment customers, design campaigns, and measure results with data and analytics tools. Many courses involve projects with real companies. Graduates work in brand management, advertising, digital marketing, market research, sales, and product management across consumer goods, technology, healthcare, and nonprofits.",
+  "jobs": [
+    "Marketing coordinator",
+    "Brand manager",
+    "Market research analyst",
+    "Digital marketing specialist",
+    "Social media manager",
+    "Product marketing manager",
+    "Account executive",
+    "Marketing analyst"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 39,
+  "name": "American Sign Language & Deaf Studies",
+  "departmentIds": [
+    10,
+    7,
+    66
+  ],
+  "summary": "American Sign Language and Deaf Studies teaches ASL fluency and the history, culture, and rights of the Deaf community. Many students prepare to become ASL-English interpreters.",
+  "description": "ASL and Deaf Studies majors learn American Sign Language as a full, natural language with its own grammar, and study Deaf culture, history, literature, and the Deaf rights movement. Coursework includes ASL linguistics, fingerspelling, Deaf education, and the social and legal issues facing Deaf and hard-of-hearing people, such as access and the Americans with Disabilities Act. Interpreting tracks add courses in interpreting theory and ethics and supervised interpreting practice in educational, medical, legal, and community settings. Graduates may pursue national interpreter certification or work in education, social services, advocacy, and rehabilitation.",
+  "jobs": [
+    "ASL interpreter",
+    "Deaf education teacher (with licensure)",
+    "Video relay service interpreter",
+    "Vocational rehabilitation counselor",
+    "Disability services coordinator",
+    "Advocate for Deaf community organizations",
+    "Early intervention specialist"
+  ]
+}

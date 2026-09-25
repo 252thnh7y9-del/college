@@ -1,0 +1,19 @@
+{
+  "id": 34,
+  "name": "Persian",
+  "departmentIds": [
+    9
+  ],
+  "summary": "Persian majors learn Persian (Farsi) and study the literature, history, and culture of Iran, Afghanistan, and Tajikistan. Students can read classic poets such as Rumi and Hafez as well as modern writers.",
+  "description": "Persian majors build proficiency in reading, writing, and speaking Persian, a language with more than 100 million speakers and a literary tradition over a thousand years old. Coursework covers classical Persian poetry, including Ferdowsi's Shahnameh, Rumi, Hafez, and Saadi, as well as modern Iranian literature and cinema. History and politics courses examine the Persian empires, the Islamic period, the 1979 revolution, and contemporary Iran and Afghanistan. Persian is a critical language for the U.S. government, so graduates are in demand for intelligence, diplomacy, defense, journalism, and translation, as well as for academic research.",
+  "jobs": [
+    "Intelligence analyst",
+    "Translator or interpreter",
+    "Foreign service officer",
+    "Journalist",
+    "Policy analyst",
+    "Linguist (government)",
+    "Refugee resettlement specialist",
+    "Researcher"
+  ]
+}

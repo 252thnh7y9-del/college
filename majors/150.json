@@ -1,0 +1,20 @@
+{
+  "id": 150,
+  "name": "Environmental Policy",
+  "departmentIds": [
+    32,
+    80
+  ],
+  "summary": "Environmental Policy focuses on the laws, regulations, and decisions that govern how society uses and protects natural resources. Students learn to analyze and design policies for environmental problems.",
+  "description": "Environmental Policy majors study how governments, businesses, and international organizations address issues such as air and water pollution, climate change, energy, land use, and biodiversity. Coursework includes environmental law, policy analysis, environmental economics, natural resource management, political science, and enough environmental science to understand the issues. Students learn cost-benefit analysis, stakeholder engagement, and how environmental regulations are written and enforced. Internships with government agencies, advocacy groups, and consulting firms are common. Graduates work in policy analysis, regulatory compliance, advocacy, and environmental planning.",
+  "jobs": [
+    "Environmental policy analyst",
+    "Regulatory compliance specialist",
+    "Legislative aide",
+    "Environmental planner",
+    "Climate policy advocate",
+    "Environmental consultant",
+    "Government program analyst",
+    "Attorney (with law degree)"
+  ]
+}

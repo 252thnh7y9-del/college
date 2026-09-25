@@ -1,0 +1,19 @@
+{
+  "id": 36,
+  "name": "Linguistics",
+  "departmentIds": [
+    10
+  ],
+  "summary": "Linguistics is the scientific study of human language, including its sounds, structure, meaning, and use. Students analyze how languages work, how they change, and how people learn them.",
+  "description": "Linguistics majors study the core areas of phonetics (speech sounds), phonology (sound systems), morphology (word structure), syntax (sentence structure), and semantics and pragmatics (meaning and context). They also explore sociolinguistics, historical linguistics, psycholinguistics, language acquisition, and field methods for documenting endangered languages. Students analyze data from many languages and often learn formal and computational tools. Computational linguistics and natural language processing courses connect the field to artificial intelligence and speech technology. The major prepares students for careers in language technology, education, speech-language pathology, translation, and research.",
+  "jobs": [
+    "Computational linguist",
+    "Natural language processing engineer",
+    "Speech-language pathologist (with graduate degree)",
+    "Lexicographer",
+    "Language documentation specialist",
+    "ESL teacher",
+    "Localization specialist",
+    "Conversation designer"
+  ]
+}

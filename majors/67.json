@@ -1,0 +1,19 @@
+{
+  "id": 67,
+  "name": "Music Performance",
+  "departmentIds": [
+    14
+  ],
+  "summary": "Music Performance is a professional degree for students aiming to perform as instrumentalists or vocalists. Most of the coursework centers on individual lessons, practice, and ensemble performance.",
+  "description": "Music Performance, usually a Bachelor of Music, is an intensive program that requires an audition for admission. Students take weekly private lessons with faculty artists, perform in orchestras, bands, choirs, opera, or chamber ensembles, and give junior and senior recitals. They also study music theory, aural skills, keyboard, and music history, along with performance-specific courses such as pedagogy, literature for their instrument, and diction for singers. Many hours of daily practice are expected. Graduates perform professionally in orchestras, opera, bands, and freelance settings, teach privately, and often continue to graduate performance programs.",
+  "jobs": [
+    "Orchestral musician",
+    "Opera singer",
+    "Session musician",
+    "Freelance performer",
+    "Private instructor",
+    "Church musician",
+    "Military band musician",
+    "Chamber musician"
+  ]
+}

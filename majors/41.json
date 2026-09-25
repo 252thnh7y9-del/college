@@ -1,0 +1,19 @@
+{
+  "id": 41,
+  "name": "Art History",
+  "departmentIds": [
+    11
+  ],
+  "summary": "Art History studies painting, sculpture, architecture, photography, and other visual arts in their historical and cultural contexts. Students learn to analyze images and objects and explain what they meant to the people who made and saw them.",
+  "description": "Art History majors survey art from prehistoric cave paintings through the Renaissance, modernism, and contemporary art, and increasingly study traditions from Asia, Africa, the Islamic world, and the indigenous Americas. They learn visual analysis, the vocabulary of style and technique, and methods for researching patronage, iconography, and the social and political meaning of art. Seminars often focus on a single artist, movement, or theme, and many programs offer museum-based courses and internships. Students write research papers and learn to use archives and collections. Graduates work in museums, galleries, auction houses, and arts organizations, or continue to graduate study in art history, conservation, or museum studies.",
+  "jobs": [
+    "Museum curator (with graduate degree)",
+    "Gallery associate",
+    "Auction house specialist",
+    "Collections manager",
+    "Museum educator",
+    "Art appraiser",
+    "Visual resources librarian",
+    "Arts administrator"
+  ]
+}

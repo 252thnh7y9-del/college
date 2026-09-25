@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "name": "English Literature",
+  "departmentIds": [
+    1
+  ],
+  "summary": "English Literature focuses specifically on the study of literary works written in English, with an emphasis on literary history and critical interpretation. Students trace how poetry, novels, and drama have developed and what they reveal about their times.",
+  "description": "A literature-focused English degree places the reading and interpretation of texts at the center. Students work through the canon of British, American, and world Anglophone literature, usually by period (medieval, Renaissance, eighteenth century, Romantic, Victorian, modern, contemporary) and by genre. They learn to place works in historical context, apply literary theory, and build research-based arguments in essays and seminar papers. Compared with a general English major, this track typically has fewer writing-workshop or rhetoric requirements and more coursework in literary history and criticism. Many students complete an honors thesis on an author or movement. Graduates are well prepared for graduate study in literature or law and for careers that reward careful reading and strong writing.",
+  "jobs": [
+    "Editor",
+    "Literary agent assistant",
+    "Teacher",
+    "Librarian (with MLS)",
+    "Writer",
+    "Grant writer",
+    "Communications coordinator",
+    "Professor (with graduate degree)",
+    "Attorney (with law degree)"
+  ]
+}

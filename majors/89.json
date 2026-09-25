@@ -1,0 +1,19 @@
+{
+  "id": 89,
+  "name": "Economics",
+  "departmentIds": [
+    19
+  ],
+  "summary": "Economics studies how individuals, businesses, and governments make choices about scarce resources. Students learn to analyze markets, economic growth, inflation, and policy using models and data.",
+  "description": "Economics majors take core courses in microeconomics, which studies consumers, firms, and markets, and macroeconomics, which examines national output, unemployment, inflation, and monetary and fiscal policy. They also study econometrics, the statistical analysis of economic data. Electives cover labor, international trade, development, public finance, environmental, behavioral, health, and financial economics. The major requires calculus and statistics, and students increasingly use programming tools such as R, Stata, or Python. Economics develops analytical and quantitative skills highly valued in finance, consulting, government, and technology, and it is common preparation for law school, MBA, and PhD programs.",
+  "jobs": [
+    "Economic analyst",
+    "Financial analyst",
+    "Management consultant",
+    "Data analyst",
+    "Policy analyst",
+    "Actuary",
+    "Market research analyst",
+    "Economist (with graduate degree)"
+  ]
+}

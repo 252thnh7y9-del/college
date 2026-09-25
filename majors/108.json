@@ -1,0 +1,21 @@
+{
+  "id": 108,
+  "name": "Forensic Science",
+  "departmentIds": [
+    29,
+    28,
+    25
+  ],
+  "summary": "Forensic Science applies chemistry, biology, and physics to analyze evidence for criminal and civil investigations. Students learn laboratory techniques used in crime labs.",
+  "description": "Forensic Science majors take a strong foundation in chemistry, biology, and math, then apply it to evidence analysis. Coursework includes analytical and organic chemistry, biochemistry, genetics, forensic DNA analysis, toxicology, trace evidence, firearms and fingerprint analysis, and crime scene investigation. Students also learn about criminal law, rules of evidence, quality assurance, and how to present findings as expert witnesses. Accredited programs emphasize laboratory practice, and internships in crime labs or medical examiner offices are common. Graduates work as forensic scientists in public and private crime laboratories and in related scientific fields.",
+  "jobs": [
+    "Forensic scientist",
+    "DNA analyst",
+    "Forensic toxicologist",
+    "Crime scene investigator",
+    "Latent print examiner",
+    "Trace evidence analyst",
+    "Laboratory technician",
+    "Medicolegal death investigator"
+  ]
+}

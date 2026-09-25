@@ -1,0 +1,20 @@
+{
+  "id": 101,
+  "name": "Behavioral Neuroscience",
+  "departmentIds": [
+    35,
+    22,
+    28
+  ],
+  "summary": "Behavioral Neuroscience studies how the brain and nervous system produce behavior. The major combines psychology with biology and chemistry.",
+  "description": "Behavioral Neuroscience majors study the biological basis of behavior, including how neurons communicate, how brain systems control movement, perception, learning, memory, emotion, and motivation, and how hormones, genes, and drugs affect behavior. Coursework includes biology, chemistry, psychology, neuroanatomy, psychopharmacology, and research methods, and often physics and statistics. Laboratory work is central, and many students join faculty research labs studying animal models or human participants. The major is excellent preparation for medical school and other health professions, graduate programs in neuroscience or psychology, and research careers.",
+  "jobs": [
+    "Research technician",
+    "Clinical research coordinator",
+    "Neurodiagnostic technologist",
+    "Pharmaceutical sales representative",
+    "Behavioral technician",
+    "Physician (with medical degree)",
+    "Neuroscientist (with doctorate)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 102,
+  "name": "Sociology",
+  "departmentIds": [
+    23
+  ],
+  "summary": "Sociology studies society, social groups, and social institutions and how they shape people's lives. Students examine issues such as inequality, race, gender, family, crime, and social change.",
+  "description": "Sociology majors learn to see how social forces such as class, race, gender, religion, and institutions influence individual lives. Coursework covers sociological theory, social inequality, race and ethnicity, gender, family, education, health, crime and deviance, urban sociology, and social movements. Students learn both quantitative methods, such as surveys and statistical analysis, and qualitative methods, such as interviews and field observation, and many complete original research. The major prepares graduates for careers in social services, research, human resources, public policy, and nonprofits, and for graduate study in sociology, social work, law, and public health.",
+  "jobs": [
+    "Social services caseworker",
+    "Research analyst",
+    "Community organizer",
+    "Human resources specialist",
+    "Policy analyst",
+    "Market researcher",
+    "Nonprofit program coordinator",
+    "Social worker (with MSW)"
+  ]
+}

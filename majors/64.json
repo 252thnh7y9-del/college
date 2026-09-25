@@ -1,0 +1,21 @@
+{
+  "id": 64,
+  "name": "Game Design",
+  "departmentIds": [
+    13,
+    41,
+    17
+  ],
+  "summary": "Game Design majors learn to create video games and interactive experiences, from concept to playable product. The major combines game mechanics, storytelling, art, and programming.",
+  "description": "Game Design students study what makes games engaging: mechanics, rules, balance, player psychology, and level design. They prototype games on paper and in engines such as Unity and Unreal, and they learn scripting or programming, 2D and 3D art basics, narrative design, and sound. Most coursework is project-based and team-oriented, simulating a studio production pipeline with designers, artists, and programmers. Courses on game history, criticism, and the business of the industry round out the program. Students graduate with a portfolio of playable games. Careers include game design, level design, and production at game studios, as well as educational and serious games and interactive media.",
+  "jobs": [
+    "Game designer",
+    "Level designer",
+    "Narrative designer",
+    "Gameplay programmer",
+    "Technical designer",
+    "Game producer",
+    "QA tester",
+    "UX designer for games"
+  ]
+}

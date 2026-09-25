@@ -1,0 +1,19 @@
+{
+  "id": 192,
+  "name": "Agricultural Systems Technology",
+  "departmentIds": [
+    47,
+    49
+  ],
+  "summary": "Agricultural Systems Technology focuses on the practical management and operation of agricultural equipment, technology, and facilities. It is more hands-on and management-oriented than agricultural engineering.",
+  "description": "Agricultural Systems Technology majors, sometimes called agricultural systems management, learn how to apply and manage technology on farms and in agribusiness. Coursework covers agricultural machinery and power, precision agriculture and GPS guidance, grain handling and storage, irrigation systems, electrical systems, agricultural safety, and business management. Students gain hands-on experience with equipment and technology. Graduates work for equipment dealers and manufacturers, precision agriculture companies, grain and agribusiness firms, and on farms, often in technical sales, service, and management roles.",
+  "jobs": [
+    "Precision agriculture specialist",
+    "Equipment sales representative",
+    "Farm operations manager",
+    "Agricultural technology specialist",
+    "Grain facility manager",
+    "Equipment service manager",
+    "Agricultural safety specialist"
+  ]
+}

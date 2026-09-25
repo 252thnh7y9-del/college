@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "name": "Technical & Professional Writing",
+  "departmentIds": [
+    1,
+    67
+  ],
+  "summary": "Technical and Professional Writing prepares students to write clear, usable documents for workplaces, from instructions and reports to web content and proposals. The major combines writing, design, and an understanding of how people use information.",
+  "description": "This major teaches students to explain complex information to specific audiences. Coursework covers technical documentation, user manuals, reports, proposals, grant writing, business communication, and editing, along with document design, information architecture, and usability testing. Students often learn industry tools such as content management systems, help-authoring software, and basic HTML, and many programs include courses in visual communication and user experience. Students frequently work with real clients through service-learning projects or internships and build a professional portfolio. Technical writers are needed in software, engineering, healthcare, government, and manufacturing, so graduates have a practical path into well-paying writing roles.",
+  "jobs": [
+    "Technical writer",
+    "Documentation specialist",
+    "Content strategist",
+    "UX writer",
+    "Proposal writer",
+    "Grant writer",
+    "Editor",
+    "Communications specialist",
+    "Instructional designer",
+    "Information developer"
+  ]
+}

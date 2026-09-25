@@ -1,0 +1,20 @@
+{
+  "id": 166,
+  "name": "Architectural Engineering",
+  "departmentIds": [
+    39,
+    76
+  ],
+  "summary": "Architectural Engineering applies engineering to the design of buildings and their systems, such as structure, lighting, heating and cooling, and electrical power. It blends engineering with architecture.",
+  "description": "Architectural Engineering majors study how buildings work as integrated systems. Coursework covers structural analysis and design, HVAC and mechanical systems, electrical and lighting systems, building acoustics, energy efficiency, fire protection, and construction management, along with architectural design studios and building information modeling (BIM) software such as Revit. Many programs let students specialize in structures, mechanical systems, lighting and electrical, or construction. Team projects mimic collaboration between architects and engineers. Graduates work for engineering and design firms, contractors, and energy consulting companies.",
+  "jobs": [
+    "Architectural engineer",
+    "Mechanical systems engineer",
+    "Lighting designer",
+    "Building energy engineer",
+    "Structural engineer",
+    "Construction project manager",
+    "BIM specialist",
+    "Building commissioning agent"
+  ]
+}

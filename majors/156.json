@@ -1,0 +1,19 @@
+{
+  "id": 156,
+  "name": "Biostatistics",
+  "departmentIds": [
+    34,
+    62
+  ],
+  "summary": "Biostatistics applies statistics to biology, medicine, and public health. Biostatisticians design studies and analyze data to answer health questions.",
+  "description": "Biostatistics majors take calculus, linear algebra, probability, and mathematical statistics, along with biology and public health courses. Specialized coursework covers design and analysis of clinical trials, epidemiological methods, survival analysis, categorical data analysis, and statistical programming in R and SAS. Students work with real health data to evaluate treatments, study disease patterns, and inform public health policy. Undergraduate programs are less common than graduate ones, and many graduates continue to master's degrees. Biostatisticians work in pharmaceutical companies, hospitals, research institutes, and public health agencies.",
+  "jobs": [
+    "Biostatistician",
+    "Clinical data analyst",
+    "Statistical programmer",
+    "Epidemiology analyst",
+    "Clinical research associate",
+    "Health data analyst",
+    "Public health analyst"
+  ]
+}

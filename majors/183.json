@@ -1,0 +1,20 @@
+{
+  "id": 183,
+  "name": "Engineering Management",
+  "departmentIds": [
+    43,
+    53
+  ],
+  "summary": "Engineering Management combines engineering with business and management skills. Graduates are prepared to lead technical projects, teams, and organizations.",
+  "description": "Engineering Management majors take core engineering and science courses along with business subjects such as accounting, finance, economics, marketing, and organizational behavior. Specialized courses cover project management, engineering economics, quality management, operations and supply chain management, technology and innovation management, and systems thinking. Students learn to evaluate technical projects in terms of cost, schedule, and risk and to lead cross-functional teams. Graduates work as project engineers, operations managers, and technical consultants, and they often move quickly into management.",
+  "jobs": [
+    "Project engineer",
+    "Engineering project manager",
+    "Operations manager",
+    "Technical consultant",
+    "Product manager",
+    "Quality manager",
+    "Manufacturing manager",
+    "Technical sales engineer"
+  ]
+}

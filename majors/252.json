@@ -1,0 +1,17 @@
+{
+  "id": 252,
+  "name": "Nuclear Medicine Technology",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Nuclear Medicine Technology trains students to use small amounts of radioactive materials to image the body and diagnose disease. Technologists prepare radiopharmaceuticals and operate imaging equipment.",
+  "description": "Nuclear Medicine Technology majors study anatomy and physiology, radiation physics, radiation safety, radiopharmacy, instrumentation, and imaging procedures such as PET, SPECT, and cardiac stress testing. They learn to prepare and administer radioactive tracers, operate cameras, process images, and care for patients. Clinical rotations in hospital nuclear medicine departments provide hands-on experience. Graduates take certification exams from the NMTCB or ARRT. Nuclear medicine technologists work in hospitals, imaging centers, and cardiology practices.",
+  "jobs": [
+    "Nuclear medicine technologist",
+    "PET/CT technologist",
+    "Nuclear cardiology technologist",
+    "Radiation safety officer",
+    "Radiopharmacy technician",
+    "Imaging department manager"
+  ]
+}

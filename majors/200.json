@@ -1,0 +1,19 @@
+{
+  "id": 200,
+  "name": "Real Estate",
+  "departmentIds": [
+    52
+  ],
+  "summary": "Real Estate studies the development, financing, investment, and management of property. The major combines finance, law, economics, and urban planning.",
+  "description": "Real Estate majors study real estate principles, property valuation and appraisal, real estate finance and investment, real estate law, property management, real estate development, and market analysis, along with core business courses. They learn to evaluate properties, structure financing, and understand zoning and land-use regulation. Many programs connect students with industry through internships and case competitions. Graduates work in commercial real estate brokerage, development, appraisal, property and asset management, real estate investment trusts, and lending.",
+  "jobs": [
+    "Real estate analyst",
+    "Commercial real estate broker",
+    "Appraiser",
+    "Property manager",
+    "Real estate developer",
+    "Asset manager",
+    "Mortgage loan officer",
+    "Leasing agent"
+  ]
+}

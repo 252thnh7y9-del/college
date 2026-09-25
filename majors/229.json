@@ -1,0 +1,18 @@
+{
+  "id": 229,
+  "name": "Secondary Education",
+  "departmentIds": [
+    57
+  ],
+  "summary": "Secondary Education prepares students to teach middle and high school students in a specific subject. Students combine study in their teaching subject with education courses and student teaching.",
+  "description": "Secondary Education majors choose a subject area such as English, math, science, social studies, or a world language and complete coursework in that discipline along with education courses. Education coursework covers adolescent development, subject-specific teaching methods, classroom management, assessment, literacy across the curriculum, and teaching students with diverse needs. Field placements in middle and high schools lead to a semester of student teaching. Graduates earn state licensure to teach grades 6-12 or 7-12 and work in public and private schools.",
+  "jobs": [
+    "High school teacher",
+    "Middle school teacher",
+    "Department chair",
+    "Instructional coach",
+    "Tutor",
+    "Curriculum specialist",
+    "School counselor (with master's degree)"
+  ]
+}

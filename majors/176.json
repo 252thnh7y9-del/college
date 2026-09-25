@@ -1,0 +1,19 @@
+{
+  "id": 176,
+  "name": "Mechanical Engineering",
+  "departmentIds": [
+    42
+  ],
+  "summary": "Mechanical Engineering designs and builds machines and mechanical systems, from engines and robots to heating systems and medical devices. It is one of the broadest engineering disciplines.",
+  "description": "Mechanical Engineering majors take math and physics foundations and then study statics, dynamics, mechanics of materials, thermodynamics, fluid mechanics, heat transfer, machine design, manufacturing processes, and control systems. They use CAD software such as SolidWorks, analysis tools such as finite element analysis, and hands-on machine shop and lab work. Electives can cover robotics, automotive engineering, energy systems, HVAC, and biomechanics. Senior capstone projects involve designing and building a working product. Graduates work in automotive, aerospace, energy, manufacturing, robotics, and consumer product industries.",
+  "jobs": [
+    "Mechanical engineer",
+    "Design engineer",
+    "Manufacturing engineer",
+    "HVAC engineer",
+    "Automotive engineer",
+    "Robotics engineer",
+    "Energy engineer",
+    "Product development engineer"
+  ]
+}

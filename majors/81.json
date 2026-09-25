@@ -1,0 +1,19 @@
+{
+  "id": 81,
+  "name": "Film Studies",
+  "departmentIds": [
+    17
+  ],
+  "summary": "Film Studies examines movies as art, culture, and industry. Students analyze films from around the world and learn film history and theory.",
+  "description": "Film Studies majors watch and analyze films closely, learning the language of cinema: shot composition, editing, sound, mise-en-scène, and narrative structure. They study film history from silent cinema and classical Hollywood through international new waves and contemporary global and streaming media, and they explore genres, national cinemas, documentary, and experimental film. Film theory courses examine questions of authorship, spectatorship, representation, and ideology. Many programs include some hands-on production or screenwriting. Students write critical and research papers throughout. Graduates work in film criticism, programming and festivals, distribution, archives, media production, and education.",
+  "jobs": [
+    "Film critic",
+    "Festival programmer",
+    "Film archivist",
+    "Development assistant",
+    "Distribution coordinator",
+    "Content acquisitions associate",
+    "Media educator",
+    "Production assistant"
+  ]
+}

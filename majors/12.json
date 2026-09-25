@@ -1,0 +1,19 @@
+{
+  "id": 12,
+  "name": "Theology",
+  "departmentIds": [
+    5
+  ],
+  "summary": "Theology is the study of religious belief from within a faith tradition, most often Christianity. Students examine doctrine, scripture, church history, and ethics, often in preparation for ministry.",
+  "description": "Theology programs, commonly found at religiously affiliated colleges, study the nature of God, faith, and religious practice using the texts and reasoning of a particular tradition. Coursework usually covers systematic theology, biblical studies, church history, Christian ethics, sacramental or liturgical theology, and the history of theological thought, often with study of biblical Greek or Hebrew. Many programs include ministry practicums, pastoral care, or youth ministry concentrations. Students learn to interpret texts, make careful arguments, and connect doctrine to contemporary moral and social questions. Graduates often continue to seminary or divinity school, or work in churches, religious schools, and faith-based organizations.",
+  "jobs": [
+    "Pastor or minister (with seminary)",
+    "Youth minister",
+    "Chaplain",
+    "Religious education director",
+    "Missionary",
+    "Faith-based nonprofit staff",
+    "Teacher at religious school",
+    "Counselor"
+  ]
+}

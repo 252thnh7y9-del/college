@@ -1,0 +1,19 @@
+{
+  "id": 148,
+  "name": "Environmental Studies",
+  "departmentIds": [
+    32
+  ],
+  "summary": "Environmental Studies examines the relationship between people and the environment from social, political, economic, and ethical perspectives. It focuses on solving environmental problems through policy and action.",
+  "description": "Environmental Studies differs from environmental science by emphasizing the human dimensions of environmental issues. Students take some natural science, but most coursework draws on the social sciences and humanities: environmental policy and law, environmental economics, environmental justice, sustainable development, environmental history and ethics, and communication. Topics include climate change, energy, food systems, conservation, and urban sustainability. Many programs require internships or community projects. Graduates work in environmental advocacy, policy, sustainability, education, and nonprofit and government roles.",
+  "jobs": [
+    "Sustainability coordinator",
+    "Environmental policy analyst",
+    "Environmental educator",
+    "Advocacy coordinator",
+    "Conservation program manager",
+    "Environmental journalist",
+    "Community outreach specialist",
+    "Environmental planner"
+  ]
+}

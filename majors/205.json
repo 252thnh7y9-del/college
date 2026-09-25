@@ -1,0 +1,19 @@
+{
+  "id": 205,
+  "name": "Entrepreneurship",
+  "departmentIds": [
+    53
+  ],
+  "summary": "Entrepreneurship teaches students to create, launch, and grow new businesses and ventures. The major combines business fundamentals with innovation and opportunity recognition.",
+  "description": "Entrepreneurship majors learn how to identify opportunities, test ideas with customers, write business plans, raise capital, and grow ventures. Coursework covers new venture creation, innovation and design thinking, entrepreneurial finance and venture capital, small business management, family business, social entrepreneurship, and business law, along with the core business curriculum. Many programs feature startup incubators, pitch competitions, and mentorship from entrepreneurs, and some students launch businesses while in school. Graduates start companies, join startups, or bring entrepreneurial thinking to established companies.",
+  "jobs": [
+    "Startup founder",
+    "Small business owner",
+    "Business development manager",
+    "Product manager",
+    "Venture capital analyst",
+    "Innovation consultant",
+    "Franchise owner",
+    "Startup operations associate"
+  ]
+}

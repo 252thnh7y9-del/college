@@ -1,0 +1,19 @@
+{
+  "id": 19,
+  "name": "Latin",
+  "departmentIds": [
+    6
+  ],
+  "summary": "Latin majors learn to read the language of ancient Rome and study its literature, history, and influence. Students progress from grammar to reading authors such as Virgil, Cicero, and Ovid in the original.",
+  "description": "A Latin major focuses on mastering the Latin language and reading its literature across two thousand years, from the Roman Republic through the medieval church and Renaissance humanism. After foundational grammar courses, students take advanced reading courses on poetry, prose, oratory, and history, and learn prose composition and meter. Courses on Roman history and culture provide context. Studying Latin strengthens understanding of English vocabulary and grammar and the Romance languages, and it trains unusually precise reading. There is steady demand for Latin teachers in middle and high schools, and the major is also excellent preparation for law, medicine, and graduate work in classics or medieval studies.",
+  "jobs": [
+    "Latin teacher",
+    "Classics tutor",
+    "Editor",
+    "Translator",
+    "Archivist",
+    "Attorney (with law degree)",
+    "Librarian (with MLS)",
+    "Professor (with graduate degree)"
+  ]
+}

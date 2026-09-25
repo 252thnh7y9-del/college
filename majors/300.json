@@ -1,0 +1,19 @@
+{
+  "id": 300,
+  "name": "Landscape Architecture",
+  "departmentIds": [
+    77
+  ],
+  "summary": "Landscape Architecture designs outdoor spaces such as parks, campuses, streetscapes, gardens, and restored ecosystems. Landscape architects combine design, ecology, and planning.",
+  "description": "Landscape Architecture majors take design studios in which they plan outdoor spaces at scales from small gardens to entire regions. Coursework covers landscape history, plants and planting design, site grading and drainage, construction materials, ecology, stormwater management, GIS, and digital design tools. Sustainability and climate resilience are central themes. Accredited programs, typically a Bachelor of Landscape Architecture, lead toward professional licensure after experience and exams. Graduates work for landscape architecture firms, planning agencies, parks departments, and development companies.",
+  "jobs": [
+    "Landscape architect (with licensure)",
+    "Landscape designer",
+    "Park planner",
+    "Urban designer",
+    "Site planner",
+    "Green infrastructure specialist",
+    "Ecological restoration designer",
+    "Campus planner"
+  ]
+}

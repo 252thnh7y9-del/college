@@ -1,0 +1,20 @@
+{
+  "id": 42,
+  "name": "Museum Studies",
+  "departmentIds": [
+    11,
+    3
+  ],
+  "summary": "Museum Studies prepares students to work in museums, galleries, and cultural institutions. The major covers how collections are acquired, cared for, interpreted, and shared with the public.",
+  "description": "Museum Studies combines coursework in art history, history, anthropology, or science with the practical side of running cultural institutions. Students learn about the history and ethics of museums, collections management and registration, conservation basics, exhibit planning and design, museum education, digital collections, and nonprofit fundraising and administration. Issues such as repatriation of cultural objects, accessibility, and community engagement are central topics. Internships at museums, archives, zoos, historic houses, or galleries are usually required, giving students hands-on experience with objects and visitors. Graduates enter entry-level museum roles or continue to graduate programs in museum studies, conservation, or library science.",
+  "jobs": [
+    "Museum registrar",
+    "Collections assistant",
+    "Exhibit designer",
+    "Museum educator",
+    "Visitor services manager",
+    "Development associate",
+    "Archivist",
+    "Gallery manager"
+  ]
+}

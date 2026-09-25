@@ -1,0 +1,20 @@
+{
+  "id": 40,
+  "name": "Translation & Interpretation",
+  "departmentIds": [
+    7,
+    10
+  ],
+  "summary": "Translation and Interpretation trains students to convert written and spoken language accurately between two or more languages. Students build advanced language skills and professional techniques for translating and interpreting.",
+  "description": "This major assumes strong ability in at least two languages and trains students to transfer meaning between them. Translation courses cover literary, legal, medical, technical, and business translation, along with terminology management and computer-assisted translation tools. Interpretation courses teach consecutive and simultaneous interpreting, sight translation, and note-taking. Students study translation theory, ethics, and the cultural issues that affect meaning, and they complete projects or internships with real clients. Graduates can work as freelance or staff translators, court and medical interpreters, and localization specialists for software and games, and can pursue professional certification.",
+  "jobs": [
+    "Translator",
+    "Medical interpreter",
+    "Court interpreter",
+    "Conference interpreter",
+    "Localization specialist",
+    "Subtitler",
+    "Project manager (language services)",
+    "Terminologist"
+  ]
+}

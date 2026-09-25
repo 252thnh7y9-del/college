@@ -1,0 +1,21 @@
+{
+  "id": 105,
+  "name": "Urban Studies",
+  "departmentIds": [
+    78,
+    23,
+    24
+  ],
+  "summary": "Urban Studies examines cities: how they grow, how they function, and the challenges they face. Students study housing, transportation, inequality, and urban policy.",
+  "description": "Urban Studies is an interdisciplinary major that draws on sociology, geography, economics, political science, history, and planning. Students study the history of cities, urban economics, housing and neighborhood change, transportation, urban politics and governance, race and segregation, environmental sustainability, and community development. Many programs use the surrounding city as a classroom through fieldwork, community-based projects, and internships with city agencies or nonprofits. Students learn research methods including GIS and data analysis. Graduates work in urban planning, community development, housing, transportation, policy, and real estate.",
+  "jobs": [
+    "Urban planner",
+    "Community development specialist",
+    "Housing policy analyst",
+    "Transportation planner",
+    "Economic development coordinator",
+    "Real estate analyst",
+    "Community organizer",
+    "City government staff"
+  ]
+}

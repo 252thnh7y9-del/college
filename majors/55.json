@@ -1,0 +1,20 @@
+{
+  "id": 55,
+  "name": "Graphic Design",
+  "departmentIds": [
+    13,
+    12
+  ],
+  "summary": "Graphic Design majors learn to communicate ideas visually through typography, imagery, layout, and branding. Students design for print, web, and digital media.",
+  "description": "Graphic Design programs teach the principles of visual communication: typography, color, composition, grids, and visual hierarchy. Students design logos and brand identities, posters, publications, packaging, websites, and interfaces, using industry software such as Adobe Creative Cloud and Figma. Courses in design history, motion graphics, and user experience broaden the skill set, and projects are critiqued as in a professional studio. Many programs are BFA degrees with a strong emphasis on building a professional portfolio, and internships are common. Graduates work in design studios, advertising agencies, in-house marketing teams, publishing, and technology companies.",
+  "jobs": [
+    "Graphic designer",
+    "Brand designer",
+    "Art director",
+    "UI designer",
+    "Packaging designer",
+    "Marketing designer",
+    "Motion graphics designer",
+    "Production artist"
+  ]
+}

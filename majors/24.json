@@ -1,0 +1,19 @@
+{
+  "id": 24,
+  "name": "Italian",
+  "departmentIds": [
+    7
+  ],
+  "summary": "Italian majors learn the Italian language and study the literature, art, film, and culture of Italy. Students explore works from Dante and the Renaissance to modern Italian cinema and society.",
+  "description": "Italian majors build language skills through grammar, conversation, and composition, then study Italian culture in the original language. Courses often cover Dante, Petrarch, and Boccaccio, the Renaissance, opera, the Risorgimento, Italian cinema, and contemporary Italian society, as well as the Italian American experience. Because of Italy's influence on art, architecture, music, food, and fashion, the major pairs naturally with art history, music, architecture, and business. Most programs strongly encourage study abroad in Italy. Graduates develop cultural fluency and communication skills useful in teaching, tourism, international business, the arts, and translation.",
+  "jobs": [
+    "Italian teacher",
+    "Translator",
+    "Tour director",
+    "International business associate",
+    "Museum or gallery assistant",
+    "Import and export specialist",
+    "Hospitality professional",
+    "Cultural program coordinator"
+  ]
+}

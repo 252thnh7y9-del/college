@@ -1,0 +1,20 @@
+{
+  "id": 202,
+  "name": "Personal Financial Planning",
+  "departmentIds": [
+    52,
+    81
+  ],
+  "summary": "Personal Financial Planning prepares students to help individuals and families manage their money, including budgeting, investing, taxes, insurance, retirement, and estate planning. Programs typically prepare graduates for the CFP certification.",
+  "description": "Personal Financial Planning majors study investments, retirement planning, tax planning, insurance and risk management, estate planning, and employee benefits, along with the financial planning process and professional ethics. They also learn client communication and the psychology of financial behavior. Many programs are registered with the CFP Board, allowing graduates to sit for the Certified Financial Planner exam. Students practice building comprehensive financial plans for case clients. Graduates work at financial planning firms, wealth management and brokerage firms, banks, and insurance companies.",
+  "jobs": [
+    "Financial planner",
+    "Wealth management associate",
+    "Financial advisor",
+    "Retirement plan specialist",
+    "Paraplanner",
+    "Trust officer",
+    "Insurance advisor",
+    "Estate planning specialist"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 217,
+  "name": "Sport Management",
+  "departmentIds": [
+    60,
+    53
+  ],
+  "summary": "Sport Management prepares students for careers in the business of sports, including teams, leagues, facilities, and events. The major combines business with sports industry knowledge.",
+  "description": "Sport Management majors study sport marketing, sponsorship, finance and economics, facility and event management, sport law, sport governance, ticket sales, and media and communications. They also take core business courses. Internships with professional teams, college athletics departments, recreation organizations, and sports agencies are central to the program and to building connections in a competitive industry. Graduates work in athletic administration, sports marketing, ticketing, event operations, facility management, and sports agencies.",
+  "jobs": [
+    "Athletic director",
+    "Sports marketing coordinator",
+    "Ticket sales representative",
+    "Event operations manager",
+    "Facility manager",
+    "Sports agent",
+    "Community relations coordinator",
+    "Recreation director"
+  ]
+}

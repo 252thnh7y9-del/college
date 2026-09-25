@@ -1,0 +1,20 @@
+{
+  "id": 84,
+  "name": "Radio, Television & Digital Media",
+  "departmentIds": [
+    17,
+    68
+  ],
+  "summary": "Radio, Television and Digital Media prepares students to create and produce content for broadcast, streaming, and online platforms. The major combines production skills with media industry knowledge.",
+  "description": "This major covers production for audio and video media, including studio and field television production, radio and podcast production, digital video, and live broadcasting. Students learn to write for broadcast, operate cameras and control rooms, edit audio and video, and produce content for social media and streaming. Coursework also examines media industries, regulation, audience research, and the economics of broadcasting and streaming. Many students work at campus radio and television stations. Graduates work in television and radio stations, streaming services, podcast networks, and corporate and digital media production.",
+  "jobs": [
+    "Television producer",
+    "Podcast producer",
+    "Radio host",
+    "Video editor",
+    "Broadcast technician",
+    "Digital content producer",
+    "Promotions producer",
+    "Camera operator"
+  ]
+}

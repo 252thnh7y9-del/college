@@ -1,0 +1,19 @@
+{
+  "id": 142,
+  "name": "Biophysics",
+  "departmentIds": [
+    30,
+    28
+  ],
+  "summary": "Biophysics applies the methods of physics to understand biological systems, from protein structures to how cells move. It combines physics, biology, and chemistry.",
+  "description": "Biophysics majors study living systems using the quantitative tools of physics. Coursework combines physics (mechanics, electromagnetism, thermodynamics, and quantum mechanics), chemistry, biochemistry, and molecular biology with specialized biophysics courses on protein folding and structure, membrane biophysics, molecular motors, and biomechanics. Students learn techniques such as X-ray crystallography, spectroscopy, microscopy, and computational modeling. The major is excellent preparation for graduate research, medical school, and careers in biotechnology, pharmaceutical research, and medical imaging.",
+  "jobs": [
+    "Research scientist",
+    "Biophysics lab technician",
+    "Medical physicist (with graduate degree)",
+    "Pharmaceutical researcher",
+    "Biomedical imaging specialist",
+    "Data scientist",
+    "Physician (with medical degree)"
+  ]
+}

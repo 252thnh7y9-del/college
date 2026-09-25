@@ -1,0 +1,19 @@
+{
+  "id": 270,
+  "name": "Journalism",
+  "departmentIds": [
+    68
+  ],
+  "summary": "Journalism prepares students to find, verify, and report news and stories for print, broadcast, and digital audiences. The major emphasizes reporting, writing, and media ethics.",
+  "description": "Journalism majors learn news reporting and writing, interviewing, editing, feature and investigative writing, data journalism, multimedia storytelling with photos, video, and audio, and media law and ethics. They cover real stories for campus newspapers, radio and TV stations, and websites, and many complete internships at news organizations. Courses often cover specialized beats such as politics, sports, business, or science. The media industry is changing rapidly, so students also learn audience engagement and digital publishing. Graduates work as reporters, editors, and producers, and in communications and content roles.",
+  "jobs": [
+    "Reporter",
+    "Editor",
+    "Multimedia journalist",
+    "Investigative journalist",
+    "Copy editor",
+    "News producer",
+    "Content writer",
+    "Communications specialist"
+  ]
+}

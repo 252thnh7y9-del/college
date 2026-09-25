@@ -1,0 +1,20 @@
+{
+  "id": 118,
+  "name": "Russian & East European Studies",
+  "departmentIds": [
+    26,
+    7
+  ],
+  "summary": "Russian and East European Studies examines the history, politics, languages, and cultures of Russia, Ukraine, Central Europe, the Balkans, and Central Asia. The major combines language study with regional expertise.",
+  "description": "This interdisciplinary major covers the region from the Baltic to Central Asia. Students study the Russian Empire, the Soviet Union and communism, the Cold War, the collapse of the USSR, and the post-communist transitions of countries such as Ukraine, Poland, and the Balkans, along with literature, film, and religion. Language study in Russian or another regional language, such as Ukrainian, Polish, or Czech, is required. The region's strategic importance makes the major valuable for careers in government, intelligence, diplomacy, journalism, energy, and international business.",
+  "jobs": [
+    "Intelligence analyst",
+    "Foreign service officer",
+    "Policy analyst",
+    "Journalist",
+    "Translator",
+    "International business associate",
+    "Think tank researcher",
+    "Defense analyst"
+  ]
+}

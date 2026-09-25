@@ -1,0 +1,19 @@
+{
+  "id": 79,
+  "name": "Theatre Design & Technology",
+  "departmentIds": [
+    15
+  ],
+  "summary": "Theatre Design and Technology prepares students to create the visual and technical world of productions, including sets, lighting, costumes, sound, and projections. The major also covers stage management and technical direction.",
+  "description": "Students in this program learn drafting and rendering, scenic construction, lighting design and programming, costume design and construction, sound design, and projection design, using software such as Vectorworks, AutoCAD, and lighting consoles. They work on crews and in design roles for campus productions, gaining practical experience with deadlines and budgets. Many programs offer tracks in stage management and technical direction. Portfolio reviews track progress, and internships with regional theatres or entertainment companies are common. Graduates work in theatre, opera, dance, concerts, theme parks, television, film, and live events.",
+  "jobs": [
+    "Lighting designer",
+    "Scenic designer",
+    "Costume designer",
+    "Sound designer",
+    "Technical director",
+    "Stage manager",
+    "Production electrician",
+    "Props master"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 63,
+  "name": "User Experience & Interaction Design",
+  "departmentIds": [
+    13,
+    50
+  ],
+  "summary": "User Experience and Interaction Design teaches students to design digital products that are useful, usable, and enjoyable. The major covers user research, interface design, prototyping, and usability testing.",
+  "description": "UX and Interaction Design majors learn a human-centered design process: researching users through interviews and observation, defining problems, sketching and prototyping solutions, and testing them with real people. Coursework includes interaction design, information architecture, visual and interface design, accessibility, and design systems, using tools such as Figma. Students also study cognitive psychology and human-computer interaction, and many learn front-end coding basics. Team projects, often with real clients, build a portfolio of case studies. Graduates work as UX designers, product designers, and researchers at technology companies, agencies, and organizations building digital services.",
+  "jobs": [
+    "UX designer",
+    "Product designer",
+    "UX researcher",
+    "Interaction designer",
+    "UI designer",
+    "Information architect",
+    "Accessibility specialist",
+    "Service designer"
+  ]
+}

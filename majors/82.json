@@ -1,0 +1,19 @@
+{
+  "id": 82,
+  "name": "Film Production",
+  "departmentIds": [
+    17
+  ],
+  "summary": "Film Production majors learn to make films, from screenwriting and directing to cinematography, editing, and sound. Students work in crews to produce their own short films.",
+  "description": "Film Production programs are hands-on. Students learn camera operation, lighting, sound recording, directing actors, producing, and editing with professional software such as Avid, Premiere Pro, and DaVinci Resolve. They move from short exercises to increasingly ambitious projects, rotating through crew roles, and many complete a thesis film. Coursework in film history, screenwriting, and aesthetics supports the practical training. Students also learn production management, budgeting, and scheduling. Graduates build a reel and professional network and work in film and television production, commercials, corporate video, and digital content.",
+  "jobs": [
+    "Director",
+    "Cinematographer",
+    "Film editor",
+    "Producer",
+    "Production assistant",
+    "Camera operator",
+    "Gaffer",
+    "Assistant director"
+  ]
+}

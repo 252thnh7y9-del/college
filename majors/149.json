@@ -1,0 +1,19 @@
+{
+  "id": 149,
+  "name": "Sustainability Studies",
+  "departmentIds": [
+    32
+  ],
+  "summary": "Sustainability Studies examines how societies can meet current needs without harming future generations. The major combines environmental, social, and economic perspectives.",
+  "description": "Sustainability Studies majors explore how to balance environmental health, economic prosperity, and social equity. Coursework covers climate change, renewable energy, sustainable business, food and agriculture, water resources, green building, urban sustainability, environmental justice, and systems thinking. Students learn tools such as life cycle assessment, carbon accounting, and sustainability reporting, and they often work on campus or community sustainability projects. Graduates work as sustainability coordinators and consultants for companies, governments, universities, and nonprofits, and in energy and environmental organizations.",
+  "jobs": [
+    "Sustainability coordinator",
+    "ESG analyst",
+    "Sustainability consultant",
+    "Energy analyst",
+    "Corporate social responsibility specialist",
+    "Environmental program manager",
+    "Green building consultant",
+    "Recycling program coordinator"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 86,
+  "name": "Anthropology",
+  "departmentIds": [
+    18
+  ],
+  "summary": "Anthropology is the study of human beings across time and place, including culture, biology, language, and the material past. Students learn to understand human diversity from a holistic perspective.",
+  "description": "American anthropology traditionally includes four subfields: cultural anthropology, which studies living societies through fieldwork; archaeology, which studies past societies through material remains; biological anthropology, which studies human evolution and variation; and linguistic anthropology, which studies language in social life. Majors take courses in each and then focus on topics such as medical anthropology, globalization, kinship, religion, or environmental anthropology. Students learn ethnographic methods such as participant observation and interviewing, and many conduct their own research projects. The major develops cultural awareness and qualitative research skills useful in public health, international development, business, and government.",
+  "jobs": [
+    "UX researcher",
+    "Cultural resource management specialist",
+    "Market researcher",
+    "Public health program coordinator",
+    "International development worker",
+    "Museum professional",
+    "Social services caseworker",
+    "Professor (with graduate degree)"
+  ]
+}

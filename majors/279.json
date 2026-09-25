@@ -1,0 +1,19 @@
+{
+  "id": 279,
+  "name": "Dairy Science",
+  "departmentIds": [
+    69,
+    72
+  ],
+  "summary": "Dairy Science studies the production of milk and dairy products, including dairy cattle management and dairy processing. The major combines animal science, food science, and business.",
+  "description": "Dairy Science majors study dairy cattle nutrition, genetics, reproduction, health, and herd management, as well as milk quality, dairy product processing, and dairy farm business management. Courses may also cover dairy manufacturing of cheese, yogurt, and ice cream, and the economics of dairy markets. Students gain hands-on experience at university dairy farms and processing plants. Graduates manage dairy farms, work for feed, genetics, and equipment companies, and fill roles in dairy processing, quality assurance, and agricultural extension.",
+  "jobs": [
+    "Dairy herd manager",
+    "Dairy nutritionist",
+    "Dairy processing manager",
+    "Quality assurance specialist",
+    "Genetics sales representative",
+    "Extension agent",
+    "Farm business consultant"
+  ]
+}

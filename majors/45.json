@@ -1,0 +1,19 @@
+{
+  "id": 45,
+  "name": "Studio Art",
+  "departmentIds": [
+    12
+  ],
+  "summary": "Studio Art majors create original artwork in media such as painting, drawing, sculpture, printmaking, photography, and digital art. The major balances hands-on studio practice with art history and critique.",
+  "description": "Studio Art is typically offered as a Bachelor of Arts that combines art-making with a broad liberal arts education. Students take foundation courses in drawing, two- and three-dimensional design, and color, then explore several media before concentrating in one or two. Regular critiques teach students to discuss their own work and others' thoughtfully. Art history and contemporary art courses provide context, and many programs include professional practice courses on portfolios, exhibitions, and grant writing. The major usually ends with a senior exhibition. Graduates build a portfolio and creative problem-solving skills that lead to careers as practicing artists, designers, educators, and arts professionals.",
+  "jobs": [
+    "Professional artist",
+    "Graphic designer",
+    "Illustrator",
+    "Gallery assistant",
+    "Art teacher (with licensure)",
+    "Arts program coordinator",
+    "Museum preparator",
+    "Art director"
+  ]
+}

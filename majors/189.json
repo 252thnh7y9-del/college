@@ -1,0 +1,21 @@
+{
+  "id": 189,
+  "name": "Geological Engineering",
+  "departmentIds": [
+    46,
+    31,
+    39
+  ],
+  "summary": "Geological Engineering applies geology and engineering to projects involving the Earth, such as foundations, tunnels, slopes, groundwater, and resources. It sits between civil engineering and geology.",
+  "description": "Geological Engineering majors study geology, including mineralogy, structural geology, and geomorphology, alongside engineering courses in soil and rock mechanics, hydrogeology, engineering geology, geophysics, and geotechnical design. They learn to assess ground conditions for construction, evaluate landslide and earthquake hazards, manage groundwater, and support mineral and energy development. Field camps and site investigations are part of the training. Graduates work for geotechnical and environmental consulting firms, mining and energy companies, and government agencies.",
+  "jobs": [
+    "Geological engineer",
+    "Geotechnical engineer",
+    "Engineering geologist",
+    "Hydrogeologist",
+    "Environmental engineer",
+    "Mining engineer",
+    "Geohazards specialist",
+    "Tunneling engineer"
+  ]
+}

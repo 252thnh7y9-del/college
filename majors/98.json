@@ -1,0 +1,19 @@
+{
+  "id": 98,
+  "name": "Psychology",
+  "departmentIds": [
+    22
+  ],
+  "summary": "Psychology is the scientific study of the mind and behavior. Students learn how people think, feel, learn, develop, and interact, and how psychologists study these processes.",
+  "description": "Psychology majors take courses across the discipline: biological psychology, cognition, development across the lifespan, social psychology, personality, and abnormal psychology, along with statistics and research methods. They learn to design experiments, analyze data, and evaluate research critically. Electives may include clinical, health, industrial-organizational, forensic, or positive psychology. Many students gain research experience in faculty labs or complete internships in clinical or community settings. Becoming a licensed psychologist or counselor requires graduate school, but a bachelor's degree leads to jobs in human services, human resources, research, marketing, and business.",
+  "jobs": [
+    "Research assistant",
+    "Case manager",
+    "Human resources specialist",
+    "Behavioral technician",
+    "Market research analyst",
+    "Psychiatric technician",
+    "Counselor (with master's degree)",
+    "Psychologist (with doctorate)"
+  ]
+}

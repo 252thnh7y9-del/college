@@ -1,0 +1,21 @@
+{
+  "id": 216,
+  "name": "Labor & Industrial Relations",
+  "departmentIds": [
+    53,
+    19,
+    23
+  ],
+  "summary": "Labor and Industrial Relations studies the relationship between employers, workers, and unions. Students learn about labor law, collective bargaining, and workplace policies.",
+  "description": "Labor and Industrial Relations majors draw on economics, sociology, law, history, and management to understand the world of work. Coursework covers labor history, labor economics, employment and labor law, collective bargaining and negotiation, dispute resolution and arbitration, human resources, workplace diversity, and occupational safety. Students examine issues such as wages, unions, globalization, and the changing nature of work. Graduates work as labor relations specialists, union representatives, HR professionals, mediators, and in government agencies that enforce workplace laws.",
+  "jobs": [
+    "Labor relations specialist",
+    "Union representative",
+    "Human resources specialist",
+    "Mediator or arbitrator",
+    "Compensation analyst",
+    "Workforce policy analyst",
+    "Equal employment opportunity officer",
+    "Attorney (with law degree)"
+  ]
+}

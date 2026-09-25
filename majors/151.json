@@ -1,0 +1,19 @@
+{
+  "id": 151,
+  "name": "Mathematics",
+  "departmentIds": [
+    33
+  ],
+  "summary": "Mathematics studies numbers, structures, patterns, and change, using logical reasoning and proof. The major builds problem-solving skills that apply across science, technology, and business.",
+  "description": "Mathematics majors take calculus, linear algebra, and differential equations, then move to proof-based courses such as abstract algebra, real analysis, and topology. Electives may include number theory, probability, statistics, combinatorics, numerical analysis, and mathematical modeling. Many programs offer pure and applied tracks and teaching certification options. Students learn to reason rigorously and to break complex problems into manageable parts, and many also learn programming. Math graduates work in data science, finance, actuarial science, software, government, and education, and many pursue graduate study.",
+  "jobs": [
+    "Data scientist",
+    "Actuary",
+    "Mathematics teacher",
+    "Quantitative analyst",
+    "Operations research analyst",
+    "Cryptographer",
+    "Software developer",
+    "Statistician"
+  ]
+}

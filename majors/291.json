@@ -1,0 +1,19 @@
+{
+  "id": 291,
+  "name": "Agricultural Education",
+  "departmentIds": [
+    75,
+    57
+  ],
+  "summary": "Agricultural Education prepares students to teach agriculture in middle and high schools and to lead FFA programs. It also prepares students for extension and agricultural outreach careers.",
+  "description": "Agricultural Education majors take coursework across agricultural sciences, including animal science, plant and soil science, agricultural mechanics, and agribusiness, along with education courses in teaching methods, program planning, and classroom and laboratory management. They learn to lead FFA chapters and supervise students' agricultural experience projects. Field experience and student teaching lead to licensure to teach agriculture. Agriculture teachers are in short supply nationally. Graduates also work as extension educators and in agricultural companies and organizations.",
+  "jobs": [
+    "Agriculture teacher",
+    "FFA advisor",
+    "Extension educator",
+    "4-H program coordinator",
+    "Agricultural communications specialist",
+    "Agricultural sales representative",
+    "Youth program director"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 302,
+  "name": "Social Work",
+  "departmentIds": [
+    79
+  ],
+  "summary": "Social Work prepares students to help individuals, families, and communities cope with challenges and to advocate for social justice. The Bachelor of Social Work (BSW) leads to entry-level professional practice.",
+  "description": "Social Work majors study human behavior and the social environment, social welfare policy, social work practice with individuals, families, groups, and communities, research methods, and diversity and social justice. They learn skills such as assessment, case management, crisis intervention, and advocacy. Accredited BSW programs require a supervised field placement of several hundred hours in an agency such as a child welfare office, hospital, school, or community organization. BSW graduates can practice at the generalist level and may earn advanced standing in Master of Social Work programs, which are required for clinical licensure.",
+  "jobs": [
+    "Child welfare caseworker",
+    "Case manager",
+    "Medical social worker assistant",
+    "Community outreach worker",
+    "Family services specialist",
+    "Youth services worker",
+    "Clinical social worker (with MSW)",
+    "School social worker (with MSW)"
+  ]
+}

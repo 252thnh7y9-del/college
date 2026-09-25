@@ -1,0 +1,19 @@
+{
+  "id": 194,
+  "name": "Fire Protection Engineering",
+  "departmentIds": [
+    48,
+    39
+  ],
+  "summary": "Fire Protection Engineering applies science and engineering to protect people, property, and the environment from fire. Students learn how fires behave and how to design buildings and systems that prevent and control them.",
+  "description": "Fire Protection Engineering majors study fire dynamics, combustion, heat transfer, fluid mechanics, fire suppression systems such as sprinklers, fire detection and alarm systems, smoke management, building codes, and human behavior and evacuation in fires. They learn to use fire modeling software and perform performance-based design and fire risk analysis. The field is small but in demand, and few universities offer the major. Graduates work for engineering consulting firms, insurance companies, fire departments and code agencies, and industrial facilities.",
+  "jobs": [
+    "Fire protection engineer",
+    "Fire safety consultant",
+    "Fire code official",
+    "Loss control engineer",
+    "Fire investigator",
+    "Life safety engineer",
+    "Risk engineer"
+  ]
+}

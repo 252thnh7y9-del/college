@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "name": "Public History",
+  "departmentIds": [
+    3
+  ],
+  "summary": "Public History applies historical knowledge outside the classroom, in museums, archives, historic sites, and community projects. Students learn to research the past and share it with general audiences.",
+  "description": "Public History combines the research training of a history degree with the practical skills needed to present history to the public. Students take history courses along with classes in museum studies, archival management, oral history, historic preservation, digital history, and exhibit design. They learn how to catalog collections, conduct and preserve interviews, write interpretive text for exhibits, and build digital projects such as online archives and story maps. Internships at museums, archives, historical societies, national parks, or government agencies are usually required. Graduates are prepared for entry-level roles in cultural heritage institutions and for graduate programs in public history, library science, or museum studies.",
+  "jobs": [
+    "Museum educator",
+    "Archivist",
+    "Historic site interpreter",
+    "Collections assistant",
+    "Oral historian",
+    "Park ranger (interpretation)",
+    "Exhibit developer",
+    "Historical society director",
+    "Digital archivist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 123,
+  "name": "Molecular & Cellular Biology",
+  "departmentIds": [
+    28
+  ],
+  "summary": "Molecular and Cellular Biology studies life at the level of molecules and cells, including DNA, proteins, and how cells grow, divide, and communicate. The major emphasizes laboratory research.",
+  "description": "Molecular and Cellular Biology majors study the molecular machinery of life: how genes are expressed and regulated, how proteins fold and function, how cells signal to one another, and how these processes go wrong in diseases such as cancer. Coursework includes biochemistry, genetics, cell biology, molecular biology, developmental biology, and immunology, along with chemistry, physics, and math. Lab courses teach molecular cloning, gene editing with CRISPR, microscopy, and protein analysis, and many students join research labs. Graduates work in biotechnology and pharmaceutical research and are well prepared for medical, dental, and graduate school.",
+  "jobs": [
+    "Research technician",
+    "Biotechnology associate",
+    "Quality control analyst",
+    "Clinical laboratory scientist",
+    "Pharmaceutical research associate",
+    "Genetic counselor (with graduate degree)",
+    "Physician (with medical degree)",
+    "Research scientist (with doctorate)"
+  ]
+}

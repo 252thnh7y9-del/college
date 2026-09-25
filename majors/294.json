@@ -1,0 +1,20 @@
+{
+  "id": 294,
+  "name": "Natural Resource Management",
+  "departmentIds": [
+    73,
+    32
+  ],
+  "summary": "Natural Resource Management studies how to use and conserve land, water, forests, wildlife, and other resources sustainably. It balances ecological science with human needs and policy.",
+  "description": "Natural Resource Management majors study ecology, forestry, wildlife, soils, water resources, and environmental policy, along with natural resource economics, planning, GIS, and conflict resolution. They learn to manage public and private lands for multiple uses, such as recreation, grazing, timber, and conservation. Field courses and internships with agencies are common. The major prepares graduates to work for land management agencies such as the Forest Service, Bureau of Land Management, National Park Service, and state natural resource departments, as well as conservation nonprofits and consulting firms.",
+  "jobs": [
+    "Natural resource specialist",
+    "Park ranger",
+    "Conservation planner",
+    "Land manager",
+    "Environmental consultant",
+    "Watershed coordinator",
+    "Resource conservationist",
+    "GIS analyst"
+  ]
+}

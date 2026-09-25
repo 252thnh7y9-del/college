@@ -1,0 +1,20 @@
+{
+  "id": 308,
+  "name": "Child Development",
+  "departmentIds": [
+    81,
+    22
+  ],
+  "summary": "Child Development studies how children grow physically, cognitively, socially, and emotionally from birth through adolescence. The major prepares students to work with children and families.",
+  "description": "Child Development majors study infant and toddler development, early childhood, middle childhood, adolescence, language and cognitive development, social and emotional development, and the influence of families, culture, and schools. They learn observation and assessment methods and strategies for guiding children's behavior and learning. Field experiences take place in lab schools, childcare centers, hospitals, and community programs. Graduates work in early childhood programs, family services, and child advocacy, and many pursue careers as child life specialists, teachers, or therapists with further training.",
+  "jobs": [
+    "Preschool teacher",
+    "Child life specialist",
+    "Early intervention specialist",
+    "Childcare center director",
+    "Family support worker",
+    "Parent educator",
+    "Child advocate",
+    "Child psychologist (with doctorate)"
+  ]
+}

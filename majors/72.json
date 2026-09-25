@@ -1,0 +1,20 @@
+{
+  "id": 72,
+  "name": "Ethnomusicology",
+  "departmentIds": [
+    14,
+    18
+  ],
+  "summary": "Ethnomusicology studies music as a part of culture, examining how people around the world create, perform, and give meaning to music. It combines musical study with anthropology.",
+  "description": "Ethnomusicology majors study musical traditions from many cultures, such as West African drumming, Indonesian gamelan, Indian classical music, Latin American popular music, and American folk and hip-hop. They explore how music relates to religion, identity, politics, migration, and technology. Students learn fieldwork methods, including interviewing, recording, and participant observation, and often perform in world music ensembles. Coursework draws on music theory and history as well as anthropology and cultural studies. Graduates work in arts organizations, archives, cultural heritage, education, music journalism, and the music industry, and many continue to graduate study.",
+  "jobs": [
+    "Music archivist",
+    "Cultural program coordinator",
+    "Music journalist",
+    "Arts administrator",
+    "Music teacher",
+    "Record label researcher",
+    "Museum educator",
+    "Professor (with graduate degree)"
+  ]
+}

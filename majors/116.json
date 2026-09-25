@@ -1,0 +1,19 @@
+{
+  "id": 116,
+  "name": "South Asian Studies",
+  "departmentIds": [
+    26
+  ],
+  "summary": "South Asian Studies examines the history, religions, languages, and cultures of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and neighboring countries. Students often study a regional language such as Hindi, Urdu, or Sanskrit.",
+  "description": "South Asian Studies majors explore one of the world's most populous and diverse regions. Coursework covers ancient civilizations, Hinduism, Buddhism, Jainism, Sikhism, and Islam in South Asia, the Mughal Empire, British colonial rule, independence and partition, and contemporary politics, economics, and culture, including literature, film, and music. Language study in Hindi, Urdu, Bengali, Tamil, or Sanskrit is typically required. The major prepares graduates for careers in international business, diplomacy, development, journalism, and education, and for graduate study.",
+  "jobs": [
+    "International business associate",
+    "Foreign service officer",
+    "Policy analyst",
+    "Translator",
+    "International development worker",
+    "Journalist",
+    "Teacher",
+    "Professor (with graduate degree)"
+  ]
+}

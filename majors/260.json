@@ -1,0 +1,19 @@
+{
+  "id": 260,
+  "name": "Kinesiology",
+  "departmentIds": [
+    60
+  ],
+  "summary": "Kinesiology is the study of human movement, including how the body moves, adapts to exercise, and maintains health. The major is a common path to careers in health, fitness, and therapy.",
+  "description": "Kinesiology majors study anatomy, exercise physiology, biomechanics, motor control and learning, sport psychology, and exercise prescription, along with chemistry, biology, and physics. They learn how physical activity affects health and performance and how to assess fitness and design exercise programs. Lab courses use equipment to measure strength, oxygen consumption, and movement. Many students complete internships in clinical, fitness, or athletic settings. Graduates work in fitness and wellness, cardiac rehabilitation, and coaching, and many go on to physical therapy, occupational therapy, physician assistant, or medical school.",
+  "jobs": [
+    "Exercise physiologist",
+    "Strength and conditioning coach",
+    "Cardiac rehabilitation specialist",
+    "Personal trainer",
+    "Corporate wellness coordinator",
+    "Physical therapist (with DPT)",
+    "Occupational therapist (with graduate degree)",
+    "Physician assistant (with graduate degree)"
+  ]
+}

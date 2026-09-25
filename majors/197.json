@@ -1,0 +1,20 @@
+{
+  "id": 197,
+  "name": "Construction Management",
+  "departmentIds": [
+    49,
+    39
+  ],
+  "summary": "Construction Management prepares students to plan, coordinate, and oversee construction projects from start to finish. The major combines building knowledge with business and project management.",
+  "description": "Construction Management majors study construction methods and materials, estimating, scheduling, project management, construction law and contracts, safety, surveying, building codes, and structural and mechanical systems. They also take business courses in accounting, finance, and management, and they learn software for scheduling, estimating, and building information modeling. Internships with contractors are typically required, and students often compete in construction management competitions. Demand is strong, and graduates work for general contractors, specialty contractors, developers, and owners.",
+  "jobs": [
+    "Construction manager",
+    "Project manager",
+    "Estimator",
+    "Superintendent",
+    "Project engineer",
+    "Scheduler",
+    "Safety manager",
+    "Real estate development manager"
+  ]
+}

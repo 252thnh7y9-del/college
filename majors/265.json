@@ -1,0 +1,19 @@
+{
+  "id": 265,
+  "name": "Pharmaceutical Sciences",
+  "departmentIds": [
+    65
+  ],
+  "summary": "Pharmaceutical Sciences studies how drugs are discovered, developed, manufactured, and work in the body. The major prepares students for careers in the pharmaceutical industry and research.",
+  "description": "Pharmaceutical Sciences majors take biology, chemistry, and biochemistry along with courses in medicinal chemistry, pharmacology, pharmaceutics (how drugs are formulated and delivered), pharmacokinetics (how the body absorbs and processes drugs), toxicology, and drug regulation. Students gain lab experience in drug analysis and formulation. The major is distinct from the Doctor of Pharmacy (PharmD) degree required to practice as a pharmacist, though some students use it as a pathway into PharmD programs. Graduates work in pharmaceutical and biotechnology companies, research labs, and regulatory agencies.",
+  "jobs": [
+    "Pharmaceutical scientist",
+    "Formulation scientist",
+    "Quality control analyst",
+    "Clinical research associate",
+    "Regulatory affairs specialist",
+    "Pharmaceutical sales representative",
+    "Laboratory technician",
+    "Pharmacist (with PharmD)"
+  ]
+}

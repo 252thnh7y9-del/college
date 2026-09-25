@@ -1,0 +1,19 @@
+{
+  "id": 103,
+  "name": "Geography",
+  "departmentIds": [
+    24
+  ],
+  "summary": "Geography studies places and the relationships between people and their environments. It bridges the natural and social sciences and uses mapping and spatial analysis.",
+  "description": "Geography has two main branches. Physical geography studies landforms, climate, soils, water, and ecosystems. Human geography examines population, cities, economies, cultures, and political boundaries, and how they vary across space. Many programs emphasize environment and society, looking at issues such as climate change, natural hazards, and resource use. Geographers use distinctive tools, including maps, geographic information systems (GIS), remote sensing from satellites, and spatial statistics, and students gain hands-on technical skills. Fieldwork is common. Graduates work in GIS and mapping, urban and environmental planning, transportation, and government agencies.",
+  "jobs": [
+    "GIS analyst",
+    "Cartographer",
+    "Urban planner",
+    "Environmental consultant",
+    "Remote sensing analyst",
+    "Transportation planner",
+    "Location analyst",
+    "Geography teacher"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 168,
+  "name": "Electrical Engineering",
+  "departmentIds": [
+    40
+  ],
+  "summary": "Electrical Engineering studies electricity, electronics, and electromagnetism to design circuits, devices, and systems. Electrical engineers work on everything from microchips to power grids.",
+  "description": "Electrical Engineering majors take math and physics foundations and then study circuit analysis, electronics, digital logic, signals and systems, electromagnetics, and control systems. Upper-level courses let students specialize in areas such as power and energy systems, communications and signal processing, microelectronics and semiconductors, embedded systems, RF and wireless, or photonics. Lab work involves designing and building circuits and using oscilloscopes, simulation tools, and microcontrollers. A capstone design project is standard. Graduates work in electronics, power utilities, telecommunications, aerospace, automotive, and semiconductor industries.",
+  "jobs": [
+    "Electrical engineer",
+    "Power systems engineer",
+    "Electronics design engineer",
+    "Controls engineer",
+    "RF engineer",
+    "Embedded systems engineer",
+    "Semiconductor engineer",
+    "Test engineer"
+  ]
+}

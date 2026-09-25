@@ -1,0 +1,18 @@
+{
+  "id": 254,
+  "name": "Respiratory Therapy",
+  "departmentIds": [
+    63
+  ],
+  "summary": "Respiratory Therapy prepares students to care for patients with breathing problems, from asthma to critical illness. Respiratory therapists manage ventilators and provide life-saving treatments.",
+  "description": "Respiratory Therapy majors study cardiopulmonary anatomy and physiology, respiratory pharmacology, pulmonary disease, mechanical ventilation, airway management, oxygen and aerosol therapy, pulmonary function testing, and neonatal and pediatric respiratory care. Students complete clinical rotations in intensive care units, emergency departments, and outpatient settings. Graduates take national board exams from the NBRC to earn the Registered Respiratory Therapist (RRT) credential and state licensure. Respiratory therapists work in hospitals, sleep labs, long-term care, and home care.",
+  "jobs": [
+    "Respiratory therapist",
+    "Neonatal respiratory therapist",
+    "Critical care respiratory therapist",
+    "Pulmonary function technologist",
+    "Sleep technologist",
+    "Respiratory care manager",
+    "Clinical educator"
+  ]
+}

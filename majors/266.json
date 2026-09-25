@@ -1,0 +1,20 @@
+{
+  "id": 266,
+  "name": "Pharmacology & Toxicology",
+  "departmentIds": [
+    65,
+    28
+  ],
+  "summary": "Pharmacology and Toxicology study how drugs and chemicals affect living organisms, both beneficially and harmfully. Students learn how medicines work and how toxic substances cause harm.",
+  "description": "Pharmacology and Toxicology majors take biology, chemistry, biochemistry, and physiology, then study drug mechanisms, pharmacokinetics, receptor biology, neuropharmacology, toxicology of environmental and industrial chemicals, and risk assessment. Laboratory work teaches experimental methods used in drug development and safety testing. The field supports the development of new medicines and the regulation of chemicals in food, consumer products, and the environment. Graduates work in pharmaceutical research, contract research organizations, regulatory agencies, and environmental safety, and many pursue medical, pharmacy, or graduate school.",
+  "jobs": [
+    "Toxicologist",
+    "Pharmacology research associate",
+    "Clinical research associate",
+    "Regulatory toxicology specialist",
+    "Drug safety associate",
+    "Environmental health scientist",
+    "Forensic toxicologist",
+    "Pharmacist (with PharmD)"
+  ]
+}

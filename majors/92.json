@@ -1,0 +1,19 @@
+{
+  "id": 92,
+  "name": "Political Science",
+  "departmentIds": [
+    20
+  ],
+  "summary": "Political Science studies government, political behavior, and power. Students examine how political systems work at home and abroad and how public policy is made.",
+  "description": "Political Science majors typically study four main fields: American politics, including Congress, the presidency, courts, elections, and public opinion; comparative politics, which compares political systems around the world; international relations, which studies conflict, cooperation, and global institutions; and political theory, which examines ideas such as justice, liberty, and democracy. Students learn research methods, including statistics and survey analysis. Many take part in internships with legislators, campaigns, or advocacy groups, as well as Model UN or mock trial. The major is a leading path to law school and prepares graduates for careers in government, campaigns, policy, journalism, and advocacy.",
+  "jobs": [
+    "Legislative aide",
+    "Policy analyst",
+    "Campaign staffer",
+    "Attorney (with law degree)",
+    "Lobbyist",
+    "Government affairs specialist",
+    "Political consultant",
+    "Journalist"
+  ]
+}

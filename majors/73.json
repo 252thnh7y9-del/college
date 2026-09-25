@@ -1,0 +1,19 @@
+{
+  "id": 73,
+  "name": "Jazz Studies",
+  "departmentIds": [
+    14
+  ],
+  "summary": "Jazz Studies trains musicians in jazz performance, improvisation, composition, and arranging. Students study the history of jazz and play in combos and big bands.",
+  "description": "Jazz Studies majors take private lessons focused on jazz technique and improvisation, and they perform extensively in small combos and big bands. Coursework covers jazz theory and harmony, ear training, improvisation, jazz piano for all players, arranging and composition, and jazz history from New Orleans and swing through bebop, fusion, and contemporary styles. Students transcribe solos by major artists and learn standard repertoire. Many programs include recording and music business courses. Graduates perform as freelance and touring musicians, work as session players and arrangers, and teach privately or in schools.",
+  "jobs": [
+    "Jazz performer",
+    "Session musician",
+    "Arranger",
+    "Bandleader",
+    "Private instructor",
+    "Cruise ship musician",
+    "Music director",
+    "Jazz educator"
+  ]
+}
