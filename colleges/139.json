@@ -1,0 +1,12 @@
+{
+  "id": 139,
+  "name": "Lehigh University",
+  "city": "Bethlehem",
+  "state": "PA",
+  "undergraduates": 6000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.lehigh.edu",
+  "mascot": "Mountain Hawks",
+  "description": "A private research university in Bethlehem, Pennsylvania. It is known for engineering and business."
+}

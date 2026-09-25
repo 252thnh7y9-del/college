@@ -1,0 +1,12 @@
+{
+  "id": 132,
+  "name": "Colorado Technical University",
+  "short_name": "CTU",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "undergraduates": 26000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.coloradotech.edu",
+  "description": "A private for-profit university based in Colorado Springs that teaches most of its students online. It focuses on career-oriented degrees in business, technology, and healthcare."
+}

@@ -1,0 +1,11 @@
+{
+  "id": 133,
+  "name": "Full Sail University",
+  "city": "Winter Park",
+  "state": "FL",
+  "undergraduates": 25000,
+  "online_first": true,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.fullsail.edu",
+  "description": "A private for-profit university near Orlando focused on entertainment, media, and technology. It has a large campus with production studios, but most of its students study online."
+}

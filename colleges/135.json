@@ -1,0 +1,13 @@
+{
+  "id": 135,
+  "name": "University of Illinois Chicago",
+  "short_name": "UIC",
+  "city": "Chicago",
+  "state": "IL",
+  "undergraduates": 22000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.uic.edu",
+  "mascot": "Flames",
+  "description": "A public research university near downtown Chicago. It is known for health sciences, including one of the nation's largest medical schools, and a very diverse student body."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 138,
+  "name": "Case Western Reserve University",
+  "short_name": "CWRU",
+  "city": "Cleveland",
+  "state": "OH",
+  "undergraduates": 6000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://case.edu",
+  "mascot": "Spartans",
+  "description": "A private research university in Cleveland's University Circle. It is known for biomedical engineering, medicine, and the sciences."
+}

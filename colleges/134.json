@@ -1,0 +1,13 @@
+{
+  "id": 134,
+  "name": "University of Pittsburgh",
+  "short_name": "Pitt",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "undergraduates": 25000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.pitt.edu",
+  "mascot": "Panthers",
+  "description": "A public research university in Pittsburgh's Oakland neighborhood. It is known for medicine, health sciences, and its 42-story Cathedral of Learning."
+}

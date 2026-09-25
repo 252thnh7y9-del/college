@@ -1,0 +1,13 @@
+{
+  "id": 136,
+  "name": "Washington State University",
+  "short_name": "WSU",
+  "city": "Pullman",
+  "state": "WA",
+  "undergraduates": 22000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://wsu.edu",
+  "mascot": "Cougars",
+  "description": "Washington's land-grant research university, based in Pullman. It is known for veterinary medicine, agriculture, and engineering."
+}

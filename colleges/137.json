@@ -1,0 +1,12 @@
+{
+  "id": 137,
+  "name": "Villanova University",
+  "city": "Villanova",
+  "state": "PA",
+  "undergraduates": 7000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.villanova.edu",
+  "mascot": "Wildcats",
+  "description": "A private Catholic university in the Philadelphia suburbs, run by the Augustinian order. It is known for business, nursing, engineering, and its basketball program."
+}

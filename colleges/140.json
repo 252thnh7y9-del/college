@@ -1,0 +1,12 @@
+{
+  "id": 140,
+  "name": "Wake Forest University",
+  "city": "Winston-Salem",
+  "state": "NC",
+  "undergraduates": 5000,
+  "online_first": false,
+  "data_year": "Fall 2023",
+  "homepage_url": "https://www.wfu.edu",
+  "mascot": "Demon Deacons",
+  "description": "A private research university in Winston-Salem, North Carolina. It pairs a small-college feel with strong programs in business, law, and medicine."
+}
