@@ -106,6 +106,41 @@
 
   td.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
   .cname { font-weight: 600; }
+  button.cname {
+    all: unset; cursor: pointer; font-weight: 600; color: var(--ink);
+    text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px;
+  }
+  button.cname:hover { color: var(--accent); text-decoration-color: var(--accent); }
+  button.cname:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+  dialog#detail {
+    width: min(600px, calc(100vw - 32px));
+    max-height: calc(100dvh - 48px);
+    padding: 0; border: 1px solid var(--line); border-radius: 8px;
+    background: var(--surface); color: var(--ink);
+    box-shadow: 0 20px 60px rgba(10, 20, 30, .25);
+  }
+  dialog#detail::backdrop { background: rgba(12, 20, 28, .45); }
+  .d-head {
+    position: sticky; top: 0; background: var(--surface);
+    display: flex; gap: 12px; align-items: flex-start;
+    padding: 18px 20px 12px; border-bottom: 1px solid var(--line);
+  }
+  .d-head h2 { font: 600 24px/1.2 var(--serif); margin: 0; flex: 1; text-wrap: balance; }
+  .d-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+  .d-tags .short { margin-left: 0; }
+  .d-close { all: unset; cursor: pointer; flex: none; font-size: 18px; line-height: 1; padding: 6px 10px;
+    border: 1px solid var(--line); border-radius: 6px; color: var(--ink); background: var(--surface); }
+  .d-close:hover { color: var(--accent); border-color: var(--accent); }
+  .d-close:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .d-body { padding: 16px 20px 22px; display: grid; gap: 16px; }
+  .d-desc { font-size: 16.5px; line-height: 1.55; margin: 0; max-width: 62ch; }
+  dl.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px 20px; margin: 0; }
+  dl.facts dt { font: 600 11.5px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  dl.facts dd { margin: 2px 0 0; }
+  dl.facts dd.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+  .d-link { color: var(--accent); overflow-wrap: anywhere; }
+  .d-status { color: var(--muted); margin: 0; }
   .short {
     display: inline-block; margin-left: 8px;
     font: 500 12px var(--mono); color: var(--accent); background: var(--accent-soft);
@@ -128,7 +163,7 @@
   <div class="crumb"><a href="index.html">← Majors Directory</a></div>
   <header class="top">
     <h1>Largest US Universities</h1>
-    <p class="lede">Accredited four-year colleges and universities in the United States, including universities that teach mostly online. Search by name, abbreviation, or city, filter by state or type, or click a column heading to sort.</p>
+    <p class="lede">Accredited four-year colleges and universities in the United States, including universities that teach mostly online. Click a college to see its details. Search by name, abbreviation, or city, filter by state or type, or click a column heading to sort.</p>
     <div class="stats" id="stats"></div>
   </header>
 
@@ -140,6 +175,17 @@
   </div>
 
   <div id="out"></div>
+
+  <dialog id="detail" aria-labelledby="d-title">
+    <div class="d-head">
+      <div style="flex:1;min-width:0">
+        <h2 id="d-title"></h2>
+        <div class="d-tags" id="d-tags"></div>
+      </div>
+      <button type="button" class="d-close" id="d-close" aria-label="Close">✕</button>
+    </div>
+    <div class="d-body" id="d-body"></div>
+  </dialog>
 
   <p class="note">Undergraduate enrollment is the fall 2023 headcount reported to the U.S. Department of Education (IPEDS), rounded to the nearest thousand. Campus-based universities are counted at their main campus. Online-first universities are included when they are accredited and award bachelor's degrees; they are marked Online, and their headquarters city is shown. Arizona State University's online programs are listed separately from its campuses. Colleges that mostly award two-year degrees are left out.</p>
 </div>
@@ -203,7 +249,7 @@
         return d * sortDir || a.name.localeCompare(b.name);
       });
     tbody.innerHTML = rows.length ? rows.map(c => `<tr>
-        <td><span class="cname">${esc(c.name)}</span>${c.short_name ? `<span class="short">${esc(c.short_name)}</span>` : ""}${c.online_first ? `<span class="short online">Online</span>` : ""}</td>
+        <td><button type="button" class="cname" data-college="${c.id}">${esc(c.name)}</button>${c.short_name ? `<span class="short">${esc(c.short_name)}</span>` : ""}${c.online_first ? `<span class="short online">Online</span>` : ""}</td>
         <td class="loc">${esc(c.city)}, ${esc(c.state)}</td>
         <td class="num">${fmt(c.undergraduates)}</td>
       </tr>`).join("")
@@ -216,6 +262,59 @@
       ? `${rows.length} of ${colleges.length} colleges · ${fmt(sum)} undergraduates`
       : "";
   }
+
+  // College details: each colleges/<id>.json is fetched only when that college is opened.
+  const dialog = document.getElementById("detail");
+  const dTitle = document.getElementById("d-title");
+  const dTags = document.getElementById("d-tags");
+  const dBody = document.getElementById("d-body");
+  const detailCache = new Map();
+  let openId = null;
+
+  function loadCollege(id) {
+    if (!detailCache.has(id)) {
+      const p = fetch(`colleges/${id}.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+      p.catch(() => detailCache.delete(id));
+      detailCache.set(id, p);
+    }
+    return detailCache.get(id);
+  }
+
+  const safeUrl = u => /^https?:\/\//i.test(u) ? u : "";
+  const facts = c => `<dl class="facts">
+      <div><dt>Location</dt><dd>${esc(c.city)}, ${esc(c.state)}</dd></div>
+      <div><dt>Undergraduates</dt><dd class="num">${fmt(c.undergraduates)}</dd></div>
+      ${c.mascot ? `<div><dt>Mascot</dt><dd>${esc(c.mascot)}</dd></div>` : ""}
+      ${c.homepage_url && safeUrl(c.homepage_url) ? `<div><dt>Website</dt><dd><a class="d-link" href="${esc(c.homepage_url)}" target="_blank" rel="noopener">${esc(c.homepage_url.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a></dd></div>` : ""}
+    </dl>`;
+
+  async function showCollege(id) {
+    const c = colleges.find(x => x.id === id);
+    openId = id;
+    dTitle.textContent = c.name;
+    dTags.innerHTML = (c.short_name ? `<span class="short">${esc(c.short_name)}</span>` : "") +
+      (c.online_first ? `<span class="short online">Online</span>` : "");
+    dTags.hidden = !dTags.innerHTML;
+    dBody.innerHTML = `<p class="d-status">Loading…</p>`;
+    if (!dialog.open) dialog.showModal();
+    try {
+      const d = await loadCollege(id);
+      if (openId !== id) return;
+      dBody.innerHTML = (d.description ? `<p class="d-desc">${esc(d.description)}</p>` : "") + facts(d) +
+        `<p class="d-status">Enrollment: ${esc(d.data_year || "")} undergraduate headcount.</p>`;
+    } catch (e) {
+      if (openId !== id) return;
+      dBody.innerHTML = `<p class="d-status">Couldn't load colleges/${id}.json. Check that the file exists and try again.</p>` + facts(c);
+    }
+  }
+
+  document.getElementById("d-close").onclick = () => dialog.close();
+  dialog.addEventListener("click", e => { if (e.target === dialog) dialog.close(); });
+  dialog.addEventListener("close", () => { openId = null; });
+  tbody.addEventListener("click", e => {
+    const b = e.target.closest("button[data-college]");
+    if (b) showCollege(Number(b.dataset.college));
+  });
 
   document.querySelector("thead").addEventListener("click", e => {
     const th = e.target.closest("th[data-key]");
