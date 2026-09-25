@@ -115,6 +115,11 @@
   .short.online { color: var(--muted); background: transparent; border: 1px solid var(--line); font-family: var(--sans); }
   td.loc { color: var(--muted); white-space: nowrap; }
   td.num { font-size: 14px; white-space: nowrap; }
+  tr.divider td {
+    background: var(--bg); color: var(--muted); font-size: 12.5px;
+    padding-block: 12px; border-top: 1px solid var(--line);
+  }
+  tr.divider:hover td { background: var(--bg); }
 
   .note { color: var(--muted); font-size: 13px; max-width: 70ch; margin-top: 16px; }
   .notice {
@@ -129,7 +134,7 @@
   <div class="crumb"><a href="index.html">← Majors Directory</a></div>
   <header class="top">
     <h1>Largest US Universities</h1>
-    <p class="lede">The 100 accredited four-year colleges and universities in the United States with the most undergraduates, including universities that teach mostly online. Search by name, abbreviation, or city, filter by state or type, or click a column heading to sort.</p>
+    <p class="lede">The 100 accredited four-year colleges and universities in the United States with the most undergraduates, including universities that teach mostly online, plus the smaller schools in the US News top 50 national universities. Search by name, abbreviation, or city, filter the list, or click a column heading to sort.</p>
     <div class="stats" id="stats"></div>
   </header>
 
@@ -137,12 +142,13 @@
     <input type="search" id="q" placeholder="Search colleges, e.g. UCLA or Texas…" aria-label="Search colleges" autocomplete="off">
     <select id="state" aria-label="Filter by state"><option value="">All states</option></select>
     <select id="type" aria-label="Filter by type"><option value="">Campus and online</option><option value="campus">Campus-based</option><option value="online">Online-first</option></select>
+    <select id="list" aria-label="Filter by list"><option value="">Both lists</option><option value="enrollment_top_100">Top 100 by enrollment</option><option value="us_news_top_50">Added from US News top 50</option></select>
     <div class="result" id="result" aria-live="polite"></div>
   </div>
 
   <div id="out"></div>
 
-  <p class="note">Undergraduate enrollment is approximate, rounded to the nearest thousand, for fall 2023. Campus-based universities are counted at their main campus. Online-first universities are included when they are accredited and award bachelor's degrees; they are marked Online, and their headquarters city is shown. Arizona State University's online programs are listed separately from its campuses. Colleges that mostly award two-year degrees are left out.</p>
+  <p class="note">Undergraduate enrollment is approximate, rounded to the nearest thousand, for fall 2023. Campus-based universities are counted at their main campus. Online-first universities are included when they are accredited and award bachelor's degrees; they are marked Online, and their headquarters city is shown. Arizona State University's online programs are listed separately from its campuses. Colleges that mostly award two-year degrees are left out. Schools numbered 101 and up are not in the top 100 by enrollment; they are listed because they rank in the top 50 of the US News Best National Universities (2026 edition), and they are numbered by enrollment among themselves.</p>
 </div>
 
 <script>
@@ -165,9 +171,10 @@
   const total = colleges.reduce((s, c) => s + c.undergraduates, 0);
   const states = [...new Set(colleges.map(c => c.state))].sort();
   const online = colleges.filter(c => c.online_first).length;
+  const added = colleges.filter(c => c.included_for === "us_news_top_50").length;
   const years = [...new Set(colleges.map(c => c.data_year))].join(", ");
   document.getElementById("stats").textContent =
-    `${colleges.length} universities · ${fmt(total)} undergraduates · ${states.length} states · ${online} online-first · ${years}`;
+    `${colleges.length} universities · ${fmt(total)} undergraduates · ${states.length} states · ${online} online-first · ${added} added from US News · ${years}`;
 
   const stateSel = document.getElementById("state");
   for (const s of states) {
@@ -189,6 +196,7 @@
   const tbody = document.getElementById("rows");
   const q = document.getElementById("q");
   const typeSel = document.getElementById("type");
+  const listSel = document.getElementById("list");
 
   const val = (c, key) => key === "location" ? `${c.state} ${c.city}` : c[key];
 
@@ -198,13 +206,17 @@
     const rows = colleges
       .filter(c => !st || c.state === st)
       .filter(c => !typeSel.value || (typeSel.value === "online") === c.online_first)
+      .filter(c => !listSel.value || c.included_for === listSel.value)
       .filter(c => !term || [c.name, c.short_name || "", c.city, c.state].join(" ").toLowerCase().includes(term))
       .sort((a, b) => {
         const x = val(a, sortKey), y = val(b, sortKey);
         const d = typeof x === "number" ? x - y : x.localeCompare(y);
         return (d || a.id - b.id) * sortDir;
       });
-    tbody.innerHTML = rows.length ? rows.map(c => `<tr>
+    const showDivider = sortKey === "id" && sortDir === 1 && !listSel.value;
+    const divider = `<tr class="divider"><td colspan="4">Added because they rank in the US News top 50 national universities (2026 edition)</td></tr>`;
+    let dividerShown = false;
+    tbody.innerHTML = rows.length ? rows.map(c => `${showDivider && !dividerShown && c.included_for === "us_news_top_50" && (dividerShown = true) ? divider : ""}<tr>
         <td class="rank">${c.id}</td>
         <td><span class="cname">${esc(c.name)}</span>${c.short_name ? `<span class="short">${esc(c.short_name)}</span>` : ""}${c.online_first ? `<span class="short online">Online</span>` : ""}</td>
         <td class="loc">${esc(c.city)}, ${esc(c.state)}</td>
@@ -215,7 +227,7 @@
       th.setAttribute("aria-sort", th.dataset.key === sortKey ? (sortDir === 1 ? "ascending" : "descending") : "none");
     }
     const sum = rows.reduce((s, c) => s + c.undergraduates, 0);
-    document.getElementById("result").textContent = (term || st || typeSel.value)
+    document.getElementById("result").textContent = (term || st || typeSel.value || listSel.value)
       ? `${rows.length} of ${colleges.length} colleges · ${fmt(sum)} undergraduates`
       : "";
   }
@@ -231,6 +243,7 @@
   q.addEventListener("input", render);
   stateSel.addEventListener("change", render);
   typeSel.addEventListener("change", render);
+  listSel.addEventListener("change", render);
   render();
 })();
 </script>
