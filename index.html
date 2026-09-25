@@ -1,0 +1,303 @@
+<meta charset="utf-8">
+<title>Majors Directory</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --bg: #f3f5f7;
+    --surface: #ffffff;
+    --ink: #17212b;
+    --muted: #5b6875;
+    --line: #d7dee4;
+    --accent: #23624b;
+    --accent-soft: #e2eee8;
+    --mark: #fbe7a6;
+    --serif: "Newsreader", Georgia, "Times New Roman", serif;
+    --sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --bg: #12181d;
+      --surface: #1a2229;
+      --ink: #e6ebef;
+      --muted: #97a4af;
+      --line: #2c3740;
+      --accent: #7cc6a6;
+      --accent-soft: #1f3a2f;
+      --mark: #5b4a12;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #12181d;
+    --surface: #1a2229;
+    --ink: #e6ebef;
+    --muted: #97a4af;
+    --line: #2c3740;
+    --accent: #7cc6a6;
+    --accent-soft: #1f3a2f;
+    --mark: #5b4a12;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 15px/1.5 var(--sans);
+    padding-inline: 16px;
+  }
+  .wrap { max-width: 960px; margin: 0 auto; padding-block: 32px 64px; }
+
+  header.top { display: grid; gap: 6px; margin-bottom: 20px; }
+  h1 {
+    font: 600 clamp(28px, 5vw, 40px)/1.1 var(--serif);
+    margin: 0;
+    text-wrap: balance;
+  }
+  .lede { color: var(--muted); margin: 0; max-width: 62ch; }
+  .stats { font-family: var(--mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  .toolbar {
+    position: sticky;
+    top: env(safe-area-inset-top, 0px);
+    z-index: 5;
+    display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+    padding-block: 12px;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 8px;
+  }
+  .toolbar input[type="search"] {
+    flex: 1 1 240px; min-width: 0;
+    font: inherit; color: var(--ink);
+    background: var(--surface);
+    border: 1px solid var(--line); border-radius: 6px;
+    padding: 8px 12px;
+  }
+  button {
+    font: 500 13px var(--sans);
+    color: var(--ink); background: var(--surface);
+    border: 1px solid var(--line); border-radius: 6px;
+    padding: 8px 12px; cursor: pointer;
+  }
+  button:hover { border-color: var(--accent); color: var(--accent); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .result { font-size: 13px; color: var(--muted); width: 100%; font-variant-numeric: tabular-nums; }
+
+  nav.jump { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 8px; }
+  nav.jump a {
+    font-size: 12.5px; text-decoration: none; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px;
+  }
+  nav.jump a:hover { color: var(--accent); border-color: var(--accent); }
+
+  section.school { margin-top: 28px; scroll-margin-top: 120px; }
+  section.school > h2 {
+    font: 600 22px/1.2 var(--serif); margin: 0 0 8px;
+    display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+  }
+  section.school > h2 small {
+    font: 400 12px var(--mono); color: var(--muted); letter-spacing: .02em;
+  }
+
+  details.dept {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    margin-bottom: 6px;
+    scroll-margin-top: 120px;
+  }
+  details.dept[open] { border-color: var(--accent); }
+  details.dept.flash { box-shadow: 0 0 0 3px var(--accent-soft); }
+  summary {
+    list-style: none; cursor: pointer;
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 14px;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::before {
+    content: ""; flex: none;
+    width: 7px; height: 7px;
+    border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
+    transform: rotate(-45deg); transition: transform .15s;
+  }
+  details[open] > summary::before { transform: rotate(45deg); border-color: var(--accent); }
+  .dname { font-weight: 600; flex: 1; min-width: 0; }
+  .id { font: 12px var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+  .count {
+    font: 500 12px var(--mono); font-variant-numeric: tabular-nums;
+    background: var(--accent-soft); color: var(--accent);
+    border-radius: 999px; padding: 1px 9px; flex: none;
+  }
+
+  ul.majors {
+    list-style: none; margin: 0; padding: 4px 14px 14px 31px;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 2px 20px;
+  }
+  ul.majors li { padding: 5px 0; border-top: 1px solid var(--line); }
+  .mrow { display: flex; gap: 8px; align-items: baseline; }
+  .mrow .id { flex: none; min-width: 3.2em; }
+  .also { display: flex; flex-wrap: wrap; gap: 4px; margin: 3px 0 0 calc(3.2em + 8px); }
+  .also span { font-size: 11.5px; color: var(--muted); align-self: center; }
+  .also button {
+    font-size: 11.5px; padding: 1px 7px; border-radius: 4px;
+    color: var(--muted); background: transparent; text-align: left;
+  }
+  mark { background: var(--mark); color: inherit; border-radius: 2px; }
+
+  .notice {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 6px;
+    padding: 16px 18px; max-width: 62ch;
+  }
+  .notice code { font-family: var(--mono); font-size: 13px; }
+  .empty { color: var(--muted); padding: 24px 0; }
+
+  @media (prefers-reduced-motion: reduce) { summary::before { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Majors Directory</h1>
+    <p class="lede">Undergraduate majors at a typical four-year university, grouped by the department that usually houses them. Open a department to see its majors. A major that commonly sits in more than one department appears under each, with links to the others.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Search majors or departments…" aria-label="Search majors or departments" autocomplete="off">
+    <button type="button" id="expand">Expand all</button>
+    <button type="button" id="collapse">Collapse all</button>
+    <div class="result" id="result" aria-live="polite"></div>
+  </div>
+
+  <nav class="jump" id="jump" aria-label="Schools"></nav>
+  <main id="list"></main>
+</div>
+
+<script>
+(async function () {
+  const list = document.getElementById("list");
+  let depData, majors;
+  try {
+    [depData, majors] = await Promise.all([
+      fetch("departments.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+      fetch("majors.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    ]);
+  } catch (e) {
+    list.innerHTML = `<div class="notice"><strong>The data files didn't load.</strong><br>
+      Browsers block <code>fetch()</code> for pages opened straight from disk. From this folder, run
+      <code>python3 -m http.server</code> and open <code>http://localhost:8000</code>.</div>`;
+    return;
+  }
+
+  const { schools, departments } = depData;
+  const deptById = new Map(departments.map(d => [d.id, d]));
+  const majorsByDept = new Map(departments.map(d => [d.id, []]));
+  for (const m of majors) for (const id of m.departmentIds) majorsByDept.get(id)?.push(m);
+  for (const arr of majorsByDept.values()) arr.sort((a, b) => a.name.localeCompare(b.name));
+
+  const shared = majors.filter(m => m.departmentIds.length > 1).length;
+  document.getElementById("stats").textContent =
+    `${schools.length} schools · ${departments.length} departments · ${majors.length} majors · ${shared} shared across departments`;
+
+  const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const highlight = (text, q) => {
+    if (!q) return esc(text);
+    const i = text.toLowerCase().indexOf(q);
+    if (i < 0) return esc(text);
+    return esc(text.slice(0, i)) + "<mark>" + esc(text.slice(i, i + q.length)) + "</mark>" + esc(text.slice(i + q.length));
+  };
+
+  // Build static structure once; filtering toggles visibility.
+  const deptEls = new Map();
+  const jump = document.getElementById("jump");
+  for (const s of schools) {
+    const depts = departments.filter(d => d.schoolId === s.id);
+    const sec = document.createElement("section");
+    sec.className = "school";
+    sec.id = "school-" + s.id;
+    const h = document.createElement("h2");
+    h.innerHTML = `${esc(s.name)} <small>SCHOOL ${s.id} · ${depts.length} DEPTS</small>`;
+    sec.appendChild(h);
+    for (const d of depts) {
+      const el = document.createElement("details");
+      el.className = "dept";
+      el.id = "dept-" + d.id;
+      el.innerHTML = `<summary><span class="dname"></span><span class="id">#${d.id}</span><span class="count"></span></summary><ul class="majors"></ul>`;
+      sec.appendChild(el);
+      deptEls.set(d.id, { el, sec, d });
+    }
+    list.appendChild(sec);
+    const a = document.createElement("a");
+    a.href = "#" + sec.id;
+    a.textContent = s.name;
+    jump.appendChild(a);
+  }
+
+  function render(q) {
+    let shownMajors = new Set(), shownDepts = 0;
+    for (const { el, sec, d } of deptEls.values()) {
+      const deptMatch = q && d.name.toLowerCase().includes(q);
+      const all = majorsByDept.get(d.id);
+      const items = !q || deptMatch ? all : all.filter(m => m.name.toLowerCase().includes(q));
+      el.hidden = items.length === 0;
+      if (el.hidden) continue;
+      shownDepts++;
+      items.forEach(m => shownMajors.add(m.id));
+      el.querySelector(".dname").innerHTML = highlight(d.name, q);
+      el.querySelector(".count").textContent = q && !deptMatch ? `${items.length} of ${all.length}` : all.length;
+      el.querySelector("ul").innerHTML = items.map(m => {
+        const others = m.departmentIds.filter(id => id !== d.id);
+        const also = others.length
+          ? `<div class="also"><span>Also in</span>${others.map(id =>
+              `<button type="button" data-goto="${id}">${esc(deptById.get(id).name)}</button>`).join("")}</div>`
+          : "";
+        return `<li><div class="mrow"><span class="id">#${m.id}</span><span>${highlight(m.name, q)}</span></div>${also}</li>`;
+      }).join("");
+      if (q) el.open = true;
+    }
+    for (const sec of list.querySelectorAll("section.school")) {
+      sec.hidden = ![...sec.querySelectorAll("details.dept")].some(e => !e.hidden);
+    }
+    let empty = list.querySelector(".empty");
+    if (!shownDepts) {
+      if (!empty) { empty = document.createElement("p"); empty.className = "empty"; list.appendChild(empty); }
+      empty.textContent = `No majors or departments match “${q}”.`;
+    } else if (empty) empty.remove();
+    document.getElementById("result").textContent = q
+      ? `${shownMajors.size} majors in ${shownDepts} departments match “${q}”`
+      : "";
+  }
+
+  const input = document.getElementById("q");
+  let prevQ = "";
+  input.addEventListener("input", () => {
+    const q = input.value.trim().toLowerCase();
+    if (!q && prevQ) deptEls.forEach(({ el }) => (el.open = false));
+    prevQ = q;
+    render(q);
+  });
+  document.getElementById("expand").onclick = () => deptEls.forEach(({ el }) => { if (!el.hidden) el.open = true; });
+  document.getElementById("collapse").onclick = () => deptEls.forEach(({ el }) => (el.open = false));
+
+  list.addEventListener("click", e => {
+    const b = e.target.closest("button[data-goto]");
+    if (!b) return;
+    const id = Number(b.dataset.goto);
+    if (deptEls.get(id).el.hidden) { input.value = ""; prevQ = ""; render(""); }
+    const { el } = deptEls.get(id);
+    el.open = true;
+    el.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+    el.classList.add("flash");
+    setTimeout(() => el.classList.remove("flash"), 1200);
+  });
+
+  render("");
+  // Open the first department so the page shows majors at rest.
+  deptEls.values().next().value.el.open = true;
+})();
+</script>
